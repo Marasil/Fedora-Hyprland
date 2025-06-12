@@ -1,0 +1,77 @@
+[33m[NOTE][m Setting up the login screen.
+Backing up /etc/sddm.conf
+Appended Current=simple_sddm_2 under [Theme] in /etc/sddm.conf
+Font directories:
+	/home/krzysiek/.local/share/fonts
+	/usr/local/share/fonts
+	/usr/share/fonts
+	/home/krzysiek/.fonts
+	/home/krzysiek/.local/share/fonts/JetBrainsMonoNerd
+	/usr/local/share/fonts/JetBrainsMonoNerd
+	/usr/share/fonts/abattis-cantarell-vf-fonts
+	/usr/share/fonts/adobe-source-code-pro-fonts
+	/usr/share/fonts/adwaita-mono-fonts
+	/usr/share/fonts/adwaita-sans-fonts
+	/usr/share/fonts/dejavu-sans-fonts
+	/usr/share/fonts/fira-code
+	/usr/share/fonts/fontawesome
+	/usr/share/fonts/fontawesome-6-brands-fonts
+	/usr/share/fonts/fontawesome-6-free-fonts
+	/usr/share/fonts/google-droid-sans-fonts
+	/usr/share/fonts/google-noto-color-emoji-fonts
+	/usr/share/fonts/google-noto-emoji-fonts
+	/usr/share/fonts/google-noto-sans-cjk-fonts
+	/usr/share/fonts/google-noto-vf
+	/usr/share/fonts/jetbrains-mono-fonts
+	/usr/share/fonts/open-sans
+	/usr/share/fonts/urw-base35
+	/usr/local/share/fonts/JetBrainsMonoNerd/JetBrainsMonoNerd
+/home/krzysiek/.local/share/fonts: caching, new cache contents: 0 fonts, 1 dirs
+/home/krzysiek/.local/share/fonts/JetBrainsMonoNerd: caching, new cache contents: 96 fonts, 0 dirs
+/usr/local/share/fonts: caching, new cache contents: 0 fonts, 1 dirs
+/usr/local/share/fonts/JetBrainsMonoNerd: caching, new cache contents: 0 fonts, 1 dirs
+/usr/local/share/fonts/JetBrainsMonoNerd/JetBrainsMonoNerd: caching, new cache contents: 96 fonts, 0 dirs
+/usr/share/fonts: caching, new cache contents: 0 fonts, 17 dirs
+/usr/share/fonts/abattis-cantarell-vf-fonts: caching, new cache contents: 6 fonts, 0 dirs
+/usr/share/fonts/adobe-source-code-pro-fonts: caching, new cache contents: 14 fonts, 0 dirs
+/usr/share/fonts/adwaita-mono-fonts: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/adwaita-sans-fonts: caching, new cache contents: 20 fonts, 0 dirs
+/usr/share/fonts/dejavu-sans-fonts: caching, new cache contents: 9 fonts, 0 dirs
+/usr/share/fonts/fira-code: caching, new cache contents: 6 fonts, 0 dirs
+/usr/share/fonts/fontawesome: caching, new cache contents: 2 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-brands-fonts: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-free-fonts: caching, new cache contents: 2 fonts, 0 dirs
+/usr/share/fonts/google-droid-sans-fonts: caching, new cache contents: 16 fonts, 0 dirs
+/usr/share/fonts/google-noto-color-emoji-fonts: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-emoji-fonts: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-sans-cjk-fonts: caching, new cache contents: 45 fonts, 0 dirs
+/usr/share/fonts/google-noto-vf: caching, new cache contents: 25 fonts, 0 dirs
+/usr/share/fonts/jetbrains-mono-fonts: caching, new cache contents: 16 fonts, 0 dirs
+/usr/share/fonts/open-sans: caching, new cache contents: 10 fonts, 0 dirs
+/usr/share/fonts/urw-base35: caching, new cache contents: 70 fonts, 0 dirs
+/home/krzysiek/.fonts: skipping, no such directory
+/home/krzysiek/.local/share/fonts/JetBrainsMonoNerd: skipping, looped directory detected
+/usr/local/share/fonts/JetBrainsMonoNerd: skipping, looped directory detected
+/usr/share/fonts/abattis-cantarell-vf-fonts: skipping, looped directory detected
+/usr/share/fonts/adobe-source-code-pro-fonts: skipping, looped directory detected
+/usr/share/fonts/adwaita-mono-fonts: skipping, looped directory detected
+/usr/share/fonts/adwaita-sans-fonts: skipping, looped directory detected
+/usr/share/fonts/dejavu-sans-fonts: skipping, looped directory detected
+/usr/share/fonts/fira-code: skipping, looped directory detected
+/usr/share/fonts/fontawesome: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-brands-fonts: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-free-fonts: skipping, looped directory detected
+/usr/share/fonts/google-droid-sans-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-color-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-sans-cjk-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-vf: skipping, looped directory detected
+/usr/share/fonts/jetbrains-mono-fonts: skipping, looped directory detected
+/usr/share/fonts/open-sans: skipping, looped directory detected
+/usr/share/fonts/urw-base35: skipping, looped directory detected
+/usr/local/share/fonts/JetBrainsMonoNerd/JetBrainsMonoNerd: skipping, looped directory detected
+/usr/lib/fontconfig/cache: not cleaning unwritable cache directory
+/home/krzysiek/.cache/fontconfig: cleaning cache directory
+/home/krzysiek/.fontconfig: not cleaning non-existent cache directory
+/usr/bin/fc-cache-64: succeeded
+[32m[OK][m - [35mAdditional SDDM Theme[m successfully installed.

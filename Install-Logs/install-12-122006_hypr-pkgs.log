@@ -1,0 +1,2524 @@
+[34m[INFO][m Package aylurs-gtk-shell not installed, skipping.
+[34m[INFO][m Package dunst not installed, skipping.
+[34m[INFO][m Package mako not installed, skipping.
+[34m[INFO][m Package rofi not installed, skipping.
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ bc    x86_64 1.08.1-2.fc42 fedora       236.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 124 KiB. Należy pobrać 124 KiB.
+Po tej operacji zostanie użyte dodatkowo 236 KiB (zainstaluje 236 KiB, usunie 0 B).
+[1/1] bc-0:1.08.1-2.fc42.x86_64         100% | 743.5 KiB/s | 124.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 108.1 KiB/s | 124.2 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |  17.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję bc-0:1.08.1-2.fc42.x86 100% |   1.3 MiB/s | 239.7 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet             Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ grim              x86_64 1.4.1-5.fc42  fedora        45.1 KiB
+Instalowanie zależności:
+ libjpeg-turbo     x86_64 3.1.0-2.fc42  fedora       803.2 KiB
+ libwayland-client x86_64 1.23.1-1.fc42 updates       62.1 KiB
+ pixman            x86_64 0.44.2-2.fc42 fedora       674.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          4 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 573 KiB. Należy pobrać 573 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/4] libwayland-client-0:1.23.1-1.fc42 100% | 210.4 KiB/s |  33.0 KiB |  00m00s
+[2/4] grim-0:1.4.1-5.fc42.x86_64        100% | 139.4 KiB/s |  26.8 KiB |  00m00s
+[3/4] pixman-0:0.44.2-2.fc42.x86_64     100% |   1.3 MiB/s | 277.4 KiB |  00m00s
+[4/4] libjpeg-turbo-0:3.1.0-2.fc42.x86_ 100% | 884.8 KiB/s | 236.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[4/4] Razem                             100% | 426.3 KiB/s | 573.4 KiB |  00m01s
+Wykonywanie transakcji
+[1/6] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   4.0   B |  00m00s
+[2/6] Przygotowywanie transakcji        100% |  70.0   B/s |   4.0   B |  00m00s
+[3/6] Instaluję libwayland-client-0:1. 100% |   6.2 MiB/s |  63.3 KiB |  00m00s
+[4/6] Instaluję pixman-0:0.44.2-2.fc42 100% |  82.4 MiB/s | 675.3 KiB |  00m00s
+[5/6] Instaluję libjpeg-turbo-0:3.1.0- 100% |  98.3 MiB/s | 804.9 KiB |  00m00s
+[6/6] Instaluję grim-0:1.4.1-5.fc42.x8 100% | 307.5 KiB/s |  46.7 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet            Arch.  Wersja            Repozytorium   Rozmiar
+Instalowanie:
+ gvfs             x86_64 1.57.2-1.fc42     updates        1.2 MiB
+Instalowanie zależności:
+ avahi-glib       x86_64 0.9~rc2-2.fc42    fedora        23.6 KiB
+ fontconfig       x86_64 2.16.0-2.fc42     fedora       764.7 KiB
+ gcr-libs         x86_64 4.4.0.1-1.fc42    fedora         1.8 MiB
+ gvfs-client      x86_64 1.57.2-1.fc42     updates        4.1 MiB
+ libbluray        x86_64 1.3.4-9.fc42      fedora       397.6 KiB
+ libcdio          x86_64 2.1.0-14.fc42     fedora       623.5 KiB
+ libcdio-paranoia x86_64 10.2+2.0.2-4.fc42 fedora       190.8 KiB
+ libudfread       x86_64 1.1.2-11.fc42     fedora        65.9 KiB
+ wsdd             noarch 0.8-3.fc42        fedora        96.7 KiB
+ xml-common       noarch 0.6.3-66.fc42     fedora        78.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         11 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 9 MiB (zainstaluje 9 MiB, usunie 0 B).
+[ 1/11] avahi-glib-0:0.9~rc2-2.fc42.x86 100% |  60.6 KiB/s |  15.3 KiB |  00m00s
+[ 2/11] gvfs-0:1.57.2-1.fc42.x86_64     100% |   1.1 MiB/s | 355.1 KiB |  00m00s
+[ 3/11] gvfs-client-0:1.57.2-1.fc42.x86 100% |   1.9 MiB/s | 767.1 KiB |  00m00s
+[ 4/11] gcr-libs-0:4.4.0.1-1.fc42.x86_6 100% |   1.2 MiB/s | 486.9 KiB |  00m00s
+[ 5/11] libcdio-paranoia-0:10.2+2.0.2-4 100% | 842.2 KiB/s |  87.6 KiB |  00m00s
+[ 6/11] libudfread-0:1.1.2-11.fc42.x86_ 100% |   2.2 MiB/s |  35.5 KiB |  00m00s
+[ 7/11] libcdio-0:2.1.0-14.fc42.x86_64  100% |   1.3 MiB/s | 248.7 KiB |  00m00s
+[ 8/11] xml-common-0:0.6.3-66.fc42.noar 100% |   1.4 MiB/s |  31.2 KiB |  00m00s
+[ 9/11] wsdd-0:0.8-3.fc42.noarch        100% | 468.8 KiB/s |  39.8 KiB |  00m00s
+[10/11] fontconfig-0:2.16.0-2.fc42.x86_ 100% |   2.5 MiB/s | 272.0 KiB |  00m00s
+[11/11] libbluray-0:1.3.4-9.fc42.x86_64 100% |   5.8 KiB/s | 174.2 KiB |  00m30s
+>>> Curl error (28): Timeout was reached for https://ftp.icm.edu.pl/pub/Linux/fe
+--------------------------------------------------------------------------------
+[11/11] Razem                           100% |  80.4 KiB/s |   2.5 MiB |  00m31s
+Wykonywanie transakcji
+[ 1/13] Weryfikowanie plików pakietu   100% |   1.0 KiB/s |  11.0   B |  00m00s
+[ 2/13] Przygotowywanie transakcji      100% | 174.0   B/s |  11.0   B |  00m00s
+[ 3/13] Instaluję libcdio-0:2.1.0-14.f 100% |  18.1 MiB/s | 631.8 KiB |  00m00s
+[ 4/13] Instaluję libcdio-paranoia-0:1 100% |   5.9 MiB/s | 194.0 KiB |  00m00s
+[ 5/13] Instaluję xml-common-0:0.6.3-6 100% |   8.8 MiB/s |  81.1 KiB |  00m00s
+[ 6/13] Instaluję fontconfig-0:2.16.0- 100% | 700.6 KiB/s | 783.9 KiB |  00m01s
+[ 7/13] Instaluję libudfread-0:1.1.2-1 100% |   5.1 MiB/s |  67.3 KiB |  00m00s
+[ 8/13] Instaluję libbluray-0:1.3.4-9. 100% |   3.7 MiB/s | 399.2 KiB |  00m00s
+[ 9/13] Instaluję wsdd-0:0.8-3.fc42.no 100% |   1.1 MiB/s |  98.3 KiB |  00m00s
+[10/13] Instaluję gcr-libs-0:4.4.0.1-1 100% |  37.7 MiB/s |   1.8 MiB |  00m00s
+[11/13] Instaluję avahi-glib-0:0.9~rc2 100% |   4.8 MiB/s |  24.4 KiB |  00m00s
+[12/13] Instaluję gvfs-client-0:1.57.2 100% | 137.2 MiB/s |   4.1 MiB |  00m00s
+[13/13] Instaluję gvfs-0:1.57.2-1.fc42 100% |   1.2 MiB/s |   1.2 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet    Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ gvfs-mtp x86_64 1.57.2-1.fc42 updates      165.9 KiB
+Instalowanie zależności:
+ libmtp   x86_64 1.1.19-9.fc42 fedora       505.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 214 KiB. Należy pobrać 214 KiB.
+Po tej operacji zostanie użyte dodatkowo 671 KiB (zainstaluje 671 KiB, usunie 0 B).
+[1/2] gvfs-mtp-0:1.57.2-1.fc42.x86_64   100% | 657.5 KiB/s |  60.5 KiB |  00m00s
+[2/2] libmtp-0:1.1.19-9.fc42.x86_64     100% | 882.6 KiB/s | 153.6 KiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 273.0 KiB/s | 214.1 KiB |  00m01s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  32.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję libmtp-0:1.1.19-9.fc42 100% |  35.4 MiB/s | 507.2 KiB |  00m00s
+[4/4] Instaluję gvfs-mtp-0:1.57.2-1.fc 100% | 162.2 KiB/s | 167.7 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                                   Arch.  Wersja                            Repozytorium                                        Rozmiar
+Instalowanie:
+ hyprpolkitagent                         x86_64 0.1.2-2.fc42                      copr:copr.fedorainfracloud.org:solopasha:hyprland 194.0 KiB
+Instalowanie zależności:
+ OpenCL-ICD-Loader                       x86_64 3.0.6-2.20241023git5907ac1.fc42   fedora                                             70.7 KiB
+ SDL3                                    x86_64 3.2.12-1.fc42                     updates                                             2.7 MiB
+ adwaita-cursor-theme                    noarch 48.0-1.fc42                       fedora                                             11.4 MiB
+ adwaita-icon-theme                      noarch 48.0-1.fc42                       fedora                                              1.2 MiB
+ adwaita-icon-theme-legacy               noarch 46.2-3.fc42                       fedora                                              2.1 MiB
+ alsa-lib                                x86_64 1.2.14-2.fc42                     updates                                             1.4 MiB
+ aribb24                                 x86_64 1.0.3^20160216git5e9be27-2.fc42   fedora                                             81.8 KiB
+ at-spi2-atk                             x86_64 2.56.2-1.fc42                     updates                                           275.6 KiB
+ at-spi2-core                            x86_64 2.56.2-1.fc42                     updates                                             1.5 MiB
+ atk                                     x86_64 2.56.2-1.fc42                     updates                                           248.6 KiB
+ bluez-libs                              x86_64 5.81-2.fc42                       updates                                           198.3 KiB
+ cairo                                   x86_64 1.18.2-3.fc42                     fedora                                              1.8 MiB
+ cairo-gobject                           x86_64 1.18.2-3.fc42                     fedora                                             35.1 KiB
+ cdparanoia-libs                         x86_64 10.2-47.fc42                      fedora                                            117.5 KiB
+ codec2                                  x86_64 1.2.0-6.fc42                      fedora                                              1.4 MiB
+ colord-libs                             x86_64 1.4.7-6.fc42                      fedora                                            850.7 KiB
+ cpuinfo                                 x86_64 24.09.26-2.git1e83a2f.fc42.1      updates                                           107.0 KiB
+ cups-filesystem                         noarch 1:2.4.12-3.fc42                   updates                                             0.0   B
+ cups-libs                               x86_64 1:2.4.12-3.fc42                   updates                                           618.7 KiB
+ double-conversion                       x86_64 3.3.1-1.fc42                      fedora                                             97.6 KiB
+ exempi                                  x86_64 2.6.4-7.fc42                      fedora                                              1.4 MiB
+ exiv2-libs                              x86_64 0.28.5-1.fc42                     fedora                                              2.8 MiB
+ fdk-aac                                 x86_64 2.0.3-4.fc42                      rpmfusion-nonfree                                   1.5 MiB
+ ffmpeg-libs                             x86_64 7.1.1-6.fc42                      rpmfusion-free-updates                             21.2 MiB
+ fftw-libs-double                        x86_64 3.3.10-15.fc42                    fedora                                              3.4 MiB
+ fftw-libs-single                        x86_64 3.3.10-15.fc42                    fedora                                              3.6 MiB
+ flac-libs                               x86_64 1.4.3-6.fc42                      fedora                                            698.1 KiB
+ fribidi                                 x86_64 1.0.16-2.fc42                     fedora                                            194.3 KiB
+ fuse-common                             x86_64 3.16.2-5.fc42                     fedora                                             38.0   B
+ fuse3                                   x86_64 3.16.2-5.fc42                     fedora                                            129.7 KiB
+ game-music-emu                          x86_64 0.6.3-17.fc42                     fedora                                            331.4 KiB
+ gdk-pixbuf2                             x86_64 2.42.12-10.fc42                   fedora                                              2.5 MiB
+ gdk-pixbuf2-modules                     x86_64 2.42.12-10.fc42                   fedora                                             63.4 KiB
+ geoclue2                                x86_64 2.7.2-2.fc42                      fedora                                            395.7 KiB
+ giflib                                  x86_64 5.2.2-6.fc42                      updates                                           112.1 KiB
+ glx-utils                               x86_64 9.0.0-9.fc42                      fedora                                            418.6 KiB
+ gpgmepp                                 x86_64 1.24.2-1.fc42                     fedora                                            429.2 KiB
+ graphene                                x86_64 1.10.6-10.fc42                    fedora                                            162.4 KiB
+ gsm                                     x86_64 1.0.22-8.fc42                     fedora                                             68.8 KiB
+ gstreamer1                              x86_64 1.26.2-1.fc42                     updates                                             5.3 MiB
+ gstreamer1-plugins-base                 x86_64 1.26.2-1.fc42                     updates                                             7.3 MiB
+ gtk-update-icon-cache                   x86_64 3.24.49-2.fc42                    fedora                                             62.2 KiB
+ gtk3                                    x86_64 3.24.49-2.fc42                    fedora                                             23.1 MiB
+ hicolor-icon-theme                      noarch 0.17-20.fc42                      fedora                                             72.2 KiB
+ highway                                 x86_64 1.2.0-5.fc42                      fedora                                              4.4 MiB
+ hyprland-qt-support                     x86_64 0.1.0-5.fc42                      copr:copr.fedorainfracloud.org:solopasha:hyprland 413.0 KiB
+ hyprlang                                x86_64 0.6.3-1.fc42                      copr:copr.fedorainfracloud.org:solopasha:hyprland 260.8 KiB
+ hyprutils                               x86_64 0.7.1-1.fc42                      copr:copr.fedorainfracloud.org:solopasha:hyprland 245.8 KiB
+ ilbc                                    x86_64 3.0.4-13.fc42                     fedora                                             95.4 KiB
+ inih-cpp                                x86_64 58-3.fc42                         fedora                                             27.9 KiB
+ iso-codes                               noarch 4.17.0-2.fc42                     fedora                                             20.3 MiB
+ jbigkit-libs                            x86_64 2.1-31.fc42                       fedora                                            121.4 KiB
+ lame-libs                               x86_64 3.100-19.fc42                     fedora                                              1.2 MiB
+ lcms2                                   x86_64 2.16-5.fc42                       fedora                                            437.7 KiB
+ leptonica                               x86_64 1.85.0-2.fc42                     fedora                                              3.0 MiB
+ libICE                                  x86_64 1.1.2-2.fc42                      fedora                                            198.4 KiB
+ libSM                                   x86_64 1.2.5-2.fc42                      fedora                                            105.0 KiB
+ libX11                                  x86_64 1.8.11-1.fc42                     fedora                                              1.3 MiB
+ libX11-common                           noarch 1.8.11-1.fc42                     fedora                                              1.2 MiB
+ libX11-xcb                              x86_64 1.8.11-1.fc42                     fedora                                             10.9 KiB
+ libXau                                  x86_64 1.0.12-2.fc42                     fedora                                             76.9 KiB
+ libXcomposite                           x86_64 0.4.6-5.fc42                      fedora                                             44.4 KiB
+ libXcursor                              x86_64 1.2.3-2.fc42                      fedora                                             57.4 KiB
+ libXdamage                              x86_64 1.1.6-5.fc42                      fedora                                             43.6 KiB
+ libXext                                 x86_64 1.3.6-3.fc42                      fedora                                             90.0 KiB
+ libXfixes                               x86_64 6.0.1-5.fc42                      fedora                                             30.2 KiB
+ libXft                                  x86_64 2.3.8-8.fc42                      fedora                                            168.4 KiB
+ libXi                                   x86_64 1.8.2-2.fc42                      fedora                                             84.6 KiB
+ libXinerama                             x86_64 1.1.5-8.fc42                      fedora                                             19.0 KiB
+ libXrandr                               x86_64 1.5.4-5.fc42                      fedora                                             55.8 KiB
+ libXrender                              x86_64 0.9.12-2.fc42                     fedora                                             50.0 KiB
+ libXtst                                 x86_64 1.2.5-2.fc42                      fedora                                             33.5 KiB
+ libXv                                   x86_64 1.0.13-2.fc42                     fedora                                             30.0 KiB
+ libXxf86vm                              x86_64 1.1.6-2.fc42                      fedora                                             29.2 KiB
+ libaom                                  x86_64 3.12.0-1.fc42                     fedora                                              5.0 MiB
+ libaribcaption                          x86_64 1.1.1-2.fc42                      fedora                                            248.5 KiB
+ libass                                  x86_64 0.17.3-3.fc42                     fedora                                            290.1 KiB
+ libasyncns                              x86_64 0.8-30.fc42                       fedora                                             59.5 KiB
+ libavif                                 x86_64 1.1.1-1.fc42                      fedora                                            213.9 KiB
+ libbs2b                                 x86_64 3.1.0-35.fc42                     fedora                                             72.0 KiB
+ libcamera                               x86_64 0.4.0-4.fc42                      fedora                                              1.9 MiB
+ libcanberra                             x86_64 0.30-37.fc42                      fedora                                            286.4 KiB
+ libchromaprint                          x86_64 1.5.1-24.fc42                     fedora                                             64.5 KiB
+ libcloudproviders                       x86_64 0.3.6-1.fc42                      fedora                                            124.3 KiB
+ libcue                                  x86_64 2.3.0-11.fc42                     fedora                                             89.8 KiB
+ libdatrie                               x86_64 0.2.13-11.fc42                    fedora                                             57.8 KiB
+ libdav1d                                x86_64 1.5.1-1.fc42                      fedora                                              1.7 MiB
+ libdecor                                x86_64 0.2.3-5.fc42                      updates                                           165.2 KiB
+ libdovi                                 x86_64 3.3.1-2.fc42                      fedora                                            593.7 KiB
+ libebur128                              x86_64 1.2.6-12.fc42                     fedora                                             39.3 KiB
+ libepoxy                                x86_64 1.5.10-9.fc42                     fedora                                              1.1 MiB
+ libexif                                 x86_64 0.6.25-1.fc42                     fedora                                              2.7 MiB
+ libgexiv2                               x86_64 0.14.5-1.fc42                     updates                                           278.9 KiB
+ libglvnd                                x86_64 1:1.7.0-7.fc42                    fedora                                            530.2 KiB
+ libglvnd-egl                            x86_64 1:1.7.0-7.fc42                    fedora                                             68.7 KiB
+ libglvnd-glx                            x86_64 1:1.7.0-7.fc42                    fedora                                            609.2 KiB
+ libglvnd-opengl                         x86_64 1:1.7.0-7.fc42                    fedora                                            148.8 KiB
+ libgsf                                  x86_64 1.14.53-3.fc42                    fedora                                            969.5 KiB
+ libgusb                                 x86_64 0.4.9-3.fc42                      fedora                                            162.0 KiB
+ libgxps                                 x86_64 0.3.2-10.fc42                     fedora                                            192.1 KiB
+ libimobiledevice                        x86_64 1.3.0^20240916gited9703d-5.fc42   fedora                                            304.7 KiB
+ libimobiledevice-glue                   x86_64 1.3.1-2.fc42                      fedora                                            122.8 KiB
+ libinput                                x86_64 1.28.1-1.fc42                     updates                                           587.3 KiB
+ libiptcdata                             x86_64 1.0.5-21.fc42                     fedora                                            171.9 KiB
+ libjxl                                  x86_64 1:0.11.1-2.fc42                   fedora                                              3.0 MiB
+ liblc3                                  x86_64 1.1.3-1.fc42                      fedora                                            170.8 KiB
+ libldac                                 x86_64 2.0.2.3-17.fc42                   fedora                                             82.2 KiB
+ liblerc                                 x86_64 4.0.0-8.fc42                      fedora                                            636.1 KiB
+ libmodplug                              x86_64 1:0.8.9.0-27.fc42                 fedora                                            355.2 KiB
+ libmysofa                               x86_64 1.3.3-2.fc42                      fedora                                             78.7 KiB
+ libnotify                               x86_64 0.8.6-1.fc42                      updates                                           122.2 KiB
+ libogg                                  x86_64 2:1.3.5-11.fc42                   fedora                                             45.3 KiB
+ libopenmpt                              x86_64 0.7.13-3.fc42                     fedora                                              1.6 MiB
+ libosinfo                               x86_64 1.12.0-2.fc42                     fedora                                              1.2 MiB
+ libplacebo                              x86_64 7.349.0-5.fc42                    fedora                                              1.1 MiB
+ libplist                                x86_64 2.6.0-2.fc42                      fedora                                            237.0 KiB
+ librsvg2                                x86_64 2.60.0-1.fc42                     fedora                                              5.0 MiB
+ libsamplerate                           x86_64 0.2.2-10.fc42                     fedora                                              1.4 MiB
+ libsbc                                  x86_64 2.0-6.fc42                        fedora                                             93.4 KiB
+ libshaderc                              x86_64 2025.2-1.fc42                     updates                                             3.6 MiB
+ libsmbclient                            x86_64 2:4.22.2-1.fc42                   updates                                           164.7 KiB
+ libsndfile                              x86_64 1.2.2-8.fc42                      fedora                                            550.0 KiB
+ libsodium                               x86_64 1.0.20-4.fc42                     fedora                                            389.1 KiB
+ libthai                                 x86_64 0.1.29-10.fc42                    fedora                                            783.4 KiB
+ libtheora                               x86_64 1:1.1.1-39.fc42                   fedora                                            481.3 KiB
+ libtiff                                 x86_64 4.7.0-3.fc42                      fedora                                            619.1 KiB
+ libtinysparql                           x86_64 3.9.2-1.fc42                      updates                                             1.3 MiB
+ libunibreak                             x86_64 6.1-3.fc42                        fedora                                            139.2 KiB
+ libunwind                               x86_64 1.8.1-2.fc42                      fedora                                            194.1 KiB
+ libusbmuxd                              x86_64 2.1.0-3.fc42                      fedora                                             75.2 KiB
+ libva                                   x86_64 2.22.0-4.fc42                     fedora                                            329.4 KiB
+ libvdpau                                x86_64 1.5-9.fc42                        fedora                                             20.7 KiB
+ libvisual                               x86_64 1:0.4.1-5.fc41                    fedora                                            451.4 KiB
+ libvmaf                                 x86_64 3.0.0-3.fc42                      fedora                                            827.0 KiB
+ libvorbis                               x86_64 1:1.3.7-12.fc42                   fedora                                            833.4 KiB
+ libvpl                                  x86_64 1:2.14.0-2.fc42                   fedora                                            413.6 KiB
+ libvpx                                  x86_64 1.15.0-3.fc42                     updates                                             3.3 MiB
+ libwacom                                x86_64 2.15.0-1.fc42                     fedora                                             97.6 KiB
+ libwacom-data                           noarch 2.15.0-1.fc42                     fedora                                              1.4 MiB
+ libwayland-cursor                       x86_64 1.23.1-1.fc42                     updates                                            37.3 KiB
+ libwayland-egl                          x86_64 1.23.1-1.fc42                     updates                                            12.4 KiB
+ libwayland-server                       x86_64 1.23.1-1.fc42                     updates                                            78.6 KiB
+ libwebp                                 x86_64 1.5.0-2.fc42                      fedora                                            947.6 KiB
+ libxcb                                  x86_64 1.17.0-5.fc42                     fedora                                              1.1 MiB
+ libxkbcommon-x11                        x86_64 1.8.1-1.fc42                      fedora                                             35.5 KiB
+ libxshmfence                            x86_64 1.3.2-6.fc42                      fedora                                             12.4 KiB
+ libxslt                                 x86_64 1.1.43-1.fc42                     fedora                                            456.1 KiB
+ libyuv                                  x86_64 0-0.56.20240704git96bbdb5.fc42    fedora                                            683.6 KiB
+ lilv-libs                               x86_64 0.24.26-2.fc42                    fedora                                            115.3 KiB
+ llvm-filesystem                         x86_64 20.1.6-1.fc42                     updates                                             0.0   B
+ llvm-libs                               x86_64 20.1.6-1.fc42                     updates                                           137.1 MiB
+ lm_sensors-libs                         x86_64 3.6.0-22.fc42                     fedora                                             85.8 KiB
+ lpcnetfreedv                            x86_64 0.5-8.fc42                        fedora                                             14.8 MiB
+ lttng-ust                               x86_64 2.13.8-4.fc42                     fedora                                              1.1 MiB
+ mesa-dri-drivers                        x86_64 25.0.7-2.fc42                     updates                                           164.5 MiB
+ mesa-filesystem                         x86_64 25.0.7-2.fc42                     updates                                             3.6 KiB
+ mesa-libEGL                             x86_64 25.0.7-2.fc42                     updates                                           335.2 KiB
+ mesa-libGL                              x86_64 25.0.7-2.fc42                     updates                                           420.1 KiB
+ mesa-libgbm                             x86_64 25.0.7-2.fc42                     updates                                            19.7 KiB
+ mpg123-libs                             x86_64 1.32.10-1.fc42                    updates                                           814.0 KiB
+ mtdev                                   x86_64 1.1.6-10.fc42                     fedora                                             29.2 KiB
+ numactl-libs                            x86_64 2.0.19-2.fc42                     fedora                                             52.9 KiB
+ opencore-amr                            x86_64 0.1.6-8.fc42                      fedora                                            348.7 KiB
+ openh264                                x86_64 2.4.1-2.fc42                      fedora-cisco-openh264                               1.1 MiB
+ openjpeg                                x86_64 2.5.3-6.fc42                      fedora                                            451.8 KiB
+ openpgm                                 x86_64 5.3.128-4.fc42                    fedora                                            316.3 KiB
+ opus                                    x86_64 1.5.2-2.fc42                      fedora                                            427.5 KiB
+ orc                                     x86_64 0.4.41-1.fc42                     fedora                                            726.3 KiB
+ osinfo-db                               noarch 20250124-1.fc42                   fedora                                              3.9 MiB
+ osinfo-db-tools                         x86_64 1.12.0-2.fc42                     fedora                                            190.9 KiB
+ pango                                   x86_64 1.56.3-1.fc42                     fedora                                              1.0 MiB
+ pcre2-utf16                             x86_64 10.45-1.fc42                      fedora                                            626.3 KiB
+ pipewire-jack-audio-connection-kit-libs x86_64 1.4.5-1.fc42                      updates                                           496.6 KiB
+ pipewire-libs                           x86_64 1.4.5-1.fc42                      updates                                             8.6 MiB
+ polkit-qt6-1                            x86_64 0.200.0-3.fc42                    fedora                                            287.7 KiB
+ poppler                                 x86_64 25.02.0-1.fc42                    fedora                                              3.7 MiB
+ poppler-data                            noarch 0.4.11-9.fc42                     fedora                                             12.3 MiB
+ poppler-glib                            x86_64 25.02.0-1.fc42                    fedora                                            612.3 KiB
+ pulseaudio-libs                         x86_64 17.0-5.fc42                       fedora                                              3.4 MiB
+ qt6-filesystem                          x86_64 6.9.1-1.fc42                      updates                                             0.0   B
+ qt6-qtbase                              x86_64 6.9.1-1.fc42                      updates                                            12.9 MiB
+ qt6-qtbase-common                       noarch 6.9.1-1.fc42                      updates                                            74.0   B
+ qt6-qtbase-gui                          x86_64 6.9.1-1.fc42                      updates                                            23.7 MiB
+ qt6-qtdeclarative                       x86_64 6.9.1-1.fc42                      updates                                            49.0 MiB
+ qt6-qtsvg                               x86_64 6.9.1-1.fc42                      updates                                           873.1 KiB
+ rav1e-libs                              x86_64 0.7.1-5.fc42                      fedora                                              3.0 MiB
+ rtkit                                   x86_64 0.11-66.fc42                      fedora                                            138.1 KiB
+ rubberband-libs                         x86_64 4.0.0-3.fc42                      fedora                                            459.1 KiB
+ sdl2-compat                             x86_64 2.32.56-1.fc42                    updates                                           399.7 KiB
+ serd                                    x86_64 0.32.4-1.fc42                     fedora                                            135.0 KiB
+ snappy                                  x86_64 1.2.1-4.fc42                      fedora                                             71.3 KiB
+ sord                                    x86_64 0.16.18-1.fc42                    fedora                                             85.7 KiB
+ sound-theme-freedesktop                 noarch 0.8-23.fc42                       fedora                                            460.4 KiB
+ soxr                                    x86_64 0.1.3-18.fc42                     fedora                                            191.5 KiB
+ speex                                   x86_64 1.2.0-19.fc42                     fedora                                            128.5 KiB
+ spirv-tools-libs                        x86_64 2025.2-2.fc42                     updates                                             5.8 MiB
+ sratom                                  x86_64 0.6.18-1.fc42                     fedora                                             44.7 KiB
+ srt-libs                                x86_64 1.5.4-2.fc42                      fedora                                            997.8 KiB
+ svt-av1-libs                            x86_64 2.3.0-1.fc42                      fedora                                              5.6 MiB
+ tesseract-libs                          x86_64 5.5.0-4.fc42                      fedora                                              3.3 MiB
+ totem-pl-parser                         x86_64 3.26.6-12.fc42                    fedora                                            308.3 KiB
+ tslib                                   x86_64 1.23-1.fc42                       fedora                                            416.1 KiB
+ twolame-libs                            x86_64 0.4.0-6.fc42                      fedora                                            165.5 KiB
+ uchardet                                x86_64 0.0.8-7.fc42                      fedora                                            275.6 KiB
+ upower-libs                             x86_64 1.90.9-4.fc42                     updates                                           170.6 KiB
+ vid.stab                                x86_64 1.1.1-5.fc42                      fedora                                             92.2 KiB
+ vo-amrwbenc                             x86_64 0.1.3-22.fc42                     fedora                                            153.9 KiB
+ vulkan-loader                           x86_64 1.4.313.0-1.fc42                  updates                                           532.4 KiB
+ vvenc-libs                              x86_64 1.13.1-3.fc42                     rpmfusion-free-updates                              3.3 MiB
+ webrtc-audio-processing                 x86_64 1.3-5.fc42                        fedora                                              1.4 MiB
+ wireplumber                             x86_64 0.5.8-1.fc42                      fedora                                            373.4 KiB
+ wireplumber-libs                        x86_64 0.5.8-1.fc42                      fedora                                              1.2 MiB
+ x264-libs                               x86_64 0.164-16.20231001git31e19f92.fc42 rpmfusion-free                                      2.7 MiB
+ x265-libs                               x86_64 4.1-2.fc42                        rpmfusion-free                                     16.7 MiB
+ xcb-util                                x86_64 0.4.1-7.fc42                      fedora                                             26.3 KiB
+ xcb-util-cursor                         x86_64 0.1.5-3.fc42                      fedora                                             23.2 KiB
+ xcb-util-image                          x86_64 0.4.1-7.fc42                      fedora                                             22.2 KiB
+ xcb-util-keysyms                        x86_64 0.4.1-7.fc42                      fedora                                             16.7 KiB
+ xcb-util-renderutil                     x86_64 0.3.10-7.fc42                     fedora                                             24.4 KiB
+ xcb-util-wm                             x86_64 0.4.2-7.fc42                      fedora                                             81.2 KiB
+ xdg-desktop-portal                      x86_64 1.20.3-1.fc42                     updates                                             1.8 MiB
+ xprop                                   x86_64 1.2.8-3.fc42                      fedora                                             54.7 KiB
+ xvidcore                                x86_64 1.3.7-13.fc42                     fedora                                            878.4 KiB
+ zeromq                                  x86_64 4.3.5-21.fc42                     fedora                                            890.1 KiB
+ zimg                                    x86_64 3.0.5-3.fc41                      fedora                                            821.4 KiB
+ zix                                     x86_64 0.6.2-1.fc42                      fedora                                             58.7 KiB
+ zvbi                                    x86_64 0.2.43-2.fc42                     fedora                                              1.2 MiB
+Instalowanie słabych zależności:
+ avif-pixbuf-loader                      x86_64 1.1.1-1.fc42                      fedora                                             19.5 KiB
+ dconf                                   x86_64 0.40.0-15.fc42                    fedora                                            315.4 KiB
+ exiv2                                   x86_64 0.28.5-1.fc42                     fedora                                             12.2 MiB
+ intel-mediasdk                          x86_64 23.2.2-7.fc42                     fedora                                             22.5 MiB
+ intel-vpl-gpu-rt                        x86_64 25.1.3-1.fc42                     updates                                             8.2 MiB
+ jxl-pixbuf-loader                       x86_64 1:0.11.1-2.fc42                   fedora                                             29.2 KiB
+ libcamera-ipa                           x86_64 0.4.0-4.fc42                      fedora                                            548.2 KiB
+ libcanberra-gtk3                        x86_64 0.30-37.fc42                      fedora                                             78.7 KiB
+ localsearch                             x86_64 3.9.0-1.fc42                      fedora                                              3.8 MiB
+ low-memory-monitor                      x86_64 2.1-12.fc42                       fedora                                             66.0 KiB
+ mesa-va-drivers                         x86_64 25.0.7-2.fc42                     updates                                            92.0   B
+ mesa-vulkan-drivers                     x86_64 25.0.7-2.fc42                     updates                                           114.8 MiB
+ pipewire                                x86_64 1.4.5-1.fc42                      updates                                           426.2 KiB
+ pipewire-alsa                           x86_64 1.4.5-1.fc42                      updates                                           158.0 KiB
+ pipewire-jack-audio-connection-kit      x86_64 1.4.5-1.fc42                      updates                                            30.0   B
+ pipewire-plugin-libcamera               x86_64 1.4.5-1.fc42                      updates                                           146.5 KiB
+ pipewire-pulseaudio                     x86_64 1.4.5-1.fc42                      updates                                           436.1 KiB
+ qt6-qttranslations                      noarch 6.9.1-1.fc42                      updates                                            14.0 MiB
+ qt6-qtwayland                           x86_64 6.9.1-1.fc42                      updates                                             5.0 MiB
+ rsvg-pixbuf-loader                      x86_64 2.60.0-1.fc42                     fedora                                            345.0 KiB
+ tinysparql                              x86_64 3.9.2-1.fc42                      updates                                             2.5 MiB
+ upower                                  x86_64 1.90.9-4.fc42                     updates                                           275.8 KiB
+ usbmuxd                                 x86_64 1.1.1^20240915git0b1b233-4.fc42   fedora                                            149.1 KiB
+ vmaf-models                             noarch 3.0.0-3.fc42                      fedora                                              4.9 MiB
+ webp-pixbuf-loader                      x86_64 0.2.7-3.fc42                      fedora                                             28.6 KiB
+ xdg-desktop-portal-gtk                  x86_64 1.15.3-1.fc42                     fedora                                            469.2 KiB
+ xdriinfo                                x86_64 1.0.7-4.fc42                      fedora                                             29.9 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                        255 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 218 MiB. Należy pobrać 218 MiB.
+Po tej operacji zostanie użyte dodatkowo 878 MiB (zainstaluje 878 MiB, usunie 0 B).
+[  1/255] hyprland-qt-support-0:0.1.0-5 100% |   1.2 MiB/s |  99.1 KiB |  00m00s
+[  2/255] hyprpolkitagent-0:0.1.2-2.fc4 100% |   1.0 MiB/s |  87.2 KiB |  00m00s
+[  3/255] qt6-qtbase-common-0:6.9.1-1.f 100% | 139.0 KiB/s |  12.5 KiB |  00m00s
+[  4/255] polkit-qt6-1-0:0.200.0-3.fc42 100% | 805.3 KiB/s |  91.0 KiB |  00m00s
+[  5/255] pcre2-utf16-0:10.45-1.fc42.x8 100% |   2.7 MiB/s | 241.9 KiB |  00m00s
+[  6/255] double-conversion-0:3.3.1-1.f 100% | 541.5 KiB/s |  52.0 KiB |  00m00s
+[  7/255] libICE-0:1.1.2-2.fc42.x86_64  100% |   1.9 MiB/s |  78.8 KiB |  00m00s
+[  8/255] libSM-0:1.2.5-2.fc42.x86_64   100% |   1.6 MiB/s |  44.4 KiB |  00m00s
+[  9/255] qt6-qtsvg-0:6.9.1-1.fc42.x86_ 100% |   1.3 MiB/s | 293.4 KiB |  00m00s
+[ 10/255] libX11-xcb-0:1.8.11-1.fc42.x8 100% | 449.3 KiB/s |  11.7 KiB |  00m00s
+[ 11/255] libglvnd-egl-1:1.7.0-7.fc42.x 100% |   1.0 MiB/s |  36.3 KiB |  00m00s
+[ 12/255] libX11-0:1.8.11-1.fc42.x86_64 100% |   2.8 MiB/s | 655.3 KiB |  00m00s
+[ 13/255] libglvnd-opengl-1:1.7.0-7.fc4 100% |   1.1 MiB/s |  37.4 KiB |  00m00s
+[ 14/255] libglvnd-glx-1:1.7.0-7.fc42.x 100% |   1.9 MiB/s | 133.1 KiB |  00m00s
+[ 15/255] libxkbcommon-x11-0:1.8.1-1.fc 100% |   1.0 MiB/s |  22.3 KiB |  00m00s
+[ 16/255] mtdev-0:1.1.6-10.fc42.x86_64  100% | 812.7 KiB/s |  21.1 KiB |  00m00s
+[ 17/255] tslib-0:1.23-1.fc42.x86_64    100% | 943.9 KiB/s | 153.9 KiB |  00m00s
+[ 18/255] xcb-util-cursor-0:0.1.5-3.fc4 100% |   1.1 MiB/s |  18.3 KiB |  00m00s
+[ 19/255] xcb-util-image-0:0.4.1-7.fc42 100% | 894.8 KiB/s |  18.8 KiB |  00m00s
+[ 20/255] xcb-util-keysyms-0:0.4.1-7.fc 100% | 201.4 KiB/s |  14.1 KiB |  00m00s
+[ 21/255] xcb-util-renderutil-0:0.3.10- 100% | 954.7 KiB/s |  17.2 KiB |  00m00s
+[ 22/255] xcb-util-wm-0:0.4.2-7.fc42.x8 100% | 757.8 KiB/s |  30.3 KiB |  00m00s
+[ 23/255] libxcb-0:1.17.0-5.fc42.x86_64 100% | 544.4 KiB/s | 239.0 KiB |  00m00s
+[ 24/255] libglvnd-1:1.7.0-7.fc42.x86_6 100% |   1.3 MiB/s | 114.4 KiB |  00m00s
+[ 25/255] libXext-0:1.3.6-3.fc42.x86_64 100% |   1.7 MiB/s |  39.3 KiB |  00m00s
+[ 26/255] libXau-0:1.0.12-2.fc42.x86_64 100% |   2.1 MiB/s |  33.6 KiB |  00m00s
+[ 27/255] libX11-common-0:1.8.11-1.fc42 100% |   1.0 MiB/s | 176.1 KiB |  00m00s
+[ 28/255] xcb-util-0:0.4.1-7.fc42.x86_6 100% | 902.1 KiB/s |  18.0 KiB |  00m00s
+[ 29/255] sdl2-compat-0:2.32.56-1.fc42. 100% |   1.1 MiB/s | 134.9 KiB |  00m00s
+[ 30/255] mesa-libGL-0:25.0.7-2.fc42.x8 100% | 968.1 KiB/s | 161.7 KiB |  00m00s
+[ 31/255] SDL3-0:3.2.12-1.fc42.x86_64   100% |   1.7 MiB/s |   1.0 MiB |  00m01s
+[ 32/255] libXxf86vm-0:1.1.6-2.fc42.x86 100% | 558.0 KiB/s |  17.9 KiB |  00m00s
+[ 33/255] mesa-filesystem-0:25.0.7-2.fc 100% | 614.1 KiB/s |  20.9 KiB |  00m00s
+[ 34/255] libxshmfence-0:1.3.2-6.fc42.x 100% | 737.8 KiB/s |  13.3 KiB |  00m00s
+[ 35/255] lm_sensors-libs-0:3.6.0-22.fc 100% | 940.6 KiB/s |  40.4 KiB |  00m00s
+[ 36/255] mesa-libgbm-0:25.0.7-2.fc42.x 100% | 898.4 KiB/s |  27.0 KiB |  00m00s
+[ 37/255] mesa-libEGL-0:25.0.7-2.fc42.x 100% |   1.6 MiB/s | 139.0 KiB |  00m00s
+[ 38/255] cups-libs-1:2.4.12-3.fc42.x86 100% |   1.2 MiB/s | 261.9 KiB |  00m00s
+[ 39/255] cups-filesystem-1:2.4.12-3.fc 100% | 425.0 KiB/s |  13.6 KiB |  00m00s
+[ 40/255] libinput-0:1.28.1-1.fc42.x86_ 100% | 990.9 KiB/s | 231.9 KiB |  00m00s
+[ 41/255] libwacom-0:2.15.0-1.fc42.x86_ 100% | 879.5 KiB/s |  47.5 KiB |  00m00s
+[ 42/255] qt6-qtbase-0:6.9.1-1.fc42.x86 100% |   1.6 MiB/s |   4.1 MiB |  00m03s
+[ 43/255] glx-utils-0:9.0.0-9.fc42.x86_ 100% |   1.1 MiB/s |  71.1 KiB |  00m00s
+[ 44/255] libwacom-data-0:2.15.0-1.fc42 100% |   2.1 MiB/s | 334.0 KiB |  00m00s
+[ 45/255] qt6-filesystem-0:6.9.1-1.fc42 100% | 359.0 KiB/s |  10.8 KiB |  00m00s
+[ 46/255] libwayland-server-0:1.23.1-1. 100% | 545.7 KiB/s |  41.5 KiB |  00m00s
+[ 47/255] llvm-filesystem-0:20.1.6-1.fc 100% | 650.7 KiB/s |  14.3 KiB |  00m00s
+[ 48/255] spirv-tools-libs-0:2025.2-2.f 100% |   2.5 MiB/s |   1.5 MiB |  00m01s
+[ 49/255] hyprlang-0:0.6.3-1.fc42.x86_6 100% |   2.0 MiB/s | 114.9 KiB |  00m00s
+[ 50/255] hyprutils-0:0.7.1-1.fc42.x86_ 100% |   3.0 MiB/s | 111.2 KiB |  00m00s
+[ 51/255] libdecor-0:0.2.3-5.fc42.x86_6 100% |   1.5 MiB/s |  58.0 KiB |  00m00s
+[ 52/255] libwayland-cursor-0:1.23.1-1. 100% | 724.9 KiB/s |  18.8 KiB |  00m00s
+[ 53/255] cairo-0:1.18.2-3.fc42.x86_64  100% |   1.6 MiB/s | 731.8 KiB |  00m00s
+[ 54/255] qt6-qtbase-gui-0:6.9.1-1.fc42 100% |   1.8 MiB/s |   7.7 MiB |  00m04s
+[ 55/255] pango-0:1.56.3-1.fc42.x86_64  100% |   1.7 MiB/s | 348.3 KiB |  00m00s
+[ 56/255] libXrender-0:0.9.12-2.fc42.x8 100% |   1.5 MiB/s |  26.9 KiB |  00m00s
+[ 57/255] adwaita-icon-theme-0:48.0-1.f 100% |   1.6 MiB/s | 399.2 KiB |  00m00s
+[ 58/255] cairo-gobject-0:1.18.2-3.fc42 100% | 787.4 KiB/s |  17.3 KiB |  00m00s
+[ 59/255] colord-libs-0:1.4.7-6.fc42.x8 100% |   1.1 MiB/s | 231.1 KiB |  00m00s
+[ 60/255] fribidi-0:1.0.16-2.fc42.x86_6 100% |   1.2 MiB/s |  53.6 KiB |  00m00s
+[ 61/255] gdk-pixbuf2-0:2.42.12-10.fc42 100% |   1.2 MiB/s | 490.6 KiB |  00m00s
+[ 62/255] gdk-pixbuf2-modules-0:2.42.12 100% | 798.0 KiB/s |  27.9 KiB |  00m00s
+[ 63/255] gtk-update-icon-cache-0:3.24. 100% | 865.7 KiB/s |  33.8 KiB |  00m00s
+[ 64/255] hicolor-icon-theme-0:0.17-20. 100% |   1.3 MiB/s |  65.7 KiB |  00m00s
+[ 65/255] libXcomposite-0:0.4.6-5.fc42. 100% |   1.2 MiB/s |  24.3 KiB |  00m00s
+[ 66/255] libXcursor-0:1.2.3-2.fc42.x86 100% | 847.5 KiB/s |  31.4 KiB |  00m00s
+[ 67/255] libXdamage-0:1.1.6-5.fc42.x86 100% | 709.2 KiB/s |  23.4 KiB |  00m00s
+[ 68/255] libXfixes-0:6.0.1-5.fc42.x86_ 100% |   1.1 MiB/s |  19.1 KiB |  00m00s
+[ 69/255] libXi-0:1.8.2-2.fc42.x86_64   100% |   1.0 MiB/s |  40.5 KiB |  00m00s
+[ 70/255] libXinerama-0:1.1.5-8.fc42.x8 100% | 890.9 KiB/s |  14.3 KiB |  00m00s
+[ 71/255] libXrandr-0:1.5.4-5.fc42.x86_ 100% | 750.6 KiB/s |  27.8 KiB |  00m00s
+[ 72/255] libcloudproviders-0:0.3.6-1.f 100% | 899.8 KiB/s |  46.8 KiB |  00m00s
+[ 73/255] libepoxy-0:1.5.10-9.fc42.x86_ 100% |   1.2 MiB/s | 229.9 KiB |  00m00s
+[ 74/255] libXft-0:2.3.8-8.fc42.x86_64  100% |   1.5 MiB/s |  72.9 KiB |  00m00s
+[ 75/255] libthai-0:0.1.29-10.fc42.x86_ 100% |   1.2 MiB/s | 211.5 KiB |  00m00s
+[ 76/255] adwaita-cursor-theme-0:48.0-1 100% |   1.3 MiB/s | 379.6 KiB |  00m00s
+[ 77/255] gtk3-0:3.24.49-2.fc42.x86_64  100% |   1.8 MiB/s |   5.8 MiB |  00m03s
+[ 78/255] lcms2-0:2.16-5.fc42.x86_64    100% |   1.6 MiB/s | 184.1 KiB |  00m00s
+[ 79/255] libgusb-0:0.4.9-3.fc42.x86_64 100% |   1.1 MiB/s |  65.3 KiB |  00m00s
+[ 80/255] libtiff-0:4.7.0-3.fc42.x86_64 100% |   1.3 MiB/s | 220.4 KiB |  00m00s
+[ 81/255] libdatrie-0:0.2.13-11.fc42.x8 100% | 924.6 KiB/s |  32.4 KiB |  00m00s
+[ 82/255] jbigkit-libs-0:2.1-31.fc42.x8 100% | 987.3 KiB/s |  53.3 KiB |  00m00s
+[ 83/255] liblerc-0:4.0.0-8.fc42.x86_64 100% |   1.6 MiB/s | 216.7 KiB |  00m00s
+[ 84/255] adwaita-icon-theme-legacy-0:4 100% |   1.6 MiB/s |   2.5 MiB |  00m02s
+[ 85/255] libwebp-0:1.5.0-2.fc42.x86_64 100% |   1.2 MiB/s | 320.6 KiB |  00m00s
+[ 86/255] at-spi2-atk-0:2.56.2-1.fc42.x 100% | 982.8 KiB/s |  86.5 KiB |  00m00s
+[ 87/255] atk-0:2.56.2-1.fc42.x86_64    100% |   1.8 MiB/s |  80.2 KiB |  00m00s
+[ 88/255] libXtst-0:1.2.5-2.fc42.x86_64 100% |   1.0 MiB/s |  20.7 KiB |  00m00s
+[ 89/255] xprop-0:1.2.8-3.fc42.x86_64   100% |   1.2 MiB/s |  35.0 KiB |  00m00s
+[ 90/255] at-spi2-core-0:2.56.2-1.fc42. 100% |   1.9 MiB/s | 382.2 KiB |  00m00s
+[ 91/255] libwayland-egl-0:1.23.1-1.fc4 100% | 724.0 KiB/s |  12.3 KiB |  00m00s
+[ 92/255] xdg-desktop-portal-gtk-0:1.15 100% |   1.0 MiB/s | 143.8 KiB |  00m00s
+[ 93/255] libtinysparql-0:3.9.2-1.fc42. 100% |   1.6 MiB/s | 373.6 KiB |  00m00s
+[ 94/255] qt6-qtdeclarative-0:6.9.1-1.f 100% |   1.5 MiB/s |  12.8 MiB |  00m09s
+[ 95/255] mesa-va-drivers-0:25.0.7-2.fc 100% | 543.5 KiB/s |  19.6 KiB |  00m00s
+[ 96/255] xdriinfo-0:1.0.7-4.fc42.x86_6 100% |   1.0 MiB/s |  21.2 KiB |  00m00s
+[ 97/255] qt6-qttranslations-0:6.9.1-1. 100% |   2.1 MiB/s |   1.9 MiB |  00m01s
+[ 98/255] localsearch-0:3.9.0-1.fc42.x8 100% |   1.4 MiB/s | 932.4 KiB |  00m01s
+[ 99/255] libcue-0:2.3.0-11.fc42.x86_64 100% |   1.1 MiB/s |  35.1 KiB |  00m00s
+[100/255] qt6-qtwayland-0:6.9.1-1.fc42. 100% |   1.2 MiB/s |   1.2 MiB |  00m01s
+[101/255] libgsf-0:1.14.53-3.fc42.x86_6 100% |   1.9 MiB/s | 262.8 KiB |  00m00s
+[102/255] exempi-0:2.6.4-7.fc42.x86_64  100% |   1.7 MiB/s | 583.5 KiB |  00m00s
+[103/255] libgxps-0:0.3.2-10.fc42.x86_6 100% | 884.7 KiB/s |  77.0 KiB |  00m00s
+[104/255] libiptcdata-0:1.0.5-21.fc42.x 100% |   1.4 MiB/s |  60.5 KiB |  00m00s
+[105/255] libexif-0:0.6.25-1.fc42.x86_6 100% |   1.4 MiB/s | 481.1 KiB |  00m00s
+[106/255] poppler-glib-0:25.02.0-1.fc42 100% |   1.2 MiB/s | 201.0 KiB |  00m00s
+[107/255] totem-pl-parser-0:3.26.6-12.f 100% |   1.3 MiB/s | 143.6 KiB |  00m00s
+[108/255] libosinfo-0:1.12.0-2.fc42.x86 100% |   1.5 MiB/s | 317.2 KiB |  00m00s
+[109/255] osinfo-db-tools-0:1.12.0-2.fc 100% |   1.4 MiB/s |  73.2 KiB |  00m00s
+[110/255] libxslt-0:1.1.43-1.fc42.x86_6 100% |   1.4 MiB/s | 181.5 KiB |  00m00s
+[111/255] uchardet-0:0.0.8-7.fc42.x86_6 100% |   1.6 MiB/s | 106.3 KiB |  00m00s
+[112/255] gpgmepp-0:1.24.2-1.fc42.x86_6 100% |   1.5 MiB/s | 143.6 KiB |  00m00s
+[113/255] osinfo-db-0:20250124-1.fc42.n 100% |   1.5 MiB/s | 476.1 KiB |  00m00s
+[114/255] openjpeg-0:2.5.3-6.fc42.x86_6 100% |   1.3 MiB/s | 192.8 KiB |  00m00s
+[115/255] libcanberra-gtk3-0:0.30-37.fc 100% | 926.3 KiB/s |  30.6 KiB |  00m00s
+[116/255] libcanberra-0:0.30-37.fc42.x8 100% |   1.3 MiB/s |  84.1 KiB |  00m00s
+[117/255] libvorbis-1:1.3.7-12.fc42.x86 100% |   1.2 MiB/s | 189.2 KiB |  00m00s
+[118/255] poppler-0:25.02.0-1.fc42.x86_ 100% |   1.7 MiB/s |   1.3 MiB |  00m01s
+[119/255] sound-theme-freedesktop-0:0.8 100% |   1.2 MiB/s | 382.4 KiB |  00m00s
+[120/255] pulseaudio-libs-0:17.0-5.fc42 100% |   1.4 MiB/s | 701.1 KiB |  00m00s
+[121/255] libogg-2:1.3.5-11.fc42.x86_64 100% | 895.8 KiB/s |  33.1 KiB |  00m00s
+[122/255] libasyncns-0:0.8-30.fc42.x86_ 100% | 888.3 KiB/s |  30.2 KiB |  00m00s
+[123/255] libsndfile-0:1.2.2-8.fc42.x86 100% |   1.7 MiB/s | 221.5 KiB |  00m00s
+[124/255] gsm-0:1.0.22-8.fc42.x86_64    100% | 596.5 KiB/s |  35.8 KiB |  00m00s
+[125/255] flac-libs-0:1.4.3-6.fc42.x86_ 100% |   1.6 MiB/s | 274.3 KiB |  00m00s
+[126/255] opus-0:1.5.2-2.fc42.x86_64    100% |   1.3 MiB/s | 236.9 KiB |  00m00s
+[127/255] lame-libs-0:3.100-19.fc42.x86 100% |   1.4 MiB/s | 339.7 KiB |  00m00s
+[128/255] jxl-pixbuf-loader-1:0.11.1-2. 100% | 509.2 KiB/s |  20.4 KiB |  00m00s
+[129/255] dconf-0:0.40.0-15.fc42.x86_64 100% | 995.6 KiB/s | 109.5 KiB |  00m00s
+[130/255] poppler-data-0:0.4.11-9.fc42. 100% |   1.4 MiB/s |   2.0 MiB |  00m01s
+[131/255] webp-pixbuf-loader-0:0.2.7-3. 100% |   1.1 MiB/s |  19.8 KiB |  00m00s
+[132/255] rsvg-pixbuf-loader-0:2.60.0-1 100% |   1.5 MiB/s | 167.8 KiB |  00m00s
+[133/255] libjxl-1:0.11.1-2.fc42.x86_64 100% |   1.8 MiB/s |   1.1 MiB |  00m01s
+[134/255] highway-0:1.2.0-5.fc42.x86_64 100% |   1.0 MiB/s | 625.6 KiB |  00m01s
+[135/255] avif-pixbuf-loader-0:1.1.1-1. 100% | 426.3 KiB/s |  16.2 KiB |  00m00s
+[136/255] libavif-0:1.1.1-1.fc42.x86_64 100% |   1.6 MiB/s | 100.1 KiB |  00m00s
+[137/255] libdav1d-0:1.5.1-1.fc42.x86_6 100% |   2.0 MiB/s | 640.9 KiB |  00m00s
+[138/255] libyuv-0:0-0.56.20240704git96 100% |   1.2 MiB/s | 201.9 KiB |  00m00s
+[139/255] librsvg2-0:2.60.0-1.fc42.x86_ 100% |   1.6 MiB/s |   1.9 MiB |  00m01s
+[140/255] rav1e-libs-0:0.7.1-5.fc42.x86 100% |   1.6 MiB/s |   1.0 MiB |  00m01s
+[141/255] libvmaf-0:3.0.0-3.fc42.x86_64 100% |   1.7 MiB/s | 197.7 KiB |  00m00s
+[142/255] libaom-0:3.12.0-1.fc42.x86_64 100% |   1.3 MiB/s |   1.8 MiB |  00m01s
+[143/255] svt-av1-libs-0:2.3.0-1.fc42.x 100% |   1.9 MiB/s |   2.0 MiB |  00m01s
+[144/255] xdg-desktop-portal-0:1.20.3-1 100% |   1.4 MiB/s | 505.3 KiB |  00m00s
+[145/255] fuse3-0:3.16.2-5.fc42.x86_64  100% |   1.5 MiB/s |  57.4 KiB |  00m00s
+[146/255] fuse-common-0:3.16.2-5.fc42.x 100% | 573.4 KiB/s |   8.6 KiB |  00m00s
+[147/255] cpuinfo-0:24.09.26-2.git1e83a 100% |   1.5 MiB/s |  43.8 KiB |  00m00s
+[148/255] giflib-0:5.2.2-6.fc42.x86_64  100% |   1.8 MiB/s |  52.2 KiB |  00m00s
+[149/255] geoclue2-0:2.7.2-2.fc42.x86_6 100% |   1.4 MiB/s | 144.1 KiB |  00m00s
+[150/255] libunwind-0:1.8.1-2.fc42.x86_ 100% |   1.2 MiB/s |  77.2 KiB |  00m00s
+[151/255] tinysparql-0:3.9.2-1.fc42.x86 100% |   1.0 MiB/s |   1.0 MiB |  00m01s
+[152/255] cdparanoia-libs-0:10.2-47.fc4 100% |   1.1 MiB/s |  54.0 KiB |  00m00s
+[153/255] graphene-0:1.10.6-10.fc42.x86 100% |   2.0 MiB/s |  61.3 KiB |  00m00s
+[154/255] gstreamer1-0:1.26.2-1.fc42.x8 100% |   1.3 MiB/s |   1.6 MiB |  00m01s
+[155/255] libXv-0:1.0.13-2.fc42.x86_64  100% | 980.1 KiB/s |  18.6 KiB |  00m00s
+[156/255] libtheora-1:1.1.1-39.fc42.x86 100% |   1.5 MiB/s | 170.4 KiB |  00m00s
+[157/255] libvisual-1:0.4.1-5.fc41.x86_ 100% |   1.7 MiB/s | 151.3 KiB |  00m00s
+[158/255] orc-0:0.4.41-1.fc42.x86_64    100% |   1.2 MiB/s | 220.5 KiB |  00m00s
+[159/255] gstreamer1-plugins-base-0:1.2 100% |   1.4 MiB/s |   2.3 MiB |  00m02s
+[160/255] libgexiv2-0:0.14.5-1.fc42.x86 100% | 988.9 KiB/s | 100.9 KiB |  00m00s
+[161/255] inih-cpp-0:58-3.fc42.x86_64   100% | 935.5 KiB/s |  18.7 KiB |  00m00s
+[162/255] upower-libs-0:1.90.9-4.fc42.x 100% | 955.7 KiB/s |  58.3 KiB |  00m00s
+[163/255] mpg123-libs-0:1.32.10-1.fc42. 100% |   1.1 MiB/s | 355.5 KiB |  00m00s
+[164/255] exiv2-libs-0:0.28.5-1.fc42.x8 100% |   1.6 MiB/s | 903.7 KiB |  00m01s
+[165/255] libnotify-0:0.8.6-1.fc42.x86_ 100% |   1.2 MiB/s |  52.0 KiB |  00m00s
+[166/255] alsa-lib-0:1.2.14-2.fc42.x86_ 100% |   1.4 MiB/s | 532.4 KiB |  00m00s
+[167/255] iso-codes-0:4.17.0-2.fc42.noa 100% |   1.6 MiB/s |   3.6 MiB |  00m02s
+[168/255] libebur128-0:1.2.6-12.fc42.x8 100% |   1.2 MiB/s |  24.8 KiB |  00m00s
+[169/255] liblc3-0:1.1.3-1.fc42.x86_64  100% |   1.8 MiB/s | 105.2 KiB |  00m00s
+[170/255] libldac-0:2.0.2.3-17.fc42.x86 100% |   1.4 MiB/s |  42.9 KiB |  00m00s
+[171/255] libsbc-0:2.0-6.fc42.x86_64    100% | 864.2 KiB/s |  49.3 KiB |  00m00s
+[172/255] webrtc-audio-processing-0:1.3 100% |   1.5 MiB/s | 537.4 KiB |  00m00s
+[173/255] bluez-libs-0:5.81-2.fc42.x86_ 100% |   1.0 MiB/s |  83.5 KiB |  00m00s
+[174/255] fftw-libs-single-0:3.3.10-15. 100% |   1.3 MiB/s |   1.2 MiB |  00m01s
+[175/255] libsmbclient-2:4.22.2-1.fc42. 100% | 920.0 KiB/s |  79.1 KiB |  00m00s
+[176/255] aribb24-0:1.0.3^20160216git5e 100% | 891.5 KiB/s |  38.3 KiB |  00m00s
+[177/255] pipewire-libs-0:1.4.5-1.fc42. 100% |   1.7 MiB/s |   2.4 MiB |  00m01s
+[178/255] game-music-emu-0:0.6.3-17.fc4 100% |   1.2 MiB/s | 154.4 KiB |  00m00s
+[179/255] ilbc-0:3.0.4-13.fc42.x86_64   100% |   1.5 MiB/s |  56.9 KiB |  00m00s
+[180/255] libaribcaption-0:1.1.1-2.fc42 100% |   1.8 MiB/s | 111.6 KiB |  00m00s
+[181/255] libass-0:0.17.3-3.fc42.x86_64 100% |   1.6 MiB/s | 129.9 KiB |  00m00s
+[182/255] codec2-0:1.2.0-6.fc42.x86_64  100% |   1.3 MiB/s | 644.4 KiB |  00m00s
+[183/255] libbs2b-0:3.1.0-35.fc42.x86_6 100% |   1.2 MiB/s |  29.1 KiB |  00m00s
+[184/255] libchromaprint-0:1.5.1-24.fc4 100% |   1.0 MiB/s |  41.8 KiB |  00m00s
+[185/255] libmysofa-0:1.3.3-2.fc42.x86_ 100% |   1.4 MiB/s |  44.2 KiB |  00m00s
+[186/255] libmodplug-1:0.8.9.0-27.fc42. 100% |   1.8 MiB/s | 178.4 KiB |  00m00s
+[187/255] libplacebo-0:7.349.0-5.fc42.x 100% |   1.6 MiB/s | 431.9 KiB |  00m00s
+[188/255] libva-0:2.22.0-4.fc42.x86_64  100% |   1.0 MiB/s | 116.9 KiB |  00m00s
+[189/255] libvdpau-0:1.5-9.fc42.x86_64  100% | 875.2 KiB/s |  16.6 KiB |  00m00s
+[190/255] libopenmpt-0:0.7.13-3.fc42.x8 100% |   1.6 MiB/s | 718.4 KiB |  00m00s
+[191/255] lilv-libs-0:0.24.26-2.fc42.x8 100% |   1.1 MiB/s |  52.8 KiB |  00m00s
+[192/255] libvpl-1:2.14.0-2.fc42.x86_64 100% |   1.4 MiB/s | 157.1 KiB |  00m00s
+[193/255] opencore-amr-0:0.1.6-8.fc42.x 100% |   1.5 MiB/s | 181.9 KiB |  00m00s
+[194/255] rubberband-libs-0:4.0.0-3.fc4 100% |   1.9 MiB/s | 171.8 KiB |  00m00s
+[195/255] snappy-0:1.2.1-4.fc42.x86_64  100% |   1.3 MiB/s |  39.9 KiB |  00m00s
+[196/255] soxr-0:0.1.3-18.fc42.x86_64   100% |   1.7 MiB/s |  86.8 KiB |  00m00s
+[197/255] speex-0:1.2.0-19.fc42.x86_64  100% |   1.6 MiB/s |  70.8 KiB |  00m00s
+[198/255] srt-libs-0:1.5.4-2.fc42.x86_6 100% | 887.4 KiB/s | 389.6 KiB |  00m00s
+[199/255] twolame-libs-0:0.4.0-6.fc42.x 100% | 881.1 KiB/s |  68.7 KiB |  00m00s
+[200/255] vid.stab-0:1.1.1-5.fc42.x86_6 100% |   1.5 MiB/s |  50.2 KiB |  00m00s
+[201/255] vo-amrwbenc-0:0.1.3-22.fc42.x 100% |   1.8 MiB/s |  82.8 KiB |  00m00s
+[202/255] tesseract-libs-0:5.5.0-4.fc42 100% |   1.7 MiB/s |   1.3 MiB |  00m01s
+[203/255] xvidcore-0:1.3.7-13.fc42.x86_ 100% |   1.5 MiB/s | 267.4 KiB |  00m00s
+[204/255] zimg-0:3.0.5-3.fc41.x86_64    100% |   1.6 MiB/s | 284.9 KiB |  00m00s
+[205/255] zeromq-0:4.3.5-21.fc42.x86_64 100% |   1.6 MiB/s | 468.9 KiB |  00m00s
+[206/255] zvbi-0:0.2.43-2.fc42.x86_64   100% |   1.6 MiB/s | 433.3 KiB |  00m00s
+[207/255] x264-libs-0:0.164-16.20231001 100% |   2.5 MiB/s | 692.0 KiB |  00m00s
+[208/255] x265-libs-0:4.1-2.fc42.x86_64 100% |   2.9 MiB/s |   1.4 MiB |  00m00s
+[209/255] vvenc-libs-0:1.13.1-3.fc42.x8 100% |   1.2 MiB/s |   1.3 MiB |  00m01s
+[210/255] libunibreak-0:6.1-3.fc42.x86_ 100% |   1.0 MiB/s |  34.0 KiB |  00m00s
+[211/255] libdovi-0:3.3.1-2.fc42.x86_64 100% |   1.7 MiB/s | 261.7 KiB |  00m00s
+[212/255] serd-0:0.32.4-1.fc42.x86_64   100% |   1.2 MiB/s |  65.2 KiB |  00m00s
+[213/255] sord-0:0.16.18-1.fc42.x86_64  100% |   1.1 MiB/s |  37.6 KiB |  00m00s
+[214/255] sratom-0:0.6.18-1.fc42.x86_64 100% |   1.3 MiB/s |  24.7 KiB |  00m00s
+[215/255] zix-0:0.6.2-1.fc42.x86_64     100% |   1.1 MiB/s |  33.9 KiB |  00m00s
+[216/255] fftw-libs-double-0:3.3.10-15. 100% |   1.8 MiB/s |   1.1 MiB |  00m01s
+[217/255] libsamplerate-0:0.2.2-10.fc42 100% |   1.2 MiB/s |   1.3 MiB |  00m01s
+[218/255] ffmpeg-libs-0:7.1.1-6.fc42.x8 100% |   1.2 MiB/s |   8.4 MiB |  00m07s
+[219/255] libsodium-0:1.0.20-4.fc42.x86 100% |   1.1 MiB/s | 175.6 KiB |  00m00s
+[220/255] leptonica-0:1.85.0-2.fc42.x86 100% |   1.6 MiB/s |   1.2 MiB |  00m01s
+[221/255] numactl-libs-0:2.0.19-2.fc42. 100% | 868.8 KiB/s |  31.3 KiB |  00m00s
+[222/255] openpgm-0:5.3.128-4.fc42.x86_ 100% |   2.2 MiB/s | 183.1 KiB |  00m00s
+[223/255] vulkan-loader-0:1.4.313.0-1.f 100% | 952.8 KiB/s | 151.5 KiB |  00m00s
+[224/255] lpcnetfreedv-0:0.5-8.fc42.x86 100% |   1.8 MiB/s |   7.3 MiB |  00m04s
+[225/255] libshaderc-0:2025.2-1.fc42.x8 100% |   1.6 MiB/s |   1.1 MiB |  00m01s
+[226/255] OpenCL-ICD-Loader-0:3.0.6-2.2 100% | 972.7 KiB/s |  28.2 KiB |  00m00s
+[227/255] fdk-aac-0:2.0.3-4.fc42.x86_64 100% |   1.0 MiB/s | 759.2 KiB |  00m01s
+[228/255] low-memory-monitor-0:2.1-12.f 100% |   1.2 MiB/s |  34.3 KiB |  00m00s
+[229/255] pipewire-0:1.4.5-1.fc42.x86_6 100% |   1.6 MiB/s | 135.2 KiB |  00m00s
+[230/255] rtkit-0:0.11-66.fc42.x86_64   100% |   1.3 MiB/s |  55.1 KiB |  00m00s
+[231/255] libvpx-0:1.15.0-3.fc42.x86_64 100% |   1.3 MiB/s |   1.2 MiB |  00m01s
+[232/255] openh264-0:2.4.1-2.fc42.x86_6 100% | 546.5 KiB/s | 419.1 KiB |  00m01s
+[233/255] upower-0:1.90.9-4.fc42.x86_64 100% | 618.8 KiB/s | 116.9 KiB |  00m00s
+[234/255] libimobiledevice-0:1.3.0^2024 100% |   1.2 MiB/s | 140.5 KiB |  00m00s
+[235/255] libplist-0:2.6.0-2.fc42.x86_6 100% |   1.2 MiB/s |  97.4 KiB |  00m00s
+[236/255] libusbmuxd-0:2.1.0-3.fc42.x86 100% |   1.1 MiB/s |  37.5 KiB |  00m00s
+[237/255] libimobiledevice-glue-0:1.3.1 100% |   1.1 MiB/s |  53.8 KiB |  00m00s
+[238/255] vmaf-models-0:3.0.0-3.fc42.no 100% |   1.6 MiB/s | 260.0 KiB |  00m00s
+[239/255] exiv2-0:0.28.5-1.fc42.x86_64  100% |   2.2 MiB/s |   2.1 MiB |  00m01s
+[240/255] intel-mediasdk-0:23.2.2-7.fc4 100% |   1.5 MiB/s |   2.7 MiB |  00m02s
+[241/255] wireplumber-0:0.5.8-1.fc42.x8 100% |   1.3 MiB/s | 111.3 KiB |  00m00s
+[242/255] intel-vpl-gpu-rt-0:25.1.3-1.f 100% |   1.3 MiB/s |   2.4 MiB |  00m02s
+[243/255] wireplumber-libs-0:0.5.8-1.fc 100% |   2.0 MiB/s | 390.6 KiB |  00m00s
+[244/255] pipewire-jack-audio-connectio 100% | 615.2 KiB/s |  13.5 KiB |  00m00s
+[245/255] pipewire-alsa-0:1.4.5-1.fc42. 100% |   1.3 MiB/s |  61.6 KiB |  00m00s
+[246/255] pipewire-jack-audio-connectio 100% |   2.4 MiB/s | 145.4 KiB |  00m00s
+[247/255] pipewire-pulseaudio-0:1.4.5-1 100% |   1.6 MiB/s | 211.3 KiB |  00m00s
+[248/255] pipewire-plugin-libcamera-0:1 100% | 964.1 KiB/s |  76.2 KiB |  00m00s
+[249/255] lttng-ust-0:2.13.8-4.fc42.x86 100% |   1.5 MiB/s | 331.4 KiB |  00m00s
+[250/255] usbmuxd-0:1.1.1^20240915git0b 100% |   1.1 MiB/s |  67.2 KiB |  00m00s
+[251/255] libcamera-0:0.4.0-4.fc42.x86_ 100% |   1.5 MiB/s | 605.0 KiB |  00m00s
+[252/255] libcamera-ipa-0:0.4.0-4.fc42. 100% |   1.2 MiB/s | 147.0 KiB |  00m00s
+[253/255] mesa-vulkan-drivers-0:25.0.7- 100% |   2.8 MiB/s |  20.9 MiB |  00m08s
+[254/255] llvm-libs-0:20.1.6-1.fc42.x86 100% |   1.0 MiB/s |  33.5 MiB |  00m33s
+[255/255] mesa-dri-drivers-0:25.0.7-2.f 100% | 949.6 KiB/s |  34.1 MiB |  00m37s
+--------------------------------------------------------------------------------
+[255/255] Razem                         100% |   5.4 MiB/s | 217.6 MiB |  00m40s
+Wykonywanie transakcji
+[2A[  1/256] https://download.copr.fedorai 100% |  38.1 KiB/s |   1.0 KiB |  00m00s
+--------------------------------------------------------------------------------
+[256/256] Razem                         100% |   5.4 MiB/s | 217.6 MiB |  00m40s
+Importowanie klucza OpenPGP 0x2961581B:
+ Identyfikator użytkownika: "solopasha_hyprland (None) <solopasha#hyprland@copr.fedorahosted.org>"
+ Odcisk palca: E4B8A8F1C076DAED866D8F059FFAF9362961581B
+ Od       : https://download.copr.fedorainfracloud.org/results/solopasha/hyprland/pubkey.gpg
+Klucz został pomyślnie zaimportowany.
+Importowanie klucza OpenPGP 0xD651FF2E:
+ Identyfikator użytkownika: "RPM Fusion free repository for Fedora (2020) <rpmfusion-buildsys@lists.rpmfusion.org>"
+ Odcisk palca: E9A491A3DE247814E7E067EAE06F8ECDD651FF2E
+ Od       : file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-42
+Klucz został pomyślnie zaimportowany.
+Importowanie klucza OpenPGP 0x94843C65:
+ Identyfikator użytkownika: "RPM Fusion nonfree repository for Fedora (2020) <rpmfusion-buildsys@lists.rpmfusion.org>"
+ Odcisk palca: 79BDB88F9BBF73910FD4095B6A2AF96194843C65
+ Od       : file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-nonfree-fedora-42
+Klucz został pomyślnie zaimportowany.
+[  1/257] Weryfikowanie plików pakietu 100% | 379.0   B/s | 255.0   B |  00m01s
+[  2/257] Przygotowywanie transakcji    100% |   1.5 KiB/s | 255.0   B |  00m00s
+[  3/257] Instaluję gdk-pixbuf2-0:2.42 100% |  42.8 MiB/s |   2.5 MiB |  00m00s
+[  4/257] Instaluję libX11-xcb-0:1.8.1 100% |   2.9 MiB/s |  11.8 KiB |  00m00s
+[  5/257] Instaluję libogg-2:1.3.5-11. 100% |   9.2 MiB/s |  46.9 KiB |  00m00s
+[  6/257] Instaluję libvorbis-1:1.3.7- 100% | 102.0 MiB/s | 835.9 KiB |  00m00s
+[  7/257] Instaluję libplist-0:2.6.0-2 100% |  11.1 MiB/s | 239.7 KiB |  00m00s
+[  8/257] Instaluję lcms2-0:2.16-5.fc4 100% |  61.3 MiB/s | 439.3 KiB |  00m00s
+[  9/257] Instaluję alsa-lib-0:1.2.14- 100% |  42.5 MiB/s |   1.4 MiB |  00m00s
+[ 10/257] Instaluję libunwind-0:1.8.1- 100% |  27.5 MiB/s | 197.4 KiB |  00m00s
+[ 11/257] Instaluję gstreamer1-0:1.26. 100% | 104.5 MiB/s |   5.3 MiB |  00m00s
+[ 12/257] Instaluję opus-0:1.5.2-2.fc4 100% |  69.8 MiB/s | 428.6 KiB |  00m00s
+[ 13/257] Instaluję libwebp-0:1.5.0-2. 100% |  92.9 MiB/s | 951.8 KiB |  00m00s
+[ 14/257] Instaluję fribidi-0:1.0.16-2 100% |   9.6 MiB/s | 196.8 KiB |  00m00s
+[ 15/257] Instaluję libwayland-cursor- 100% |   7.5 MiB/s |  38.5 KiB |  00m00s
+[ 16/257] Instaluję mesa-filesystem-0: 100% |   1.0 MiB/s |   4.3 KiB |  00m00s
+[ 17/257] Instaluję libimobiledevice-g 100% |  20.2 MiB/s | 124.4 KiB |  00m00s
+[ 18/257] Instaluję serd-0:0.32.4-1.fc 100% |   6.7 MiB/s | 137.2 KiB |  00m00s
+[ 19/257] Instaluję libvmaf-0:3.0.0-3. 100% | 101.1 MiB/s | 828.4 KiB |  00m00s
+[ 20/257] Instaluję libdav1d-0:1.5.1-1 100% | 154.0 MiB/s |   1.7 MiB |  00m00s
+[ 21/257] Instaluję libwayland-egl-0:1 100% |   2.6 MiB/s |  13.6 KiB |  00m00s
+[ 22/257] Instaluję libtinysparql-0:3. 100% | 117.9 MiB/s |   1.3 MiB |  00m00s
+[ 23/257] Instaluję spirv-tools-libs-0 100% | 231.3 MiB/s |   5.8 MiB |  00m00s
+[ 24/257] Instaluję libwayland-server- 100% |  15.6 MiB/s |  79.8 KiB |  00m00s
+[ 25/257] Instaluję libglvnd-1:1.7.0-7 100% |  86.5 MiB/s | 531.6 KiB |  00m00s
+[ 26/257] Instaluję libglvnd-opengl-1: 100% |  29.2 MiB/s | 149.6 KiB |  00m00s
+[ 27/257] Instaluję libshaderc-0:2025. 100% | 223.9 MiB/s |   3.6 MiB |  00m00s
+[ 28/257] Instaluję libaom-0:3.12.0-1. 100% | 237.8 MiB/s |   5.0 MiB |  00m00s
+[ 29/257] Instaluję libtheora-1:1.1.1- 100% |  67.5 MiB/s | 483.7 KiB |  00m00s
+[ 30/257] Instaluję vulkan-loader-0:1. 100% |  47.5 MiB/s | 535.0 KiB |  00m00s
+[ 31/257] Instaluję numactl-libs-0:2.0 100% |  10.5 MiB/s |  53.8 KiB |  00m00s
+[ 32/257] Instaluję zix-0:0.6.2-1.fc42 100% |  11.7 MiB/s |  60.1 KiB |  00m00s
+[ 33/257] Instaluję sord-0:0.16.18-1.f 100% |   4.3 MiB/s |  88.0 KiB |  00m00s
+[ 34/257] Instaluję libvpl-1:2.14.0-2. 100% |  58.0 MiB/s | 415.6 KiB |  00m00s
+[ 35/257] Instaluję liblc3-0:1.1.3-1.f 100% |  33.6 MiB/s | 171.8 KiB |  00m00s
+[ 36/257] Instaluję mpg123-libs-0:1.32 100% |  88.6 MiB/s | 816.6 KiB |  00m00s
+[ 37/257] Instaluję upower-libs-0:1.90 100% |  33.6 MiB/s | 171.9 KiB |  00m00s
+[ 38/257] Instaluję giflib-0:5.2.2-6.f 100% |  22.2 MiB/s | 113.8 KiB |  00m00s
+[ 39/257] Instaluję rav1e-libs-0:0.7.1 100% | 201.2 MiB/s |   3.0 MiB |  00m00s
+[ 40/257] Instaluję lame-libs-0:3.100- 100% | 150.3 MiB/s |   1.2 MiB |  00m00s
+[ 41/257] Instaluję gsm-0:1.0.22-8.fc4 100% |   7.6 MiB/s |  70.4 KiB |  00m00s
+[ 42/257] Instaluję openjpeg-0:2.5.3-6 100% |  55.4 MiB/s | 453.8 KiB |  00m00s
+[ 43/257] Instaluję libxshmfence-0:1.3 100% |   2.6 MiB/s |  13.6 KiB |  00m00s
+[ 44/257] Instaluję mtdev-0:1.1.6-10.f 100% |   5.9 MiB/s |  30.4 KiB |  00m00s
+[ 45/257] Instaluję libICE-0:1.1.2-2.f 100% |  32.5 MiB/s | 199.8 KiB |  00m00s
+[ 46/257] Instaluję libSM-0:1.2.5-2.fc 100% |  20.8 MiB/s | 106.4 KiB |  00m00s
+[ 47/257] Instaluję libopenmpt-0:0.7.1 100% | 149.9 MiB/s |   1.6 MiB |  00m00s
+[ 48/257] Instaluję sratom-0:0.6.18-1. 100% |   9.0 MiB/s |  46.0 KiB |  00m00s
+[ 49/257] Instaluję lilv-libs-0:0.24.2 100% |  19.0 MiB/s | 117.0 KiB |  00m00s
+[ 50/257] Instaluję x265-libs-0:4.1-2. 100% | 427.7 MiB/s |  16.7 MiB |  00m00s
+[ 51/257] Instaluję lttng-ust-0:2.13.8 100% |  74.5 MiB/s |   1.1 MiB |  00m00s
+[ 52/257] Instaluję libcamera-0:0.4.0- 100% | 148.7 MiB/s |   1.9 MiB |  00m00s
+[ 53/257] Instaluję libusbmuxd-0:2.1.0 100% |  12.5 MiB/s |  76.8 KiB |  00m00s
+[ 54/257] Instaluję libimobiledevice-0 100% |  42.7 MiB/s | 306.3 KiB |  00m00s
+[ 55/257] Instaluję flac-libs-0:1.4.3- 100% |  68.4 MiB/s | 700.8 KiB |  00m00s
+[ 56/257] Instaluję libsndfile-0:1.2.2 100% |  76.9 MiB/s | 551.6 KiB |  00m00s
+[ 57/257] Instaluję libbs2b-0:3.1.0-35 100% |   3.6 MiB/s |  74.4 KiB |  00m00s
+[ 58/257] Instaluję gtk-update-icon-ca 100% |   3.3 MiB/s |  63.3 KiB |  00m00s
+[ 59/257] Instaluję libgsf-0:1.14.53-3 100% |  31.9 MiB/s | 979.8 KiB |  00m00s
+[ 60/257] Instaluję libnotify-0:0.8.6- 100% |   1.0 MiB/s | 124.6 KiB |  00m00s
+>>> Uruchamianie scriptletu sysusers: geoclue2-0:2.7.2-2.fc42.x86_64            
+>>> Zakończono sysusers scriptlet: geoclue2-0:2.7.2-2.fc42.x86_64               
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'geoclue' with GID 991.                                      
+>>> Creating user 'geoclue' (User for geoclue) with UID 991 and GID 991.        
+>>>                                                                             
+[ 61/257] Instaluję geoclue2-0:2.7.2-2 100% |   2.8 MiB/s | 399.6 KiB |  00m00s
+>>> Uruchamianie scriptletu sysusers: rtkit-0:0.11-66.fc42.x86_64               
+>>> Zakończono sysusers scriptlet: rtkit-0:0.11-66.fc42.x86_64                  
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'rtkit' with GID 172.                                        
+>>> Creating user 'rtkit' (RealtimeKit) with UID 172 and GID 172.               
+>>>                                                                             
+[ 62/257] Instaluję rtkit-0:0.11-66.fc 100% |   2.7 MiB/s | 141.2 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: rtkit-0:0.11-66.fc42.x86_64           
+>>> Zakończono post-install scriptlet: rtkit-0:0.11-66.fc42.x86_64              
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/rtkit-daemon.ser
+>>>                                                                             
+[ 63/257] Instaluję openh264-0:2.4.1-2 100% | 108.4 MiB/s |   1.1 MiB |  00m00s
+[ 64/257] Instaluję OpenCL-ICD-Loader- 100% |  14.0 MiB/s |  71.8 KiB |  00m00s
+[ 65/257] Instaluję libvpx-0:1.15.0-3. 100% | 203.5 MiB/s |   3.3 MiB |  00m00s
+[ 66/257] Instaluję fdk-aac-0:2.0.3-4. 100% | 139.9 MiB/s |   1.5 MiB |  00m00s
+[ 67/257] Instaluję openpgm-0:5.3.128- 100% |  51.7 MiB/s | 317.7 KiB |  00m00s
+[ 68/257] Instaluję libsodium-0:1.0.20 100% |  54.4 MiB/s | 390.2 KiB |  00m00s
+[ 69/257] Instaluję zeromq-0:4.3.5-21. 100% |  30.4 MiB/s | 902.7 KiB |  00m00s
+[ 70/257] Instaluję libsamplerate-0:0. 100% | 143.5 MiB/s |   1.4 MiB |  00m00s
+[ 71/257] Instaluję fftw-libs-double-0 100% | 190.2 MiB/s |   3.4 MiB |  00m00s
+[ 72/257] Instaluję rubberband-libs-0: 100% |  64.2 MiB/s | 460.2 KiB |  00m00s
+[ 73/257] Instaluję libdovi-0:3.3.1-2. 100% |  83.1 MiB/s | 595.4 KiB |  00m00s
+[ 74/257] Instaluję libplacebo-0:7.349 100% | 125.9 MiB/s |   1.1 MiB |  00m00s
+[ 75/257] Instaluję libunibreak-0:6.1- 100% |  27.5 MiB/s | 140.8 KiB |  00m00s
+[ 76/257] Instaluję libass-0:0.17.3-3. 100% |  47.4 MiB/s | 291.5 KiB |  00m00s
+[ 77/257] Instaluję lpcnetfreedv-0:0.5 100% | 400.6 MiB/s |  14.8 MiB |  00m00s
+[ 78/257] Instaluję codec2-0:1.2.0-6.f 100% | 136.9 MiB/s |   1.4 MiB |  00m00s
+[ 79/257] Instaluję vvenc-libs-0:1.13. 100% | 204.2 MiB/s |   3.3 MiB |  00m00s
+[ 80/257] Instaluję x264-libs-0:0.164- 100% | 211.4 MiB/s |   2.7 MiB |  00m00s
+[ 81/257] Instaluję zvbi-0:0.2.43-2.fc 100% |  21.2 MiB/s |   1.2 MiB |  00m00s
+[ 82/257] Instaluję zimg-0:3.0.5-3.fc4 100% |  80.4 MiB/s | 822.9 KiB |  00m00s
+[ 83/257] Instaluję xvidcore-0:1.3.7-1 100% | 107.4 MiB/s | 880.1 KiB |  00m00s
+[ 84/257] Instaluję vo-amrwbenc-0:0.1. 100% |  30.4 MiB/s | 155.4 KiB |  00m00s
+[ 85/257] Instaluję vid.stab-0:1.1.1-5 100% |  18.2 MiB/s |  93.4 KiB |  00m00s
+[ 86/257] Instaluję twolame-libs-0:0.4 100% |  32.5 MiB/s | 166.6 KiB |  00m00s
+[ 87/257] Instaluję srt-libs-0:1.5.4-2 100% | 108.4 MiB/s | 998.9 KiB |  00m00s
+[ 88/257] Instaluję speex-0:1.2.0-19.f 100% |  21.2 MiB/s | 130.4 KiB |  00m00s
+[ 89/257] Instaluję soxr-0:0.1.3-18.fc 100% |  31.5 MiB/s | 193.6 KiB |  00m00s
+[ 90/257] Instaluję snappy-0:1.2.1-4.f 100% |  14.2 MiB/s |  72.9 KiB |  00m00s
+[ 91/257] Instaluję opencore-amr-0:0.1 100% |  49.0 MiB/s | 351.2 KiB |  00m00s
+[ 92/257] Instaluję libmysofa-0:1.3.3- 100% |  15.7 MiB/s |  80.1 KiB |  00m00s
+[ 93/257] Instaluję libmodplug-1:0.8.9 100% |  49.8 MiB/s | 357.0 KiB |  00m00s
+[ 94/257] Instaluję libaribcaption-0:1 100% |  40.7 MiB/s | 249.9 KiB |  00m00s
+[ 95/257] Instaluję ilbc-0:3.0.4-13.fc 100% |  18.9 MiB/s |  96.9 KiB |  00m00s
+[ 96/257] Instaluję game-music-emu-0:0 100% |  54.2 MiB/s | 332.8 KiB |  00m00s
+[ 97/257] Instaluję aribb24-0:1.0.3^20 100% |  13.5 MiB/s |  83.2 KiB |  00m00s
+[ 98/257] Instaluję libsmbclient-2:4.2 100% |  26.9 MiB/s | 165.4 KiB |  00m00s
+[ 99/257] Instaluję bluez-libs-0:5.81- 100% |  39.0 MiB/s | 199.4 KiB |  00m00s
+[100/257] Instaluję webrtc-audio-proce 100% | 124.6 MiB/s |   1.4 MiB |  00m00s
+[101/257] Instaluję libsbc-0:2.0-6.fc4 100% |  18.5 MiB/s |  94.5 KiB |  00m00s
+[102/257] Instaluję libldac-0:2.0.2.3- 100% |  13.7 MiB/s |  84.2 KiB |  00m00s
+[103/257] Instaluję libebur128-0:1.2.6 100% |   8.0 MiB/s |  40.7 KiB |  00m00s
+[104/257] Instaluję fftw-libs-single-0 100% | 201.1 MiB/s |   3.6 MiB |  00m00s
+[105/257] Instaluję inih-cpp-0:58-3.fc 100% |   7.0 MiB/s |  28.6 KiB |  00m00s
+[106/257] Instaluję exiv2-libs-0:0.28. 100% | 202.1 MiB/s |   2.8 MiB |  00m00s
+[107/257] Instaluję libgexiv2-0:0.14.5 100% |  39.2 MiB/s | 281.0 KiB |  00m00s
+[108/257] Instaluję orc-0:0.4.41-1.fc4 100% |  30.9 MiB/s | 728.9 KiB |  00m00s
+[109/257] Instaluję libvisual-1:0.4.1- 100% |  49.2 MiB/s | 453.8 KiB |  00m00s
+[110/257] Instaluję iso-codes-0:4.17.0 100% | 126.4 MiB/s |  20.5 MiB |  00m00s
+[111/257] Instaluję graphene-0:1.10.6- 100% |  26.7 MiB/s | 164.1 KiB |  00m00s
+[112/257] Instaluję cdparanoia-libs-0: 100% |  23.2 MiB/s | 118.9 KiB |  00m00s
+[113/257] Instaluję cpuinfo-0:24.09.26 100% |   5.1 MiB/s | 109.7 KiB |  00m00s
+[114/257] Instaluję svt-av1-libs-0:2.3 100% | 234.3 MiB/s |   5.6 MiB |  00m00s
+[115/257] Instaluję fuse-common-0:3.16 100% |  71.3 KiB/s | 292.0   B |  00m00s
+[116/257] Instaluję fuse3-0:3.16.2-5.f 100% |   6.1 MiB/s | 132.0 KiB |  00m00s
+[117/257] Instaluję libyuv-0:0-0.56.20 100% |  83.6 MiB/s | 685.3 KiB |  00m00s
+[118/257] Instaluję libavif-0:1.1.1-1. 100% |  42.0 MiB/s | 215.2 KiB |  00m00s
+[119/257] Instaluję highway-0:1.2.0-5. 100% | 272.1 MiB/s |   4.4 MiB |  00m00s
+[120/257] Instaluję libjxl-1:0.11.1-2. 100% | 138.4 MiB/s |   3.0 MiB |  00m00s
+[121/257] Instaluję libasyncns-0:0.8-3 100% |   9.9 MiB/s |  60.8 KiB |  00m00s
+[122/257] Instaluję sound-theme-freede 100% |  16.9 MiB/s | 467.2 KiB |  00m00s
+[123/257] Instaluję poppler-data-0:0.4 100% | 169.7 MiB/s |  12.4 MiB |  00m00s
+[124/257] Instaluję gpgmepp-0:1.24.2-1 100% |  60.0 MiB/s | 430.3 KiB |  00m00s
+[125/257] Instaluję uchardet-0:0.0.8-7 100% |  12.3 MiB/s | 277.7 KiB |  00m00s
+[126/257] Instaluję totem-pl-parser-0: 100% |  14.5 MiB/s | 326.9 KiB |  00m00s
+[127/257] Instaluję osinfo-db-tools-0: 100% |   7.4 MiB/s | 197.2 KiB |  00m00s
+[128/257] Instaluję osinfo-db-0:202501 100% |  30.1 MiB/s |   4.1 MiB |  00m00s
+[129/257] Instaluję libxslt-0:1.1.43-1 100% |  19.5 MiB/s | 459.2 KiB |  00m00s
+[130/257] Instaluję libosinfo-0:1.12.0 100% |  43.0 MiB/s |   1.2 MiB |  00m00s
+[131/257] Instaluję libiptcdata-0:1.0. 100% |   7.8 MiB/s | 174.9 KiB |  00m00s
+[132/257] Instaluję libexif-0:0.6.25-1 100% | 167.0 MiB/s |   2.7 MiB |  00m00s
+[133/257] Instaluję libcue-0:2.3.0-11. 100% |  11.1 MiB/s |  91.3 KiB |  00m00s
+[134/257] Instaluję exempi-0:2.6.4-7.f 100% |  45.1 MiB/s |   1.4 MiB |  00m00s
+[135/257] Instaluję liblerc-0:4.0.0-8. 100% |  77.8 MiB/s | 637.6 KiB |  00m00s
+[136/257] Instaluję jbigkit-libs-0:2.1 100% |  20.1 MiB/s | 123.4 KiB |  00m00s
+[137/257] Instaluję libtiff-0:4.7.0-3. 100% |  75.8 MiB/s | 621.3 KiB |  00m00s
+[138/257] Instaluję gdk-pixbuf2-module 100% |  12.6 MiB/s |  64.6 KiB |  00m00s
+[139/257] Instaluję poppler-0:25.02.0- 100% | 206.6 MiB/s |   3.7 MiB |  00m00s
+[140/257] Instaluję leptonica-0:1.85.0 100% | 188.6 MiB/s |   3.0 MiB |  00m00s
+[141/257] Instaluję tesseract-libs-0:5 100% | 206.2 MiB/s |   3.3 MiB |  00m00s
+[142/257] Instaluję libdatrie-0:0.2.13 100% |   2.3 MiB/s |  58.9 KiB |  00m00s
+[143/257] Instaluję libthai-0:0.1.29-1 100% |  63.9 MiB/s | 785.2 KiB |  00m00s
+[144/257] Instaluję libgusb-0:0.4.9-3. 100% |  22.8 MiB/s | 163.7 KiB |  00m00s
+[145/257] Instaluję colord-libs-0:1.4. 100% |  64.1 MiB/s | 853.7 KiB |  00m00s
+[146/257] Instaluję adwaita-icon-theme 100% |  11.4 MiB/s |   2.4 MiB |  00m00s
+[147/257] Instaluję adwaita-cursor-the 100% | 357.1 MiB/s |  11.4 MiB |  00m00s
+[148/257] Instaluję adwaita-icon-theme 100% |  13.8 MiB/s |   1.3 MiB |  00m00s
+[149/257] Instaluję libepoxy-0:1.5.10- 100% | 135.3 MiB/s |   1.1 MiB |  00m00s
+[150/257] Instaluję libcloudproviders- 100% |  20.5 MiB/s | 126.2 KiB |  00m00s
+[151/257] Instaluję hicolor-icon-theme 100% |   4.2 MiB/s | 179.5 KiB |  00m00s
+[152/257] Instaluję hyprutils-0:0.7.1- 100% |  26.8 MiB/s | 247.2 KiB |  00m00s
+[153/257] Instaluję hyprlang-0:0.6.3-1 100% |  36.6 MiB/s | 262.2 KiB |  00m00s
+[154/257] Instaluję llvm-filesystem-0: 100% | 264.6 KiB/s |   1.1 KiB |  00m00s
+[155/257] Instaluję llvm-libs-0:20.1.6 100% | 305.3 MiB/s | 137.1 MiB |  00m00s
+[156/257] Instaluję qt6-filesystem-0:6 100% | 387.6 KiB/s |   3.5 KiB |  00m00s
+[157/257] Instaluję libwacom-data-0:2. 100% |  16.2 MiB/s |   1.5 MiB |  00m00s
+[158/257] Instaluję libwacom-0:2.15.0- 100% |   4.6 MiB/s |  99.7 KiB |  00m00s
+[159/257] Instaluję libinput-0:1.28.1- 100% |  14.0 MiB/s | 600.3 KiB |  00m00s
+[160/257] Instaluję cups-filesystem-1: 100% | 356.2 KiB/s |   1.8 KiB |  00m00s
+[161/257] Instaluję cups-libs-1:2.4.12 100% |  75.7 MiB/s | 620.1 KiB |  00m00s
+[162/257] Instaluję lm_sensors-libs-0: 100% |  17.0 MiB/s |  86.9 KiB |  00m00s
+[163/257] Instaluję libXau-0:1.0.12-2. 100% |  15.3 MiB/s |  78.5 KiB |  00m00s
+[164/257] Instaluję libxcb-0:1.17.0-5. 100% |  67.5 MiB/s |   1.1 MiB |  00m00s
+[165/257] Instaluję mesa-libgbm-0:25.0 100% |   4.0 MiB/s |  20.5 KiB |  00m00s
+[166/257] Instaluję mesa-dri-drivers-0 100% | 360.8 MiB/s | 164.5 MiB |  00m00s
+[167/257] Instaluję xcb-util-renderuti 100% |   4.2 MiB/s |  25.8 KiB |  00m00s
+[168/257] Instaluję pulseaudio-libs-0: 100% | 116.8 MiB/s |   3.4 MiB |  00m00s
+[169/257] Instaluję pipewire-libs-0:1. 100% |  98.0 MiB/s |   8.6 MiB |  00m00s
+[170/257] Instaluję wireplumber-libs-0 100% |  52.3 MiB/s |   1.2 MiB |  00m00s
+[171/257] Instaluję wireplumber-0:0.5. 100% |   9.2 MiB/s | 388.2 KiB |  00m00s
+[172/257] Instaluję pipewire-jack-audi 100% |  60.9 KiB/s | 312.0   B |  00m00s
+[173/257] Instaluję pipewire-jack-audi 100% |  20.3 MiB/s | 499.3 KiB |  00m00s
+[174/257] Instaluję libcanberra-0:0.30 100% |   5.8 MiB/s | 291.3 KiB |  00m00s
+[175/257] Instaluję libglvnd-egl-1:1.7 100% |  11.4 MiB/s |  70.3 KiB |  00m00s
+[176/257] Instaluję mesa-libEGL-0:25.0 100% |  46.9 MiB/s | 336.2 KiB |  00m00s
+[177/257] Instaluję libxkbcommon-x11-0 100% |   7.1 MiB/s |  36.4 KiB |  00m00s
+[178/257] Instaluję xcb-util-keysyms-0 100% |   2.2 MiB/s |  17.8 KiB |  00m00s
+[179/257] Instaluję xcb-util-wm-0:0.4. 100% |  11.6 MiB/s |  83.2 KiB |  00m00s
+[180/257] Instaluję xcb-util-0:0.4.1-7 100% |   5.4 MiB/s |  27.7 KiB |  00m00s
+[181/257] Instaluję xcb-util-image-0:0 100% |   4.6 MiB/s |  23.6 KiB |  00m00s
+[182/257] Instaluję xcb-util-cursor-0: 100% |   4.0 MiB/s |  24.6 KiB |  00m00s
+[183/257] Instaluję libX11-common-0:1. 100% |  41.0 MiB/s |   1.2 MiB |  00m00s
+[184/257] Instaluję libX11-0:1.8.11-1. 100% | 142.9 MiB/s |   1.3 MiB |  00m00s
+[185/257] Instaluję libXext-0:1.3.6-3. 100% |  17.8 MiB/s |  91.2 KiB |  00m00s
+[186/257] Instaluję libXrender-0:0.9.1 100% |  10.0 MiB/s |  51.3 KiB |  00m00s
+[187/257] Instaluję cairo-0:1.18.2-3.f 100% | 148.6 MiB/s |   1.8 MiB |  00m00s
+[188/257] Instaluję libXi-0:1.8.2-2.fc 100% |  16.7 MiB/s |  85.7 KiB |  00m00s
+[189/257] Instaluję libXfixes-0:6.0.1- 100% |   6.2 MiB/s |  31.6 KiB |  00m00s
+[190/257] Instaluję cairo-gobject-0:1. 100% |   8.8 MiB/s |  36.0 KiB |  00m00s
+[191/257] Instaluję libXcursor-0:1.2.3 100% |  11.5 MiB/s |  59.1 KiB |  00m00s
+[192/257] Instaluję libXdamage-0:1.1.6 100% |   8.8 MiB/s |  45.2 KiB |  00m00s
+[193/257] Instaluję libXtst-0:1.2.5-2. 100% |   6.8 MiB/s |  34.6 KiB |  00m00s
+[194/257] Instaluję libgxps-0:0.3.2-10 100% |  31.6 MiB/s | 194.3 KiB |  00m00s
+[195/257] Instaluję poppler-glib-0:25. 100% |  85.6 MiB/s | 613.3 KiB |  00m00s
+[196/257] Instaluję libXrandr-0:1.5.4- 100% |  11.1 MiB/s |  57.0 KiB |  00m00s
+[197/257] Instaluję libXft-0:2.3.8-8.f 100% |  27.7 MiB/s | 169.9 KiB |  00m00s
+[198/257] Instaluję pango-0:1.56.3-1.f 100% |  37.8 MiB/s |   1.0 MiB |  00m00s
+[199/257] Instaluję rsvg-pixbuf-loader 100% |  56.3 MiB/s | 346.0 KiB |  00m00s
+[200/257] Instaluję librsvg2-0:2.60.0- 100% | 209.1 MiB/s |   5.0 MiB |  00m00s
+[201/257] Instaluję libXxf86vm-0:1.1.6 100% |   6.0 MiB/s |  30.5 KiB |  00m00s
+[202/257] Instaluję libglvnd-glx-1:1.7 100% |  99.4 MiB/s | 610.6 KiB |  00m00s
+[203/257] Instaluję mesa-libGL-0:25.0. 100% |  68.5 MiB/s | 421.1 KiB |  00m00s
+[204/257] Instaluję libva-0:2.22.0-4.f 100% |  40.7 MiB/s | 333.4 KiB |  00m00s
+[205/257] Instaluję glx-utils-0:9.0.0- 100% |  20.5 MiB/s | 419.7 KiB |  00m00s
+[206/257] Instaluję libXinerama-0:1.1. 100% |   3.9 MiB/s |  20.1 KiB |  00m00s
+[207/257] Instaluję libXv-0:1.0.13-2.f 100% |   6.1 MiB/s |  31.2 KiB |  00m00s
+[208/257] Instaluję gstreamer1-plugins 100% | 140.7 MiB/s |   7.3 MiB |  00m00s
+[209/257] Instaluję xdg-desktop-portal 100% |  28.1 MiB/s |   1.9 MiB |  00m00s
+[210/257] Instaluję libvdpau-0:1.5-9.f 100% |   2.7 MiB/s |  22.4 KiB |  00m00s
+[211/257] Instaluję libchromaprint-0:1 100% |   9.2 MiB/s |  66.1 KiB |  00m00s
+[212/257] Instaluję ffmpeg-libs-0:7.1. 100% | 216.1 MiB/s |  21.2 MiB |  00m00s
+[213/257] Instaluję libXcomposite-0:0. 100% |   9.0 MiB/s |  46.0 KiB |  00m00s
+[214/257] Instaluję xprop-0:1.2.8-3.fc 100% |   2.7 MiB/s |  56.1 KiB |  00m00s
+[215/257] Instaluję at-spi2-core-0:2.5 100% |  51.2 MiB/s |   1.5 MiB |  00m00s
+[216/257] Instaluję atk-0:2.56.2-1.fc4 100% |  40.7 MiB/s | 250.0 KiB |  00m00s
+[217/257] Instaluję at-spi2-atk-0:2.56 100% |  38.7 MiB/s | 277.7 KiB |  00m00s
+[218/257] Instaluję gtk3-0:3.24.49-2.f 100% | 192.7 MiB/s |  23.1 MiB |  00m00s
+[219/257] Instaluję libdecor-0:0.2.3-5 100% |  16.4 MiB/s | 167.8 KiB |  00m00s
+[220/257] Instaluję SDL3-0:3.2.12-1.fc 100% | 190.9 MiB/s |   2.7 MiB |  00m00s
+[221/257] Instaluję sdl2-compat-0:2.32 100% |  56.0 MiB/s | 401.4 KiB |  00m00s
+[222/257] Instaluję tslib-0:1.23-1.fc4 100% |  12.8 MiB/s | 432.4 KiB |  00m00s
+[223/257] Instaluję pcre2-utf16-0:10.4 100% | 102.1 MiB/s | 627.1 KiB |  00m00s
+[224/257] Instaluję double-conversion- 100% |  16.2 MiB/s |  99.4 KiB |  00m00s
+[225/257] Instaluję qt6-qtbase-common- 100% |  85.9 KiB/s | 352.0   B |  00m00s
+[226/257] Instaluję qt6-qtbase-0:6.9.1 100% | 143.6 MiB/s |  12.9 MiB |  00m00s
+[227/257] Instaluję qt6-qtbase-gui-0:6 100% | 230.5 MiB/s |  23.7 MiB |  00m00s
+[228/257] Instaluję qt6-qtsvg-0:6.9.1- 100% |  53.5 MiB/s | 876.2 KiB |  00m00s
+[229/257] Instaluję qt6-qtdeclarative- 100% | 119.5 MiB/s |  49.3 MiB |  00m00s
+[230/257] Instaluję hyprland-qt-suppor 100% |  40.8 MiB/s | 417.6 KiB |  00m00s
+[231/257] Instaluję polkit-qt6-1-0:0.2 100% |  40.6 MiB/s | 290.8 KiB |  00m00s
+[232/257] Instaluję hyprpolkitagent-0: 100% |   8.0 MiB/s | 195.6 KiB |  00m00s
+[233/257] Instaluję qt6-qtwayland-0:6. 100% |  48.7 MiB/s |   5.1 MiB |  00m00s
+[234/257] Instaluję xdg-desktop-portal 100% |   5.2 MiB/s | 477.2 KiB |  00m00s
+[235/257] Instaluję libcanberra-gtk3-0 100% |   3.0 MiB/s |  82.0 KiB |  00m00s
+[236/257] Instaluję localsearch-0:3.9. 100% |  49.0 MiB/s |   3.9 MiB |  00m00s
+[237/257] Instaluję intel-mediasdk-0:2 100% | 368.5 MiB/s |  22.5 MiB |  00m00s
+[238/257] Instaluję intel-vpl-gpu-rt-0 100% | 263.7 MiB/s |   8.2 MiB |  00m00s
+[239/257] Instaluję xdriinfo-0:1.0.7-4 100% | 281.6 KiB/s |  31.5 KiB |  00m00s
+>>> Uruchamianie scriptletu sysusers: pipewire-0:1.4.5-1.fc42.x86_64            
+>>> Zakończono sysusers scriptlet: pipewire-0:1.4.5-1.fc42.x86_64               
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'pipewire' with GID 990.                                     
+>>> Creating user 'pipewire' (PipeWire System Daemon) with UID 990 and GID 990. 
+>>>                                                                             
+[240/257] Instaluję pipewire-0:1.4.5-1 100% |   6.4 MiB/s | 432.8 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: pipewire-0:1.4.5-1.fc42.x86_64        
+>>> Zakończono post-install scriptlet: pipewire-0:1.4.5-1.fc42.x86_64           
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/user/sockets.target.wants/pipewire.socket' → '
+>>>                                                                             
+[241/257] Instaluję pipewire-alsa-0:1. 100% |  17.3 MiB/s | 159.6 KiB |  00m00s
+[242/257] Instaluję pipewire-pulseaudi 100% |   5.4 MiB/s | 444.2 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: pipewire-pulseaudio-0:1.4.5-1.fc42.x86
+>>> Zakończono post-install scriptlet: pipewire-pulseaudio-0:1.4.5-1.fc42.x86_64
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/user/sockets.target.wants/pipewire-pulse.socke
+>>>                                                                             
+[243/257] Instaluję pipewire-plugin-li 100% |  24.0 MiB/s | 147.4 KiB |  00m00s
+[244/257] Instaluję mesa-vulkan-driver 100% | 347.8 MiB/s | 114.8 MiB |  00m00s
+[245/257] Instaluję jxl-pixbuf-loader- 100% |   3.3 MiB/s |  30.2 KiB |  00m00s
+[246/257] Instaluję avif-pixbuf-loader 100% |   4.9 MiB/s |  20.2 KiB |  00m00s
+[247/257] Instaluję exiv2-0:0.28.5-1.f 100% | 218.2 MiB/s |  12.2 MiB |  00m00s
+[248/257] Instaluję upower-0:1.90.9-4. 100% |   1.9 MiB/s | 281.0 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: upower-0:1.90.9-4.fc42.x86_64         
+>>> Zakończono post-install scriptlet: upower-0:1.90.9-4.fc42.x86_64            
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/system/graphical.target.wants/upower.service' 
+>>>                                                                             
+>>> Uruchamianie scriptletu sysusers: usbmuxd-0:1.1.1^20240915git0b1b233-4.fc42.
+>>> Zakończono sysusers scriptlet: usbmuxd-0:1.1.1^20240915git0b1b233-4.fc42.x86
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'usbmuxd' with GID 113.                                      
+>>> Creating user 'usbmuxd' (usbmuxd user) with UID 113 and GID 113.            
+>>>                                                                             
+[249/257] Instaluję usbmuxd-0:1.1.1^20 100% |   2.2 MiB/s | 151.5 KiB |  00m00s
+[250/257] Instaluję libcamera-ipa-0:0. 100% |  38.5 MiB/s | 551.9 KiB |  00m00s
+[251/257] Instaluję tinysparql-0:3.9.2 100% |  36.1 MiB/s |   2.5 MiB |  00m00s
+[252/257] Instaluję vmaf-models-0:3.0. 100% | 103.1 MiB/s |   4.9 MiB |  00m00s
+[253/257] Instaluję mesa-va-drivers-0: 100% |  66.1 KiB/s | 812.0   B |  00m00s
+[254/257] Instaluję webp-pixbuf-loader 100% |   3.2 MiB/s |  29.8 KiB |  00m00s
+[255/257] Instaluję low-memory-monitor 100% |   1.2 MiB/s |  67.7 KiB |  00m00s
+[256/257] Instaluję dconf-0:0.40.0-15. 100% |   6.9 MiB/s | 320.0 KiB |  00m00s
+[257/257] Instaluję qt6-qttranslations 100% |   2.0 MiB/s |  14.1 MiB |  00m07s
+>>> Uruchamianie scriptletu post-transaction: wireplumber-0:0.5.8-1.fc42.x86_64 
+>>> Zakończono post-transaction scriptlet: wireplumber-0:0.5.8-1.fc42.x86_64    
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/user/pipewire-session-manager.service' → '/usr
+>>> Created symlink '/etc/systemd/user/pipewire.service.wants/wireplumber.servic
+>>>                                                                             
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                                Arch.  Wersja            Repozytorium   Rozmiar
+Instalowanie:
+ ImageMagick                          x86_64 1:7.1.1.47-1.fc42 updates       88.2 KiB
+Instalowanie zależności:
+ ImageMagick-libs                     x86_64 1:7.1.1.47-1.fc42 updates        8.7 MiB
+ LibRaw                               x86_64 0.21.4-1.fc42     updates        2.3 MiB
+ adobe-mappings-cmap                  noarch 20231115-2.fc42   fedora        15.2 MiB
+ adobe-mappings-cmap-deprecated       noarch 20231115-2.fc42   fedora       582.1 KiB
+ adobe-mappings-pdf                   noarch 20190401-9.fc42   fedora         4.4 MiB
+ google-droid-sans-fonts              noarch 20200215-22.fc42  fedora         6.3 MiB
+ graphviz-libs                        x86_64 12.2.1-8.fc42     updates        1.2 MiB
+ imath                                x86_64 3.1.12-2.fc42     fedora       383.7 KiB
+ jasper-libs                          x86_64 4.2.3-3.fc42      fedora       345.8 KiB
+ jbig2dec-libs                        x86_64 0.20-6.fc42       fedora       169.0 KiB
+ libXt                                x86_64 1.3.1-2.fc42      fedora       429.7 KiB
+ libdeflate                           x86_64 1.24-1.fc42       updates      123.0 KiB
+ libgs                                x86_64 10.05.1-3.fc42    updates       23.5 MiB
+ libijs                               x86_64 0.35-24.fc42      fedora        65.5 KiB
+ liblqr-1                             x86_64 0.4.2-25.fc41     fedora       101.2 KiB
+ libpaper                             x86_64 1:2.1.1-8.fc42    fedora        48.8 KiB
+ libraqm                              x86_64 0.10.1-2.fc42     fedora        28.6 KiB
+ libwmf-lite                          x86_64 0.2.13-7.fc42     fedora       155.6 KiB
+ libzip                               x86_64 1.11.4-1.fc42     updates      135.8 KiB
+ openexr-libs                         x86_64 3.2.4-3.fc41      fedora         6.5 MiB
+ urw-base35-bookman-fonts             noarch 20200910-24.fc42  fedora         1.4 MiB
+ urw-base35-c059-fonts                noarch 20200910-24.fc42  fedora         1.4 MiB
+ urw-base35-d050000l-fonts            noarch 20200910-24.fc42  fedora        84.3 KiB
+ urw-base35-fonts                     noarch 20200910-24.fc42  fedora         5.3 KiB
+ urw-base35-fonts-common              noarch 20200910-24.fc42  fedora        37.4 KiB
+ urw-base35-gothic-fonts              noarch 20200910-24.fc42  fedora         1.2 MiB
+ urw-base35-nimbus-mono-ps-fonts      noarch 20200910-24.fc42  fedora         1.0 MiB
+ urw-base35-nimbus-roman-fonts        noarch 20200910-24.fc42  fedora         1.4 MiB
+ urw-base35-nimbus-sans-fonts         noarch 20200910-24.fc42  fedora         2.4 MiB
+ urw-base35-p052-fonts                noarch 20200910-24.fc42  fedora         1.5 MiB
+ urw-base35-standard-symbols-ps-fonts noarch 20200910-24.fc42  fedora        64.9 KiB
+ urw-base35-z003-fonts                noarch 20200910-24.fc42  fedora       390.8 KiB
+Instalowanie słabych zależności:
+ open-sans-fonts                      noarch 1.10-23.fc42      fedora         2.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         34 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 22 MiB. Należy pobrać 22 MiB.
+Po tej operacji zostanie użyte dodatkowo 84 MiB (zainstaluje 84 MiB, usunie 0 B).
+[ 1/34] liblqr-1-0:0.4.2-25.fc41.x86_64 100% | 394.3 KiB/s |  48.9 KiB |  00m00s
+[ 2/34] ImageMagick-1:7.1.1.47-1.fc42.x 100% | 558.7 KiB/s |  72.1 KiB |  00m00s
+[ 3/34] libraqm-0:0.10.1-2.fc42.x86_64  100% | 864.5 KiB/s |  22.5 KiB |  00m00s
+[ 4/34] imath-0:3.1.12-2.fc42.x86_64    100% | 652.6 KiB/s | 101.8 KiB |  00m00s
+[ 5/34] libXt-0:1.3.1-2.fc42.x86_64     100% | 863.3 KiB/s | 181.3 KiB |  00m00s
+[ 6/34] libdeflate-0:1.24-1.fc42.x86_64 100% |   1.1 MiB/s |  69.8 KiB |  00m00s
+[ 7/34] libwmf-lite-0:0.2.13-7.fc42.x86 100% | 485.3 KiB/s |  73.3 KiB |  00m00s
+[ 8/34] jasper-libs-0:4.2.3-3.fc42.x86_ 100% |   1.7 MiB/s | 164.8 KiB |  00m00s
+[ 9/34] LibRaw-0:0.21.4-1.fc42.x86_64   100% |   1.9 MiB/s | 412.7 KiB |  00m00s
+[10/34] graphviz-libs-0:12.2.1-8.fc42.x 100% |   1.5 MiB/s | 471.8 KiB |  00m00s
+[11/34] openexr-libs-0:3.2.4-3.fc41.x86 100% |   2.3 MiB/s |   1.1 MiB |  00m00s
+[12/34] adobe-mappings-cmap-deprecated- 100% |   2.2 MiB/s | 110.5 KiB |  00m00s
+[13/34] adobe-mappings-pdf-0:20190401-9 100% |   3.3 MiB/s | 625.1 KiB |  00m00s
+[14/34] jbig2dec-libs-0:0.20-6.fc42.x86 100% |   2.4 MiB/s |  74.4 KiB |  00m00s
+[15/34] libijs-0:0.35-24.fc42.x86_64    100% | 667.7 KiB/s |  29.4 KiB |  00m00s
+[16/34] ImageMagick-libs-1:7.1.1.47-1.f 100% |   2.6 MiB/s |   2.6 MiB |  00m01s
+[17/34] libpaper-1:2.1.1-8.fc42.x86_64  100% | 279.8 KiB/s |  26.9 KiB |  00m00s
+[18/34] urw-base35-fonts-0:20200910-24. 100% |  86.8 KiB/s |  10.1 KiB |  00m00s
+[19/34] urw-base35-bookman-fonts-0:2020 100% |   1.7 MiB/s | 846.9 KiB |  00m00s
+[20/34] urw-base35-d050000l-fonts-0:202 100% |   1.1 MiB/s |  75.8 KiB |  00m00s
+[21/34] urw-base35-fonts-common-0:20200 100% |   1.3 MiB/s |  20.8 KiB |  00m00s
+[22/34] adobe-mappings-cmap-0:20231115- 100% |   1.7 MiB/s |   2.2 MiB |  00m01s
+[23/34] urw-base35-c059-fonts-0:2020091 100% |   1.1 MiB/s | 874.0 KiB |  00m01s
+[24/34] urw-base35-nimbus-mono-ps-fonts 100% |   2.8 MiB/s | 794.7 KiB |  00m00s
+[25/34] urw-base35-gothic-fonts-0:20200 100% |   1.0 MiB/s | 642.5 KiB |  00m01s
+[26/34] urw-base35-nimbus-roman-fonts-0 100% |   1.1 MiB/s | 856.1 KiB |  00m01s
+[27/34] urw-base35-nimbus-sans-fonts-0: 100% |   1.8 MiB/s |   1.3 MiB |  00m01s
+[28/34] urw-base35-standard-symbols-ps- 100% | 428.7 KiB/s |  58.3 KiB |  00m00s
+[29/34] google-droid-sans-fonts-0:20200 100% |   1.3 MiB/s |   2.7 MiB |  00m02s
+[30/34] libzip-0:1.11.4-1.fc42.x86_64   100% |   1.2 MiB/s |  70.1 KiB |  00m00s
+[31/34] urw-base35-z003-fonts-0:2020091 100% |   1.7 MiB/s | 275.5 KiB |  00m00s
+[32/34] urw-base35-p052-fonts-0:2020091 100% |   1.2 MiB/s | 973.2 KiB |  00m01s
+[33/34] open-sans-fonts-0:1.10-23.fc42. 100% |   2.0 MiB/s | 471.6 KiB |  00m00s
+[34/34] libgs-0:10.05.1-3.fc42.x86_64   100% |   1.2 MiB/s |   3.5 MiB |  00m03s
+--------------------------------------------------------------------------------
+[34/34] Razem                           100% |   5.5 MiB/s |  21.7 MiB |  00m04s
+Wykonywanie transakcji
+[ 1/36] Weryfikowanie plików pakietu   100% | 478.0   B/s |  34.0   B |  00m00s
+[ 2/36] Przygotowywanie transakcji      100% | 298.0   B/s |  34.0   B |  00m00s
+[ 3/36] Instaluję urw-base35-fonts-com 100% |   2.2 MiB/s |  38.4 KiB |  00m00s
+[ 4/36] Instaluję adobe-mappings-cmap- 100% | 189.9 MiB/s |  15.2 MiB |  00m00s
+[ 5/36] Instaluję libXt-0:1.3.1-2.fc42 100% |  60.1 MiB/s | 430.9 KiB |  00m00s
+[ 6/36] Instaluję imath-0:3.1.12-2.fc4 100% |  53.8 MiB/s | 385.9 KiB |  00m00s
+[ 7/36] Instaluję adobe-mappings-cmap- 100% |  71.4 MiB/s | 585.2 KiB |  00m00s
+[ 8/36] Instaluję urw-base35-bookman-f 100% |  41.4 MiB/s |   1.4 MiB |  00m00s
+[ 9/36] Instaluję urw-base35-c059-font 100% |  58.1 MiB/s |   1.4 MiB |  00m00s
+[10/36] Instaluję urw-base35-d050000l- 100% |   4.2 MiB/s |  85.4 KiB |  00m00s
+[11/36] Instaluję urw-base35-gothic-fo 100% |  50.6 MiB/s |   1.2 MiB |  00m00s
+[12/36] Instaluję urw-base35-nimbus-mo 100% |  47.8 MiB/s |   1.1 MiB |  00m00s
+[13/36] Instaluję urw-base35-nimbus-ro 100% |  56.9 MiB/s |   1.4 MiB |  00m00s
+[14/36] Instaluję urw-base35-nimbus-sa 100% |  85.5 MiB/s |   2.4 MiB |  00m00s
+[15/36] Instaluję urw-base35-p052-font 100% |  43.7 MiB/s |   1.5 MiB |  00m00s
+[16/36] Instaluję urw-base35-standard- 100% |   4.0 MiB/s |  66.0 KiB |  00m00s
+[17/36] Instaluję urw-base35-z003-font 100% |  22.5 MiB/s | 391.8 KiB |  00m00s
+[18/36] Instaluję urw-base35-fonts-0:2 100% |   1.4 MiB/s |   5.6 KiB |  00m00s
+[19/36] Instaluję libzip-0:1.11.4-1.fc 100% |  22.3 MiB/s | 136.9 KiB |  00m00s
+[20/36] Instaluję libpaper-1:2.1.1-8.f 100% |   8.2 MiB/s |  50.4 KiB |  00m00s
+[21/36] Instaluję libijs-0:0.35-24.fc4 100% |  13.0 MiB/s |  66.5 KiB |  00m00s
+[22/36] Instaluję jbig2dec-libs-0:0.20 100% |  27.8 MiB/s | 170.5 KiB |  00m00s
+[23/36] Instaluję google-droid-sans-fo 100% | 201.9 MiB/s |   6.3 MiB |  00m00s
+[24/36] Instaluję adobe-mappings-pdf-0 100% | 191.2 MiB/s |   4.4 MiB |  00m00s
+[25/36] Instaluję libgs-0:10.05.1-3.fc 100% | 233.6 MiB/s |  23.6 MiB |  00m00s
+[26/36] Instaluję graphviz-libs-0:12.2 100% | 109.7 MiB/s |   1.2 MiB |  00m00s
+[27/36] Instaluję jasper-libs-0:4.2.3- 100% |  48.5 MiB/s | 347.3 KiB |  00m00s
+[28/36] Instaluję LibRaw-0:0.21.4-1.fc 100% | 194.7 MiB/s |   2.3 MiB |  00m00s
+[29/36] Instaluję libdeflate-0:1.24-1. 100% |  24.3 MiB/s | 124.4 KiB |  00m00s
+[30/36] Instaluję openexr-libs-0:3.2.4 100% | 261.2 MiB/s |   6.5 MiB |  00m00s
+[31/36] Instaluję libwmf-lite-0:0.2.13 100% |  30.7 MiB/s | 157.1 KiB |  00m00s
+[32/36] Instaluję libraqm-0:0.10.1-2.f 100% |   5.8 MiB/s |  29.7 KiB |  00m00s
+[33/36] Instaluję liblqr-1-0:0.4.2-25. 100% |  14.3 MiB/s | 102.6 KiB |  00m00s
+[34/36] Instaluję ImageMagick-libs-1:7 100% |  99.1 MiB/s |   8.8 MiB |  00m00s
+[35/36] Instaluję ImageMagick-1:7.1.1. 100% |   4.0 MiB/s |  93.2 KiB |  00m00s
+[36/36] Instaluję open-sans-fonts-0:1. 100% |   2.4 MiB/s |   2.1 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                   Arch.  Wersja               Repozytorium   Rozmiar
+Instalowanie:
+ inxi                    noarch 3.3.38-1.fc42        updates        2.2 MiB
+Instalowanie zależności:
+ bind-libs               x86_64 32:9.18.36-1.fc42    updates        3.6 MiB
+ bind-utils              x86_64 32:9.18.36-1.fc42    updates      665.1 KiB
+ freeipmi                x86_64 1.6.15-3.fc42        fedora         8.5 MiB
+ fstrm                   x86_64 0.6.1-12.fc42        fedora        54.7 KiB
+ hddtemp                 x86_64 0.3-0.58.beta15.fc42 fedora       141.7 KiB
+ ipmitool                x86_64 1.8.19-10.fc42       fedora         5.5 MiB
+ libXmu                  x86_64 1.2.1-3.fc42         fedora       199.3 KiB
+ libXxf86dga             x86_64 1.1.6-5.fc42         fedora        37.7 KiB
+ libuser                 x86_64 0.64-12.fc42         fedora         1.9 MiB
+ libuv                   x86_64 1:1.51.0-1.fc42      updates      570.2 KiB
+ lm_sensors              x86_64 3.6.0-22.fc42        fedora       460.2 KiB
+ mailcap                 noarch 2.1.54-8.fc42        fedora        86.0 KiB
+ perl-Clone              x86_64 0.47-2.fc42          fedora        32.4 KiB
+ perl-Compress-Raw-Bzip2 x86_64 2.213-2.fc42         fedora        67.3 KiB
+ perl-Compress-Raw-Zlib  x86_64 2.213-2.fc42         fedora       163.2 KiB
+ perl-Cpanel-JSON-XS     x86_64 4.39-2.fc42          fedora       395.1 KiB
+ perl-Data-Dump          noarch 1.25-12.fc42         fedora        50.2 KiB
+ perl-Digest-HMAC        noarch 1.05-2.fc42          fedora        29.5 KiB
+ perl-Digest-SHA         x86_64 1:6.04-513.fc42      fedora       112.5 KiB
+ perl-Encode-Locale      noarch 1.05-31.fc42         fedora        19.0 KiB
+ perl-File-Copy          noarch 2.41-517.fc42        updates       19.6 KiB
+ perl-File-Listing       noarch 6.16-5.fc42          fedora        41.2 KiB
+ perl-File-Slurper       noarch 0.014-7.fc42         fedora        28.7 KiB
+ perl-HTML-Parser        x86_64 3.83-2.fc42          fedora       277.7 KiB
+ perl-HTML-Tagset        noarch 3.24-3.fc42          fedora        18.7 KiB
+ perl-HTTP-Cookies       noarch 6.11-5.fc42          fedora        73.4 KiB
+ perl-HTTP-Date          noarch 6.06-6.fc42          fedora        41.2 KiB
+ perl-HTTP-Message       noarch 7.00-2.fc42          fedora       215.3 KiB
+ perl-HTTP-Negotiate     noarch 6.01-40.fc42         fedora        27.6 KiB
+ perl-I18N-Langinfo      x86_64 0.24-517.fc42        updates       34.7 KiB
+ perl-IO-Compress        noarch 2.213-3.fc42         fedora         1.0 MiB
+ perl-IO-HTML            noarch 1.004-14.fc42        fedora        45.2 KiB
+ perl-LWP-MediaTypes     noarch 6.04-20.fc42         fedora        79.0 KiB
+ perl-Math-Complex       noarch 1.62-517.fc42        updates       85.0 KiB
+ perl-Module-Load        noarch 1:0.36-512.fc42      fedora        14.9 KiB
+ perl-NTLM               noarch 1.09-40.fc42         fedora        31.2 KiB
+ perl-Net-HTTP           noarch 6.23-6.fc42          fedora        74.7 KiB
+ perl-Time-HiRes         x86_64 4:1.9777-512.fc42    fedora       115.8 KiB
+ perl-TimeDate           noarch 1:2.33-16.fc42       fedora        95.2 KiB
+ perl-Try-Tiny           noarch 0.32-2.fc42          fedora        67.3 KiB
+ perl-WWW-RobotRules     noarch 6.02-41.fc42         fedora        24.3 KiB
+ perl-XML-Parser         x86_64 2.47-6.fc42          fedora       649.2 KiB
+ perl-libwww-perl        noarch 6.77-3.fc42          fedora       521.0 KiB
+ perl-subs               noarch 1.04-517.fc42        updates        2.1 KiB
+ tar                     x86_64 2:1.35-5.fc42        fedora         3.0 MiB
+ usermode                x86_64 1.114-12.fc42        fedora       831.3 KiB
+ wmctrl                  x86_64 1.07-39.fc42         fedora        62.2 KiB
+ xdpyinfo                x86_64 1.3.4-2.fc42         fedora        39.8 KiB
+ xrandr                  x86_64 1.5.3-2.fc42         fedora        75.6 KiB
+Instalowanie słabych zależności:
+ perl-IO-Compress-Brotli x86_64 0.004001-15.fc42     fedora        36.0 KiB
+ perl-Math-BigInt        noarch 1:2.0040.01-1.fc42   fedora       984.8 KiB
+ perl-PerlIO-utf8_strict x86_64 0.010-9.fc42         fedora        41.8 KiB
+ perl-Sys-Hostname       x86_64 1.25-517.fc42        updates       15.8 KiB
+ perl-XML-Dumper         noarch 0.81-51.fc42         fedora        39.9 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         55 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 10 MiB. Należy pobrać 10 MiB.
+Po tej operacji zostanie użyte dodatkowo 33 MiB (zainstaluje 33 MiB, usunie 0 B).
+[ 1/55] lm_sensors-0:3.6.0-22.fc42.x86_ 100% | 892.0 KiB/s | 140.9 KiB |  00m00s
+[ 2/55] hddtemp-0:0.3-0.58.beta15.fc42. 100% | 373.3 KiB/s |  60.8 KiB |  00m00s
+[ 3/55] perl-Cpanel-JSON-XS-0:4.39-2.fc 100% | 905.6 KiB/s | 151.2 KiB |  00m00s
+[ 4/55] wmctrl-0:1.07-39.fc42.x86_64    100% |   1.3 MiB/s |  34.8 KiB |  00m00s
+[ 5/55] perl-Time-HiRes-4:1.9777-512.fc 100% |   1.3 MiB/s |  57.5 KiB |  00m00s
+[ 6/55] xdpyinfo-0:1.3.4-2.fc42.x86_64  100% | 828.0 KiB/s |  25.7 KiB |  00m00s
+[ 7/55] xrandr-0:1.5.3-2.fc42.x86_64    100% | 451.3 KiB/s |  46.0 KiB |  00m00s
+[ 8/55] usermode-0:1.114-12.fc42.x86_64 100% |   2.1 MiB/s | 186.5 KiB |  00m00s
+[ 9/55] libXxf86dga-0:1.1.6-5.fc42.x86_ 100% | 675.2 KiB/s |  20.3 KiB |  00m00s
+[10/55] inxi-0:3.3.38-1.fc42.noarch     100% |   1.5 MiB/s | 588.7 KiB |  00m00s
+[11/55] ipmitool-0:1.8.19-10.fc42.x86_6 100% |   4.6 MiB/s |   1.9 MiB |  00m00s
+[12/55] libXmu-0:1.2.1-3.fc42.x86_64    100% | 650.3 KiB/s |  78.7 KiB |  00m00s
+[13/55] perl-File-Copy-0:2.41-517.fc42. 100% | 407.0 KiB/s |  20.3 KiB |  00m00s
+[14/55] libuser-0:0.64-12.fc42.x86_64   100% |   3.7 MiB/s | 401.0 KiB |  00m00s
+[15/55] bind-utils-32:9.18.36-1.fc42.x8 100% |   2.0 MiB/s | 222.4 KiB |  00m00s
+[16/55] bind-libs-32:9.18.36-1.fc42.x86 100% |  10.7 MiB/s |   1.3 MiB |  00m00s
+[17/55] tar-2:1.35-5.fc42.x86_64        100% |   2.1 MiB/s | 862.5 KiB |  00m00s
+[18/55] perl-Sys-Hostname-0:1.25-517.fc 100% | 445.3 KiB/s |  17.4 KiB |  00m00s
+[19/55] libuv-1:1.51.0-1.fc42.x86_64    100% |   3.1 MiB/s | 266.3 KiB |  00m00s
+[20/55] perl-XML-Parser-0:2.47-6.fc42.x 100% |   4.1 MiB/s | 236.6 KiB |  00m00s
+[21/55] perl-libwww-perl-0:6.77-3.fc42. 100% |   3.8 MiB/s | 207.4 KiB |  00m00s
+[22/55] perl-Data-Dump-0:1.25-12.fc42.n 100% | 930.6 KiB/s |  32.6 KiB |  00m00s
+[23/55] perl-File-Listing-0:6.16-5.fc42 100% | 986.5 KiB/s |  24.7 KiB |  00m00s
+[24/55] perl-Encode-Locale-0:1.05-31.fc 100% | 499.2 KiB/s |  18.5 KiB |  00m00s
+[25/55] fstrm-0:0.6.1-12.fc42.x86_64    100% |  95.9 KiB/s |  28.5 KiB |  00m00s
+[26/55] perl-HTTP-Cookies-0:6.11-5.fc42 100% |   1.0 MiB/s |  37.2 KiB |  00m00s
+[27/55] perl-XML-Dumper-0:0.81-51.fc42. 100% | 124.1 KiB/s |  24.9 KiB |  00m00s
+[28/55] perl-HTML-Parser-0:3.83-2.fc42. 100% |   2.3 MiB/s | 124.7 KiB |  00m00s
+[29/55] perl-HTTP-Date-0:6.06-6.fc42.no 100% | 901.2 KiB/s |  24.3 KiB |  00m00s
+[30/55] perl-LWP-MediaTypes-0:6.04-20.f 100% | 997.5 KiB/s |  32.9 KiB |  00m00s
+[31/55] perl-HTTP-Negotiate-0:6.01-40.f 100% | 375.1 KiB/s |  19.5 KiB |  00m00s
+[32/55] perl-Module-Load-1:0.36-512.fc4 100% | 467.2 KiB/s |  17.3 KiB |  00m00s
+[33/55] perl-HTTP-Message-0:7.00-2.fc42 100% |   1.5 MiB/s | 100.3 KiB |  00m00s
+[34/55] perl-NTLM-0:1.09-40.fc42.noarch 100% | 677.5 KiB/s |  21.7 KiB |  00m00s
+[35/55] perl-Try-Tiny-0:0.32-2.fc42.noa 100% |   1.6 MiB/s |  37.7 KiB |  00m00s
+[36/55] perl-WWW-RobotRules-0:6.02-41.f 100% | 749.2 KiB/s |  19.5 KiB |  00m00s
+[37/55] perl-Net-HTTP-0:6.23-6.fc42.noa 100% | 797.2 KiB/s |  39.1 KiB |  00m00s
+[38/55] perl-HTML-Tagset-0:3.24-3.fc42. 100% | 540.6 KiB/s |  18.4 KiB |  00m00s
+[39/55] perl-TimeDate-1:2.33-16.fc42.no 100% |   1.9 MiB/s |  57.6 KiB |  00m00s
+[40/55] perl-Clone-0:0.47-2.fc42.x86_64 100% | 731.2 KiB/s |  21.9 KiB |  00m00s
+[41/55] perl-Compress-Raw-Zlib-0:2.213- 100% |   1.8 MiB/s |  65.5 KiB |  00m00s
+[42/55] perl-IO-HTML-0:1.004-14.fc42.no 100% | 701.8 KiB/s |  27.4 KiB |  00m00s
+[43/55] mailcap-0:2.1.54-8.fc42.noarch  100% | 880.4 KiB/s |  34.3 KiB |  00m00s
+[44/55] perl-IO-Compress-0:2.213-3.fc42 100% |   4.6 MiB/s | 305.7 KiB |  00m00s
+[45/55] perl-Compress-Raw-Bzip2-0:2.213 100% |   1.4 MiB/s |  36.3 KiB |  00m00s
+[46/55] perl-Digest-HMAC-0:1.05-2.fc42. 100% | 539.2 KiB/s |  22.6 KiB |  00m00s
+[47/55] perl-Digest-SHA-1:6.04-513.fc42 100% |   1.6 MiB/s |  62.2 KiB |  00m00s
+[48/55] perl-Math-Complex-0:1.62-517.fc 100% |   1.6 MiB/s |  46.3 KiB |  00m00s
+[49/55] perl-Math-BigInt-1:2.0040.01-1. 100% |   4.2 MiB/s | 227.2 KiB |  00m00s
+[50/55] perl-subs-0:1.04-517.fc42.noarc 100% | 373.4 KiB/s |  12.0 KiB |  00m00s
+[51/55] perl-I18N-Langinfo-0:0.24-517.f 100% | 488.1 KiB/s |  25.9 KiB |  00m00s
+[52/55] perl-IO-Compress-Brotli-0:0.004 100% | 729.1 KiB/s |  27.0 KiB |  00m00s
+[53/55] perl-PerlIO-utf8_strict-0:0.010 100% | 976.9 KiB/s |  25.4 KiB |  00m00s
+[54/55] perl-File-Slurper-0:0.014-7.fc4 100% | 466.2 KiB/s |  21.0 KiB |  00m00s
+[55/55] freeipmi-0:1.6.15-3.fc42.x86_64 100% |   2.6 MiB/s |   1.9 MiB |  00m01s
+--------------------------------------------------------------------------------
+[55/55] Razem                           100% |   4.2 MiB/s |  10.2 MiB |  00m02s
+Wykonywanie transakcji
+[ 1/57] Weryfikowanie plików pakietu   100% |   1.4 KiB/s |  55.0   B |  00m00s
+[ 2/57] Przygotowywanie transakcji      100% | 443.0   B/s |  55.0   B |  00m00s
+[ 3/57] Instaluję perl-Compress-Raw-Zl 100% |   9.0 MiB/s | 165.5 KiB |  00m00s
+[ 4/57] Instaluję perl-File-Copy-0:2.4 100% |   3.9 MiB/s |  20.2 KiB |  00m00s
+[ 5/57] Instaluję perl-Time-HiRes-4:1. 100% |  16.4 MiB/s | 117.8 KiB |  00m00s
+[ 6/57] Instaluję perl-File-Slurper-0: 100% |   4.9 MiB/s |  30.0 KiB |  00m00s
+[ 7/57] Instaluję perl-subs-0:1.04-517 100% | 623.0 KiB/s |   2.5 KiB |  00m00s
+[ 8/57] Instaluję perl-Data-Dump-0:1.2 100% |   8.5 MiB/s |  52.2 KiB |  00m00s
+[ 9/57] Instaluję perl-I18N-Langinfo-0 100% |   7.1 MiB/s |  36.1 KiB |  00m00s
+[10/57] Instaluję perl-Encode-Locale-0 100% |   3.9 MiB/s |  20.1 KiB |  00m00s
+[11/57] Instaluję perl-Math-Complex-0: 100% |  16.8 MiB/s |  85.8 KiB |  00m00s
+[12/57] Instaluję perl-Digest-SHA-1:6. 100% |   4.9 MiB/s | 115.0 KiB |  00m00s
+[13/57] Instaluję perl-Digest-HMAC-0:1 100% |   6.1 MiB/s |  31.5 KiB |  00m00s
+[14/57] Instaluję perl-NTLM-0:1.09-40. 100% |   6.4 MiB/s |  32.7 KiB |  00m00s
+[15/57] Instaluję perl-Compress-Raw-Bz 100% |  11.3 MiB/s |  69.6 KiB |  00m00s
+[16/57] Instaluję perl-IO-Compress-0:2 100% |  33.3 MiB/s |   1.0 MiB |  00m00s
+[17/57] Instaluję perl-Net-HTTP-0:6.23 100% |  12.6 MiB/s |  77.2 KiB |  00m00s
+[18/57] Instaluję mailcap-0:2.1.54-8.f 100% |  14.2 MiB/s |  87.1 KiB |  00m00s
+[19/57] Instaluję perl-LWP-MediaTypes- 100% |  13.1 MiB/s |  80.5 KiB |  00m00s
+[20/57] Instaluję perl-IO-HTML-0:1.004 100% |   7.6 MiB/s |  46.8 KiB |  00m00s
+[21/57] Instaluję perl-Clone-0:0.47-2. 100% |   5.6 MiB/s |  34.2 KiB |  00m00s
+[22/57] Instaluję perl-TimeDate-1:2.33 100% |   9.2 MiB/s | 103.7 KiB |  00m00s
+[23/57] Instaluję perl-HTTP-Date-0:6.0 100% |   8.3 MiB/s |  42.6 KiB |  00m00s
+[24/57] Instaluję perl-HTTP-Message-0: 100% |  26.8 MiB/s | 219.9 KiB |  00m00s
+[25/57] Instaluję perl-HTTP-Cookies-0: 100% |  14.8 MiB/s |  75.7 KiB |  00m00s
+[26/57] Instaluję perl-HTTP-Negotiate- 100% |   5.6 MiB/s |  28.7 KiB |  00m00s
+[27/57] Instaluję perl-File-Listing-0: 100% |   8.3 MiB/s |  42.5 KiB |  00m00s
+[28/57] Instaluję perl-HTML-Tagset-0:3 100% |   3.8 MiB/s |  19.7 KiB |  00m00s
+[29/57] Instaluję perl-HTML-Parser-0:3 100% |  27.7 MiB/s | 283.7 KiB |  00m00s
+[30/57] Instaluję perl-WWW-RobotRules- 100% |   5.0 MiB/s |  25.8 KiB |  00m00s
+[31/57] Instaluję perl-Try-Tiny-0:0.32 100% |   9.9 MiB/s |  71.1 KiB |  00m00s
+[32/57] Instaluję perl-Module-Load-1:0 100% |   3.1 MiB/s |  15.9 KiB |  00m00s
+[33/57] Instaluję perl-libwww-perl-0:6 100% |  19.2 MiB/s | 530.3 KiB |  00m00s
+[34/57] Instaluję perl-XML-Parser-0:2. 100% |  46.0 MiB/s | 659.6 KiB |  00m00s
+[35/57] Instaluję libuv-1:1.51.0-1.fc4 100% |  69.9 MiB/s | 573.0 KiB |  00m00s
+[36/57] Instaluję fstrm-0:0.6.1-12.fc4 100% |  10.9 MiB/s |  56.0 KiB |  00m00s
+[37/57] Instaluję bind-libs-32:9.18.36 100% | 170.6 MiB/s |   3.6 MiB |  00m00s
+[38/57] Instaluję bind-utils-32:9.18.3 100% |  25.3 MiB/s | 672.6 KiB |  00m00s
+[39/57] Instaluję freeipmi-0:1.6.15-3. 100% | 127.2 MiB/s |   8.5 MiB |  00m00s
+[40/57] Instaluję libuser-0:0.64-12.fc 100% |  46.6 MiB/s |   1.9 MiB |  00m00s
+[41/57] Instaluję usermode-0:1.114-12. 100% |  25.0 MiB/s | 843.6 KiB |  00m00s
+[42/57] Instaluję hddtemp-0:0.3-0.58.b 100% |   2.6 MiB/s | 146.4 KiB |  00m00s
+[43/57] Instaluję libXxf86dga-0:1.1.6- 100% |   7.6 MiB/s |  39.0 KiB |  00m00s
+[44/57] Instaluję xdpyinfo-0:1.3.4-2.f 100% |   2.1 MiB/s |  41.1 KiB |  00m00s
+[45/57] Instaluję libXmu-0:1.2.1-3.fc4 100% |  32.8 MiB/s | 201.3 KiB |  00m00s
+[46/57] Instaluję wmctrl-0:1.07-39.fc4 100% |   3.3 MiB/s |  63.7 KiB |  00m00s
+[47/57] Instaluję xrandr-0:1.5.3-2.fc4 100% |   3.9 MiB/s |  76.7 KiB |  00m00s
+[48/57] Instaluję tar-2:1.35-5.fc42.x8 100% |  82.3 MiB/s |   3.0 MiB |  00m00s
+[49/57] Instaluję perl-Cpanel-JSON-XS- 100% |  16.9 MiB/s | 399.1 KiB |  00m00s
+[50/57] Instaluję lm_sensors-0:3.6.0-2 100% |   7.8 MiB/s | 468.7 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: lm_sensors-0:3.6.0-22.fc42.x86_64     
+>>> Zakończono post-install scriptlet: lm_sensors-0:3.6.0-22.fc42.x86_64        
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/system/multi-user.target.wants/lm_sensors.serv
+>>>                                                                             
+[51/57] Instaluję ipmitool-0:1.8.19-10 100% | 133.6 MiB/s |   5.5 MiB |  00m00s
+[52/57] Instaluję inxi-0:3.3.38-1.fc42 100% |  88.8 MiB/s |   2.2 MiB |  00m00s
+[53/57] Instaluję perl-XML-Dumper-0:0. 100% |   8.0 MiB/s |  40.9 KiB |  00m00s
+[54/57] Instaluję perl-Math-BigInt-1:2 100% |  96.6 MiB/s | 988.8 KiB |  00m00s
+[55/57] Instaluję perl-IO-Compress-Bro 100% |   1.8 MiB/s |  38.8 KiB |  00m00s
+[56/57] Instaluję perl-PerlIO-utf8_str 100% |   7.2 MiB/s |  44.1 KiB |  00m00s
+[57/57] Instaluję perl-Sys-Hostname-0: 100% |  22.1 KiB/s |  17.2 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                   Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ kitty                   x86_64 0.42.1-1.fc42 updates       12.6 MiB
+Instalowanie zależności:
+ kitty-kitten            x86_64 0.42.1-1.fc42 updates       20.2 MiB
+ kitty-shell-integration noarch 0.42.1-1.fc42 updates      118.8 KiB
+ kitty-terminfo          noarch 0.42.1-1.fc42 updates       37.9 KiB
+ xxhash-libs             x86_64 0.8.3-2.fc42  fedora        90.2 KiB
+Instalowanie słabych zależności:
+ ripgrep                 x86_64 14.1.1-2.fc42 fedora         4.7 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          6 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 12 MiB. Należy pobrać 12 MiB.
+Po tej operacji zostanie użyte dodatkowo 38 MiB (zainstaluje 38 MiB, usunie 0 B).
+[1/6] kitty-shell-integration-0:0.42.1- 100% | 533.6 KiB/s |  47.0 KiB |  00m00s
+[2/6] kitty-terminfo-0:0.42.1-1.fc42.no 100% | 238.0 KiB/s |  24.5 KiB |  00m00s
+[3/6] xxhash-libs-0:0.8.3-2.fc42.x86_64 100% | 287.3 KiB/s |  39.1 KiB |  00m00s
+[4/6] ripgrep-0:14.1.1-2.fc42.x86_64    100% |   3.5 MiB/s |   1.6 MiB |  00m00s
+[5/6] kitty-0:0.42.1-1.fc42.x86_64      100% |   5.9 MiB/s |   4.5 MiB |  00m01s
+[6/6] kitty-kitten-0:0.42.1-1.fc42.x86_ 100% |   3.8 MiB/s |   6.2 MiB |  00m02s
+--------------------------------------------------------------------------------
+[6/6] Razem                             100% |   5.2 MiB/s |  12.3 MiB |  00m02s
+Wykonywanie transakcji
+[1/8] Weryfikowanie plików pakietu     100% | 153.0   B/s |   6.0   B |  00m00s
+[2/8] Przygotowywanie transakcji        100% |  54.0   B/s |   6.0   B |  00m00s
+[3/8] Instaluję xxhash-libs-0:0.8.3-2. 100% |   5.3 MiB/s |  91.6 KiB |  00m00s
+[4/8] Instaluję kitty-terminfo-0:0.42. 100% |   7.5 MiB/s |  38.5 KiB |  00m00s
+[5/8] Instaluję kitty-shell-integratio 100% |  13.3 MiB/s | 122.8 KiB |  00m00s
+[6/8] Instaluję kitty-kitten-0:0.42.1- 100% | 208.4 MiB/s |  20.2 MiB |  00m00s
+[7/8] Instaluję kitty-0:0.42.1-1.fc42. 100% |  90.3 MiB/s |  12.7 MiB |  00m00s
+[8/8] Instaluję ripgrep-0:14.1.1-2.fc4 100% |  11.5 MiB/s |   4.7 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet             Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ kvantum           x86_64 1.1.4-1.fc42  updates        3.6 MiB
+Instalowanie zależności:
+ kde-filesystem    x86_64 5-5.fc42      fedora       774.0   B
+ kf6-filesystem    x86_64 6.14.0-1.fc42 updates        1.5 KiB
+ kf6-kwindowsystem x86_64 6.14.0-1.fc42 updates      680.5 KiB
+ kvantum-data      noarch 1.1.4-1.fc42  updates        4.7 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          5 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 9 MiB (zainstaluje 9 MiB, usunie 0 B).
+[1/5] kde-filesystem-0:5-5.fc42.x86_64  100% | 218.1 KiB/s |  38.0 KiB |  00m00s
+[2/5] kf6-filesystem-0:6.14.0-1.fc42.x8 100% |  62.2 KiB/s |  12.0 KiB |  00m00s
+[3/5] kf6-kwindowsystem-0:6.14.0-1.fc42 100% |   1.0 MiB/s | 261.7 KiB |  00m00s
+[4/5] kvantum-0:1.1.4-1.fc42.x86_64     100% |   2.7 MiB/s | 888.6 KiB |  00m00s
+[5/5] kvantum-data-0:1.1.4-1.fc42.noarc 100% | 930.8 KiB/s | 348.1 KiB |  00m00s
+--------------------------------------------------------------------------------
+[5/5] Razem                             100% |   2.3 MiB/s |   1.5 MiB |  00m01s
+Wykonywanie transakcji
+[1/7] Weryfikowanie plików pakietu     100% | 714.0   B/s |   5.0   B |  00m00s
+[2/7] Przygotowywanie transakcji        100% |  45.0   B/s |   5.0   B |  00m00s
+[3/7] Instaluję kde-filesystem-0:5-5.f 100% |   1.3 MiB/s |  54.2 KiB |  00m00s
+[4/7] Instaluję kf6-filesystem-0:6.14. 100% | 613.3 KiB/s |   3.7 KiB |  00m00s
+[5/7] Instaluję kf6-kwindowsystem-0:6. 100% |  25.4 MiB/s | 702.3 KiB |  00m00s
+[6/7] Instaluję kvantum-data-0:1.1.4-1 100% | 158.0 MiB/s |   4.7 MiB |  00m00s
+[7/7] Instaluję kvantum-0:1.1.4-1.fc42 100% |  10.8 MiB/s |   3.6 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                          Arch.  Wersja          Repozytorium   Rozmiar
+Instalowanie:
+ network-manager-applet         x86_64 1.36.0-5.fc42   fedora       667.7 KiB
+Instalowanie zależności:
+ libappindicator-gtk3           x86_64 12.10.1-8.fc42  fedora       108.5 KiB
+ libdbusmenu                    x86_64 16.04.0-29.fc42 fedora       540.1 KiB
+ libdbusmenu-gtk3               x86_64 16.04.0-29.fc42 fedora        92.4 KiB
+ libnma                         x86_64 1.10.6-9.fc42   fedora         1.1 MiB
+ mobile-broadband-provider-info noarch 20240407-3.fc42 fedora       504.0 KiB
+ nm-connection-editor           x86_64 1.36.0-5.fc42   fedora         4.8 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          7 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 8 MiB (zainstaluje 8 MiB, usunie 0 B).
+[1/7] libappindicator-gtk3-0:12.10.1-8. 100% | 215.6 KiB/s |  44.6 KiB |  00m00s
+[2/7] network-manager-applet-0:1.36.0-5 100% | 914.5 KiB/s | 215.8 KiB |  00m00s
+[3/7] libnma-0:1.10.6-9.fc42.x86_64     100% |   1.1 MiB/s | 291.6 KiB |  00m00s
+[4/7] libdbusmenu-0:16.04.0-29.fc42.x86 100% | 499.6 KiB/s | 132.4 KiB |  00m00s
+[5/7] libdbusmenu-gtk3-0:16.04.0-29.fc4 100% | 619.9 KiB/s |  37.8 KiB |  00m00s
+[6/7] mobile-broadband-provider-info-0: 100% |   1.7 MiB/s |  69.2 KiB |  00m00s
+[7/7] nm-connection-editor-0:1.36.0-5.f 100% |   2.3 MiB/s | 868.4 KiB |  00m00s
+--------------------------------------------------------------------------------
+[7/7] Razem                             100% |   1.9 MiB/s |   1.6 MiB |  00m01s
+Wykonywanie transakcji
+[1/9] Weryfikowanie plików pakietu     100% | 700.0   B/s |   7.0   B |  00m00s
+[2/9] Przygotowywanie transakcji        100% |  67.0   B/s |   7.0   B |  00m00s
+[3/9] Instaluję libdbusmenu-0:16.04.0- 100% |  27.9 MiB/s | 542.3 KiB |  00m00s
+[4/9] Instaluję libdbusmenu-gtk3-0:16. 100% |  15.2 MiB/s |  93.4 KiB |  00m00s
+[5/9] Instaluję libappindicator-gtk3-0 100% |  15.4 MiB/s | 110.2 KiB |  00m00s
+[6/9] Instaluję mobile-broadband-provi 100% |  70.5 MiB/s | 505.4 KiB |  00m00s
+[7/9] Instaluję libnma-0:1.10.6-9.fc42 100% |  48.6 MiB/s |   1.1 MiB |  00m00s
+[8/9] Instaluję nm-connection-editor-0 100% |  99.7 MiB/s |   4.8 MiB |  00m00s
+[9/9] Instaluję network-manager-applet 100% |   2.0 MiB/s | 687.7 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet   Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ openssl x86_64 1:3.2.4-3.fc42 fedora         1.7 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/1] openssl-1:3.2.4-3.fc42.x86_64     100% |   2.0 MiB/s |   1.1 MiB |  00m01s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 914.0 KiB/s |   1.1 MiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 200.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję openssl-1:3.2.4-3.fc42 100% |   6.9 MiB/s |   1.7 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet   Arch.  Wersja     Repozytorium   Rozmiar
+Instalowanie:
+ pamixer x86_64 1.6-5.fc42 fedora       314.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 127 KiB. Należy pobrać 127 KiB.
+Po tej operacji zostanie użyte dodatkowo 314 KiB (zainstaluje 314 KiB, usunie 0 B).
+[1/1] pamixer-0:1.6-5.fc42.x86_64       100% | 595.5 KiB/s | 127.4 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 184.7 KiB/s | 127.4 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję pamixer-0:1.6-5.fc42.x 100% |   1.5 MiB/s | 315.8 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                            Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ pavucontrol                      x86_64 6.1-3.fc42    fedora       942.8 KiB
+Instalowanie zależności:
+ cairomm1.16                      x86_64 1.18.0-8.fc42 fedora       227.2 KiB
+ glibmm2.68                       x86_64 2.83.1-1.fc42 fedora         3.2 MiB
+ gssdp                            x86_64 1.6.3-5.fc42  fedora       149.9 KiB
+ gstreamer1-plugins-bad-free-libs x86_64 1.26.2-1.fc42 updates        3.1 MiB
+ gtk4                             x86_64 4.18.5-1.fc42 updates       26.1 MiB
+ gtkmm4.0                         x86_64 4.18.0-1.fc42 fedora         5.4 MiB
+ gupnp                            x86_64 1.6.8-1.fc42  fedora       308.0 KiB
+ gupnp-igd                        x86_64 1.6.0-6.fc42  fedora        70.7 KiB
+ libnice                          x86_64 0.1.22-5.fc42 fedora       497.7 KiB
+ libsigc++30                      x86_64 3.6.0-5.fc42  fedora        93.4 KiB
+ pangomm2.48                      x86_64 2.56.1-1.fc42 fedora       312.5 KiB
+ pulseaudio-libs-glib2            x86_64 17.0-5.fc42   fedora        19.7 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         13 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 10 MiB. Należy pobrać 10 MiB.
+Po tej operacji zostanie użyte dodatkowo 40 MiB (zainstaluje 40 MiB, usunie 0 B).
+[ 1/13] pulseaudio-libs-glib2-0:17.0-5. 100% | 101.2 KiB/s |  16.3 KiB |  00m00s
+[ 2/13] pavucontrol-0:6.1-3.fc42.x86_64 100% |   1.3 MiB/s | 228.5 KiB |  00m00s
+[ 3/13] libsigc++30-0:3.6.0-5.fc42.x86_ 100% | 233.7 KiB/s |  39.7 KiB |  00m00s
+[ 4/13] pangomm2.48-0:2.56.1-1.fc42.x86 100% |   1.7 MiB/s |  86.3 KiB |  00m00s
+[ 5/13] gstreamer1-plugins-bad-free-lib 100% |   8.5 MiB/s |   1.0 MiB |  00m00s
+[ 6/13] glibmm2.68-0:2.83.1-1.fc42.x86_ 100% |   2.1 MiB/s | 761.7 KiB |  00m00s
+[ 7/13] cairomm1.16-0:1.18.0-8.fc42.x86 100% | 330.5 KiB/s |  67.1 KiB |  00m00s
+[ 8/13] libnice-0:0.1.22-5.fc42.x86_64  100% |   3.0 MiB/s | 200.5 KiB |  00m00s
+[ 9/13] gupnp-igd-0:1.6.0-6.fc42.x86_64 100% | 512.0 KiB/s |  33.8 KiB |  00m00s
+[10/13] gtkmm4.0-0:4.18.0-1.fc42.x86_64 100% |   2.5 MiB/s |   1.1 MiB |  00m00s
+[11/13] gssdp-0:1.6.3-5.fc42.x86_64     100% | 639.3 KiB/s |  57.5 KiB |  00m00s
+[12/13] gupnp-0:1.6.8-1.fc42.x86_64     100% |   2.0 MiB/s | 106.6 KiB |  00m00s
+[13/13] gtk4-0:4.18.5-1.fc42.x86_64     100% |   4.8 MiB/s |   6.3 MiB |  00m01s
+--------------------------------------------------------------------------------
+[13/13] Razem                           100% |   5.5 MiB/s |  10.0 MiB |  00m02s
+Wykonywanie transakcji
+[ 1/15] Weryfikowanie plików pakietu   100% | 382.0   B/s |  13.0   B |  00m00s
+[ 2/15] Przygotowywanie transakcji      100% | 110.0   B/s |  13.0   B |  00m00s
+[ 3/15] Instaluję libsigc++30-0:3.6.0- 100% |   9.3 MiB/s |  94.9 KiB |  00m00s
+[ 4/15] Instaluję glibmm2.68-0:2.83.1- 100% | 189.1 MiB/s |   3.2 MiB |  00m00s
+[ 5/15] Instaluję cairomm1.16-0:1.18.0 100% |  37.2 MiB/s | 228.4 KiB |  00m00s
+[ 6/15] Instaluję gssdp-0:1.6.3-5.fc42 100% |  24.7 MiB/s | 151.9 KiB |  00m00s
+[ 7/15] Instaluję gupnp-0:1.6.8-1.fc42 100% |  43.2 MiB/s | 309.8 KiB |  00m00s
+[ 8/15] Instaluję gupnp-igd-0:1.6.0-6. 100% |  14.2 MiB/s |  72.5 KiB |  00m00s
+[ 9/15] Instaluję libnice-0:0.1.22-5.f 100% |  21.3 MiB/s | 500.5 KiB |  00m00s
+[10/15] Instaluję gstreamer1-plugins-b 100% | 112.0 MiB/s |   3.1 MiB |  00m00s
+[11/15] Instaluję gtk4-0:4.18.5-1.fc42 100% | 206.0 MiB/s |  26.2 MiB |  00m00s
+[12/15] Instaluję pangomm2.48-0:2.56.1 100% |  43.8 MiB/s | 314.0 KiB |  00m00s
+[13/15] Instaluję gtkmm4.0-0:4.18.0-1. 100% | 269.3 MiB/s |   5.4 MiB |  00m00s
+[14/15] Instaluję pulseaudio-libs-glib 100% |   5.0 MiB/s |  20.6 KiB |  00m00s
+[15/15] Instaluję pavucontrol-0:6.1-3. 100% |   1.8 MiB/s | 952.6 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet          Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ pipewire-utils x86_64 1.4.5-1.fc42 updates        1.4 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 600 KiB. Należy pobrać 600 KiB.
+Po tej operacji zostanie użyte dodatkowo 1 MiB (zainstaluje 1 MiB, usunie 0 B).
+[1/1] pipewire-utils-0:1.4.5-1.fc42.x86 100% |   1.7 MiB/s | 600.3 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   1.2 MiB/s | 600.3 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 333.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję pipewire-utils-0:1.4.5 100% |   5.8 MiB/s |   1.4 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet          Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ playerctl      x86_64 2.4.1-10.fc42 fedora        98.2 KiB
+Instalowanie zależności:
+ playerctl-libs x86_64 2.4.1-10.fc42 fedora       105.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 88 KiB. Należy pobrać 88 KiB.
+Po tej operacji zostanie użyte dodatkowo 204 KiB (zainstaluje 204 KiB, usunie 0 B).
+[1/2] playerctl-0:2.4.1-10.fc42.x86_64  100% | 317.9 KiB/s |  43.6 KiB |  00m00s
+[2/2] playerctl-libs-0:2.4.1-10.fc42.x8 100% | 320.0 KiB/s |  44.8 KiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 266.1 KiB/s |  88.4 KiB |  00m00s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  17.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję playerctl-libs-0:2.4.1 100% |   6.5 MiB/s | 106.8 KiB |  00m00s
+[4/4] Instaluję playerctl-0:2.4.1-10.f 100% | 489.1 KiB/s | 100.8 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                      Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ python3-requests           noarch 2.32.3-4.fc42 fedora       483.1 KiB
+Instalowanie zależności:
+ python3-charset-normalizer noarch 3.4.1-3.fc42  fedora       319.6 KiB
+ python3-idna               noarch 3.10-2.fc42   fedora       628.0 KiB
+ python3-pysocks            noarch 1.7.1-26.fc42 fedora       100.9 KiB
+ python3-urllib3            noarch 2.3.0-2.fc42  fedora         1.0 MiB
+Instalowanie słabych zależności:
+ python3-urllib3+socks      noarch 2.3.0-2.fc42  fedora         7.5 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          6 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 719 KiB. Należy pobrać 719 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/6] python3-idna-0:3.10-2.fc42.noarch 100% | 820.1 KiB/s | 117.3 KiB |  00m00s
+[2/6] python3-requests-0:2.32.3-4.fc42. 100% |   1.0 MiB/s | 159.6 KiB |  00m00s
+[3/6] python3-charset-normalizer-0:3.4. 100% | 564.4 KiB/s | 108.4 KiB |  00m00s
+[4/6] python3-pysocks-0:1.7.1-26.fc42.n 100% | 788.5 KiB/s |  39.4 KiB |  00m00s
+[5/6] python3-urllib3+socks-0:2.3.0-2.f 100% |  57.2 KiB/s |  11.4 KiB |  00m00s
+[6/6] python3-urllib3-0:2.3.0-2.fc42.no 100% |   1.0 MiB/s | 283.3 KiB |  00m00s
+--------------------------------------------------------------------------------
+[6/6] Razem                             100% |   1.6 MiB/s | 719.3 KiB |  00m00s
+Wykonywanie transakcji
+[1/8] Weryfikowanie plików pakietu     100% |   1.5 KiB/s |   6.0   B |  00m00s
+[2/8] Przygotowywanie transakcji        100% |  93.0   B/s |   6.0   B |  00m00s
+[3/8] Instaluję python3-idna-0:3.10-2. 100% |  41.3 MiB/s | 634.3 KiB |  00m00s
+[4/8] Instaluję python3-urllib3-0:2.3. 100% |  48.5 MiB/s |   1.0 MiB |  00m00s
+[5/8] Instaluję python3-pysocks-0:1.7. 100% |  16.9 MiB/s | 103.6 KiB |  00m00s
+[6/8] Instaluję python3-charset-normal 100% |  12.4 MiB/s | 329.5 KiB |  00m00s
+[7/8] Instaluję python3-requests-0:2.3 100% |  40.3 MiB/s | 495.2 KiB |  00m00s
+[8/8] Instaluję python3-urllib3+socks- 100% | 704.0   B/s | 124.0   B |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet       Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ python3-pip noarch 24.3.1-2.fc42 fedora        11.3 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 3 MiB. Należy pobrać 3 MiB.
+Po tej operacji zostanie użyte dodatkowo 11 MiB (zainstaluje 11 MiB, usunie 0 B).
+[1/1] python3-pip-0:24.3.1-2.fc42.noarc 100% |   7.5 MiB/s |   2.7 MiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   3.3 MiB/s |   2.7 MiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |  90.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |  13.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję python3-pip-0:24.3.1-2 100% |  20.7 MiB/s |  11.6 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet             Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ python3-pyquery   noarch 2.0.1-1.fc42 fedora       244.1 KiB
+Instalowanie zależności:
+ python3-cssselect noarch 1.2.0-2.fc42 fedora       242.7 KiB
+ python3-lxml      x86_64 5.3.2-1.fc42 updates        4.9 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          3 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 5 MiB (zainstaluje 5 MiB, usunie 0 B).
+[1/3] python3-pyquery-0:2.0.1-1.fc42.no 100% | 343.6 KiB/s |  65.3 KiB |  00m00s
+[2/3] python3-cssselect-0:1.2.0-2.fc42. 100% | 269.5 KiB/s |  57.4 KiB |  00m00s
+[3/3] python3-lxml-0:5.3.2-1.fc42.x86_6 100% |   3.3 MiB/s |   1.4 MiB |  00m00s
+--------------------------------------------------------------------------------
+[3/3] Razem                             100% |   2.3 MiB/s |   1.5 MiB |  00m01s
+Wykonywanie transakcji
+[1/5] Weryfikowanie plików pakietu     100% | 333.0   B/s |   3.0   B |  00m00s
+[2/5] Przygotowywanie transakcji        100% |  27.0   B/s |   3.0   B |  00m00s
+[3/5] Instaluję python3-lxml-0:5.3.2-1 100% |  91.7 MiB/s |   5.0 MiB |  00m00s
+[4/5] Instaluję python3-cssselect-0:1. 100% |  26.8 MiB/s | 246.8 KiB |  00m00s
+[5/5] Instaluję python3-pyquery-0:2.0. 100% |   1.1 MiB/s | 248.7 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet              Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ qt5ct              x86_64 1.1-31.fc42    updates        1.2 MiB
+Instalowanie zależności:
+ qt-settings        noarch 42.0-3.fc42    fedora         1.1 KiB
+ qt5-filesystem     x86_64 5.15.17-1.fc42 updates        0.0   B
+ qt5-qtbase         x86_64 5.15.17-1.fc42 updates       10.0 MiB
+ qt5-qtbase-common  noarch 5.15.17-1.fc42 updates       78.0   B
+ qt5-qtbase-gui     x86_64 5.15.17-1.fc42 updates       20.2 MiB
+ qt5-qtdeclarative  x86_64 5.15.17-1.fc42 updates       14.5 MiB
+Instalowanie słabych zależności:
+ qt5-qttranslations noarch 5.15.17-1.fc42 updates       14.7 MiB
+ qt5-qtwayland      x86_64 5.15.17-1.fc42 updates        4.6 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          9 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 18 MiB. Należy pobrać 18 MiB.
+Po tej operacji zostanie użyte dodatkowo 65 MiB (zainstaluje 65 MiB, usunie 0 B).
+[1/9] qt5-qtbase-common-0:5.15.17-1.fc4 100% | 171.3 KiB/s |  10.8 KiB |  00m00s
+[2/9] qt5-filesystem-0:5.15.17-1.fc42.x 100% | 480.1 KiB/s |  10.1 KiB |  00m00s
+[3/9] qt-settings-0:42.0-3.fc42.noarch  100% |  89.7 KiB/s |  10.6 KiB |  00m00s
+[4/9] qt5ct-0:1.1-31.fc42.x86_64        100% |   1.3 MiB/s | 258.3 KiB |  00m00s
+[5/9] qt5-qttranslations-0:5.15.17-1.fc 100% |   3.0 MiB/s |   2.0 MiB |  00m01s
+[6/9] qt5-qtwayland-0:5.15.17-1.fc42.x8 100% | 967.2 KiB/s |   1.1 MiB |  00m01s
+[7/9] qt5-qtbase-0:5.15.17-1.fc42.x86_6 100% |   1.6 MiB/s |   3.6 MiB |  00m02s
+[8/9] qt5-qtdeclarative-0:5.15.17-1.fc4 100% |   2.0 MiB/s |   4.3 MiB |  00m02s
+[9/9] qt5-qtbase-gui-0:5.15.17-1.fc42.x 100% |   2.5 MiB/s |   6.5 MiB |  00m03s
+--------------------------------------------------------------------------------
+[9/9] Razem                             100% |   6.2 MiB/s |  17.7 MiB |  00m03s
+Wykonywanie transakcji
+[ 1/11] Weryfikowanie plików pakietu   100% | 160.0   B/s |   9.0   B |  00m00s
+[ 2/11] Przygotowywanie transakcji      100% |  71.0   B/s |   9.0   B |  00m00s
+[ 3/11] Instaluję qt5-filesystem-0:5.1 100% | 218.0 KiB/s |   3.5 KiB |  00m00s
+[ 4/11] Instaluję qt-settings-0:42.0-3 100% | 279.9 KiB/s |   1.7 KiB |  00m00s
+[ 5/11] Instaluję qt5-qtbase-common-0: 100% |  18.3 KiB/s | 356.0   B |  00m00s
+[ 6/11] Instaluję qt5-qtbase-0:5.15.17 100% | 111.3 MiB/s |  10.0 MiB |  00m00s
+[ 7/11] Instaluję qt5-qtbase-gui-0:5.1 100% | 217.3 MiB/s |  20.2 MiB |  00m00s
+[ 8/11] Instaluję qt5-qtdeclarative-0: 100% | 201.3 MiB/s |  14.5 MiB |  00m00s
+[ 9/11] Instaluję qt5-qtwayland-0:5.15 100% | 152.5 MiB/s |   4.6 MiB |  00m00s
+[10/11] Instaluję qt5ct-0:1.1-31.fc42. 100% |  37.4 MiB/s |   1.2 MiB |  00m00s
+[11/11] Instaluję qt5-qttranslations-0 100% |  24.2 MiB/s |  14.8 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja      Repozytorium   Rozmiar
+Instalowanie:
+ qt6ct x86_64 0.9-13.fc42 updates      712.7 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 198 KiB. Należy pobrać 198 KiB.
+Po tej operacji zostanie użyte dodatkowo 713 KiB (zainstaluje 713 KiB, usunie 0 B).
+[1/1] qt6ct-0:0.9-13.fc42.x86_64        100% |   1.1 MiB/s | 198.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 690.4 KiB/s | 198.2 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję qt6ct-0:0.9-13.fc42.x8 100% |   3.5 MiB/s | 718.4 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                Arch.  Wersja                Repozytorium   Rozmiar
+Instalowanie:
+ rofi-wayland         x86_64 1.7.9+wayland1-1.fc42 updates      648.4 KiB
+Instalowanie zależności:
+ rofi-themes          noarch 1.7.9-1.fc42          updates      427.3 KiB
+ startup-notification x86_64 0.12-31.fc42          fedora        94.2 KiB
+ xcb-imdkit           x86_64 1.0.9-4.fc42          fedora       544.5 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          4 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/4] startup-notification-0:0.12-31.fc 100% | 214.9 KiB/s |  41.3 KiB |  00m00s
+[2/4] rofi-themes-0:1.7.9-1.fc42.noarch 100% |   1.6 MiB/s | 339.7 KiB |  00m00s
+[3/4] xcb-imdkit-0:1.0.9-4.fc42.x86_64  100% |   1.2 MiB/s | 330.8 KiB |  00m00s
+[4/4] rofi-wayland-0:1.7.9+wayland1-1.f 100% | 988.1 KiB/s | 287.5 KiB |  00m00s
+--------------------------------------------------------------------------------
+[4/4] Razem                             100% |   1.1 MiB/s |   1.0 MiB |  00m01s
+Wykonywanie transakcji
+[1/6] Weryfikowanie plików pakietu     100% | 800.0   B/s |   4.0   B |  00m00s
+[2/6] Przygotowywanie transakcji        100% |  36.0   B/s |   4.0   B |  00m00s
+[3/6] Instaluję xcb-imdkit-0:1.0.9-4.f 100% |  29.6 MiB/s | 545.9 KiB |  00m00s
+[4/6] Instaluję startup-notification-0 100% |  13.4 MiB/s |  96.1 KiB |  00m00s
+[5/6] Instaluję rofi-themes-0:1.7.9-1. 100% |  42.3 MiB/s | 433.1 KiB |  00m00s
+[6/6] Instaluję rofi-wayland-0:1.7.9+w 100% |   2.8 MiB/s | 651.9 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ slurp x86_64 1.5.0-4.fc42 fedora        43.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 26 KiB. Należy pobrać 26 KiB.
+Po tej operacji zostanie użyte dodatkowo 43 KiB (zainstaluje 43 KiB, usunie 0 B).
+[1/1] slurp-0:1.5.0-4.fc42.x86_64       100% | 145.7 KiB/s |  26.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |  27.3 KiB/s |  26.2 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję slurp-0:1.5.0-4.fc42.x 100% | 207.0 KiB/s |  44.5 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet              Arch.  Wersja          Repozytorium   Rozmiar
+Instalowanie:
+ swappy             x86_64 1.5.1-6.fc42    fedora       126.8 KiB
+Instalowanie zależności:
+ desktop-file-utils x86_64 0.28-1.fc42     fedora       218.4 KiB
+ emacs-filesystem   noarch 1:30.0-4.fc42   fedora         0.0   B
+ which              x86_64 2.23-1.fc42     fedora        83.4 KiB
+Instalowanie słabych zależności:
+ fontawesome4-fonts noarch 1:4.7.0-24.fc42 fedora       296.6 KiB
+ wl-clipboard       x86_64 2.2.1-4.fc42    fedora       140.6 KiB
+ xdg-utils          noarch 1.2.1-3.fc42    fedora       346.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          7 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 502 KiB. Należy pobrać 502 KiB.
+Po tej operacji zostanie użyte dodatkowo 1 MiB (zainstaluje 1 MiB, usunie 0 B).
+[1/7] xdg-utils-0:1.2.1-3.fc42.noarch   100% | 702.6 KiB/s |  79.4 KiB |  00m00s
+[2/7] desktop-file-utils-0:0.28-1.fc42. 100% | 588.6 KiB/s |  68.9 KiB |  00m00s
+[3/7] emacs-filesystem-1:30.0-4.fc42.no 100% | 525.4 KiB/s |   7.4 KiB |  00m00s
+[4/7] which-0:2.23-1.fc42.x86_64        100% |   1.5 MiB/s |  41.7 KiB |  00m00s
+[5/7] wl-clipboard-0:2.2.1-4.fc42.x86_6 100% | 323.9 KiB/s |  54.1 KiB |  00m00s
+[6/7] swappy-0:1.5.1-6.fc42.x86_64      100% | 259.5 KiB/s |  46.2 KiB |  00m00s
+[7/7] fontawesome4-fonts-1:4.7.0-24.fc4 100% | 818.0 KiB/s | 204.5 KiB |  00m00s
+--------------------------------------------------------------------------------
+[7/7] Razem                             100% | 526.9 KiB/s | 502.1 KiB |  00m01s
+Wykonywanie transakcji
+[1/9] Weryfikowanie plików pakietu     100% |   1.7 KiB/s |   7.0   B |  00m00s
+[2/9] Przygotowywanie transakcji        100% |  61.0   B/s |   7.0   B |  00m00s
+[3/9] Instaluję emacs-filesystem-1:30. 100% |  37.9 KiB/s | 544.0   B |  00m00s
+[4/9] Instaluję desktop-file-utils-0:0 100% |   8.3 MiB/s | 222.2 KiB |  00m00s
+[5/9] Instaluję which-0:2.23-1.fc42.x8 100% |   4.0 MiB/s |  85.6 KiB |  00m00s
+[6/9] Instaluję xdg-utils-0:1.2.1-3.fc 100% |  16.3 MiB/s | 349.5 KiB |  00m00s
+[7/9] Instaluję fontawesome4-fonts-1:4 100% |  48.5 MiB/s | 297.8 KiB |  00m00s
+[8/9] Instaluję wl-clipboard-0:2.2.1-4 100% |   5.8 MiB/s | 143.6 KiB |  00m00s
+[9/9] Instaluję swappy-0:1.5.1-6.fc42. 100% | 414.3 KiB/s | 129.7 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja      Repozytorium   Rozmiar
+Instalowanie:
+ unzip x86_64 6.0-66.fc42 fedora       390.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 185 KiB. Należy pobrać 185 KiB.
+Po tej operacji zostanie użyte dodatkowo 390 KiB (zainstaluje 390 KiB, usunie 0 B).
+[1/1] unzip-0:6.0-66.fc42.x86_64        100% |   1.1 MiB/s | 184.6 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 599.4 KiB/s | 184.6 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   9.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję unzip-0:6.0-66.fc42.x8 100% |   1.7 MiB/s | 393.8 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                      Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ waybar                     x86_64 0.12.0-2.fc42  fedora         2.1 MiB
+Instalowanie zależności:
+ atkmm                      x86_64 2.28.4-3.fc42  fedora       360.3 KiB
+ cairomm                    x86_64 1.14.5-8.fc42  fedora       206.1 KiB
+ glibmm2.4                  x86_64 2.66.8-1.fc42  fedora         2.9 MiB
+ gtk-layer-shell            x86_64 0.9.2-1.fc42   updates      269.9 KiB
+ gtkmm3.0                   x86_64 3.24.10-1.fc42 fedora         5.1 MiB
+ jsoncpp                    x86_64 1.9.6-1.fc42   fedora       261.6 KiB
+ libmpdclient               x86_64 2.22-3.fc42    fedora       175.8 KiB
+ libsigc++20                x86_64 2.12.1-5.fc42  fedora        90.5 KiB
+ pangomm                    x86_64 2.46.4-3.fc42  fedora       250.7 KiB
+ spdlog                     x86_64 1.15.3-1.fc42  updates      360.1 KiB
+Instalowanie słabych zależności:
+ fontawesome-6-brands-fonts noarch 1:6.7.2-2.fc42 fedora       566.1 KiB
+ fontawesome-6-free-fonts   noarch 1:6.7.2-2.fc42 fedora         1.2 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         13 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 4 MiB. Należy pobrać 4 MiB.
+Po tej operacji zostanie użyte dodatkowo 14 MiB (zainstaluje 14 MiB, usunie 0 B).
+[ 1/13] cairomm-0:1.14.5-8.fc42.x86_64  100% | 463.8 KiB/s |  61.2 KiB |  00m00s
+[ 2/13] atkmm-0:2.28.4-3.fc42.x86_64    100% | 607.7 KiB/s |  88.7 KiB |  00m00s
+[ 3/13] libmpdclient-0:2.22-3.fc42.x86_ 100% |   1.4 MiB/s |  65.3 KiB |  00m00s
+[ 4/13] jsoncpp-0:1.9.6-1.fc42.x86_64   100% |   1.6 MiB/s | 103.5 KiB |  00m00s
+[ 5/13] libsigc++20-0:2.12.1-5.fc42.x86 100% | 625.3 KiB/s |  38.8 KiB |  00m00s
+[ 6/13] pangomm-0:2.46.4-3.fc42.x86_64  100% |   1.1 MiB/s |  68.6 KiB |  00m00s
+[ 7/13] waybar-0:0.12.0-2.fc42.x86_64   100% |   3.1 MiB/s | 857.2 KiB |  00m00s
+[ 8/13] gtk-layer-shell-0:0.9.2-1.fc42. 100% |   2.3 MiB/s |  71.8 KiB |  00m00s
+[ 9/13] spdlog-0:1.15.3-1.fc42.x86_64   100% |   2.6 MiB/s | 120.2 KiB |  00m00s
+[10/13] glibmm2.4-0:2.66.8-1.fc42.x86_6 100% |   1.9 MiB/s | 675.6 KiB |  00m00s
+[11/13] fontawesome-6-brands-fonts-1:6. 100% |   2.8 MiB/s | 275.4 KiB |  00m00s
+[12/13] fontawesome-6-free-fonts-1:6.7. 100% |   3.0 MiB/s | 314.3 KiB |  00m00s
+[13/13] gtkmm3.0-0:3.24.10-1.fc42.x86_6 100% |   1.2 MiB/s |   1.0 MiB |  00m01s
+--------------------------------------------------------------------------------
+[13/13] Razem                           100% |   2.5 MiB/s |   3.7 MiB |  00m01s
+Wykonywanie transakcji
+[ 1/15] Weryfikowanie plików pakietu   100% | 812.0   B/s |  13.0   B |  00m00s
+[ 2/15] Przygotowywanie transakcji      100% | 114.0   B/s |  13.0   B |  00m00s
+[ 3/15] Instaluję libsigc++20-0:2.12.1 100% |   5.3 MiB/s |  92.0 KiB |  00m00s
+[ 4/15] Instaluję glibmm2.4-0:2.66.8-1 100% | 158.6 MiB/s |   2.9 MiB |  00m00s
+[ 5/15] Instaluję cairomm-0:1.14.5-8.f 100% |  33.7 MiB/s | 207.2 KiB |  00m00s
+[ 6/15] Instaluję atkmm-0:2.28.4-3.fc4 100% |  50.5 MiB/s | 361.9 KiB |  00m00s
+[ 7/15] Instaluję pangomm-0:2.46.4-3.f 100% |  41.0 MiB/s | 252.2 KiB |  00m00s
+[ 8/15] Instaluję gtkmm3.0-0:3.24.10-1 100% | 254.8 MiB/s |   5.1 MiB |  00m00s
+[ 9/15] Instaluję spdlog-0:1.15.3-1.fc 100% |  50.4 MiB/s | 361.5 KiB |  00m00s
+[10/15] Instaluję gtk-layer-shell-0:0. 100% |  44.2 MiB/s | 271.8 KiB |  00m00s
+[11/15] Instaluję libmpdclient-0:2.22- 100% |  28.9 MiB/s | 177.7 KiB |  00m00s
+[12/15] Instaluję jsoncpp-0:1.9.6-1.fc 100% |  42.8 MiB/s | 263.1 KiB |  00m00s
+[13/15] Instaluję waybar-0:0.12.0-2.fc 100% |  31.8 MiB/s |   2.1 MiB |  00m00s
+[14/15] Instaluję fontawesome-6-free-f 100% |  92.4 MiB/s |   1.2 MiB |  00m00s
+[15/15] Instaluję fontawesome-6-brands 100% |   1.0 MiB/s | 568.1 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet          Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ wget2          x86_64 2.2.0-5.fc42   updates        1.0 MiB
+Instalowanie zależności:
+ gnutls-dane    x86_64 3.8.9-3.fc42   fedora        69.3 KiB
+ hiredis        x86_64 1.2.0-6.fc42   fedora       105.9 KiB
+ unbound-libs   x86_64 1.22.0-14.fc42 fedora         1.4 MiB
+ wget2-libs     x86_64 2.2.0-5.fc42   updates      365.6 KiB
+Instalowanie słabych zależności:
+ unbound-anchor x86_64 1.22.0-14.fc42 fedora        53.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          6 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 3 MiB (zainstaluje 3 MiB, usunie 0 B).
+[1/6] hiredis-0:1.2.0-6.fc42.x86_64     100% | 275.7 KiB/s |  50.7 KiB |  00m00s
+[2/6] gnutls-dane-0:3.8.9-3.fc42.x86_64 100% | 205.9 KiB/s |  42.4 KiB |  00m00s
+[3/6] wget2-0:2.2.0-5.fc42.x86_64       100% |   1.1 MiB/s | 280.0 KiB |  00m00s
+[4/6] unbound-anchor-0:1.22.0-14.fc42.x 100% | 531.0 KiB/s |  37.2 KiB |  00m00s
+[5/6] wget2-libs-0:2.2.0-5.fc42.x86_64  100% | 489.3 KiB/s | 147.8 KiB |  00m00s
+[6/6] unbound-libs-0:1.22.0-14.fc42.x86 100% |   1.7 MiB/s | 559.1 KiB |  00m00s
+--------------------------------------------------------------------------------
+[6/6] Razem                             100% | 864.6 KiB/s |   1.1 MiB |  00m01s
+Wykonywanie transakcji
+[1/8] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   6.0   B |  00m00s
+[2/8] Przygotowywanie transakcji        100% |  52.0   B/s |   6.0   B |  00m00s
+[3/8] Instaluję hiredis-0:1.2.0-6.fc42 100% | 834.5 KiB/s | 107.6 KiB |  00m00s
+>>> Uruchamianie scriptletu sysusers: unbound-libs-0:1.22.0-14.fc42.x86_64      
+>>> Zakończono sysusers scriptlet: unbound-libs-0:1.22.0-14.fc42.x86_64         
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'unbound' with GID 989.                                      
+>>> Creating user 'unbound' (Unbound DNS resolver) with UID 989 and GID 989.    
+>>>                                                                             
+[4/8] Instaluję unbound-libs-0:1.22.0- 100% |  90.0 MiB/s |   1.4 MiB |  00m00s
+[5/8] Instaluję gnutls-dane-0:3.8.9-3. 100% |  13.7 MiB/s |  70.2 KiB |  00m00s
+[6/8] Instaluję wget2-libs-0:2.2.0-5.f 100% |  51.2 MiB/s | 366.8 KiB |  00m00s
+[7/8] Instaluję wget2-0:2.2.0-5.fc42.x 100% |  35.2 MiB/s |   1.1 MiB |  00m00s
+[8/8] Instaluję unbound-anchor-0:1.22. 100% |  83.2 KiB/s |  54.7 KiB |  00m01s
+>>> Uruchamianie scriptletu post-install: unbound-anchor-0:1.22.0-14.fc42.x86_64
+>>> Zakończono post-install scriptlet: unbound-anchor-0:1.22.0-14.fc42.x86_64   
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/system/timers.target.wants/unbound-anchor.time
+>>>                                                                             
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet   Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ wlogout x86_64 1.2.2-3.fc42 fedora       126.7 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 107 KiB. Należy pobrać 107 KiB.
+Po tej operacji zostanie użyte dodatkowo 127 KiB (zainstaluje 127 KiB, usunie 0 B).
+[1/1] wlogout-0:1.2.2-3.fc42.x86_64     100% | 608.4 KiB/s | 107.1 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 157.0 KiB/s | 107.1 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję wlogout-0:1.2.2-3.fc42 100% | 579.8 KiB/s | 132.2 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet         Arch.  Wersja      Repozytorium   Rozmiar
+Instalowanie:
+ xdg-user-dirs x86_64 0.18-9.fc42 fedora       166.6 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 82 KiB. Należy pobrać 82 KiB.
+Po tej operacji zostanie użyte dodatkowo 167 KiB (zainstaluje 167 KiB, usunie 0 B).
+[1/1] xdg-user-dirs-0:0.18-9.fc42.x86_6 100% |   1.1 MiB/s |  81.9 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 123.0 KiB/s |  81.9 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję xdg-user-dirs-0:0.18-9 100% | 322.6 KiB/s | 181.6 KiB |  00m01s
+>>> Uruchamianie scriptletu post-install: xdg-user-dirs-0:0.18-9.fc42.x86_64    
+>>> Zakończono post-install scriptlet: xdg-user-dirs-0:0.18-9.fc42.x86_64       
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/user/graphical-session-pre.target.wants/xdg-us
+>>>                                                                             
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet               Arch.  Wersja             Repozytorium   Rozmiar
+Instalowanie:
+ yad                 x86_64 9.3-12.fc42        fedora       628.0 KiB
+Instalowanie zależności:
+ enchant2            x86_64 2.8.2-5.fc42       fedora       196.3 KiB
+ gspell              x86_64 1.14.0-3.fc42      fedora       344.8 KiB
+ gtksourceview3      x86_64 3.24.11-15.fc42    fedora         2.8 MiB
+ hunspell            x86_64 1.7.2-9.fc42       fedora         1.4 MiB
+ hunspell-en-GB      noarch 0.20201207-11.fc42 fedora       543.2 KiB
+ hunspell-en-US      noarch 0.20201207-11.fc42 fedora       557.4 KiB
+ hunspell-filesystem x86_64 1.7.2-9.fc42       fedora         0.0   B
+Instalowanie słabych zależności:
+ hunspell-en         noarch 0.20201207-11.fc42 fedora         1.1 MiB
+ hunspell-pl         noarch 0.20240901-2.fc42  fedora         5.3 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         10 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 3 MiB. Należy pobrać 3 MiB.
+Po tej operacji zostanie użyte dodatkowo 13 MiB (zainstaluje 13 MiB, usunie 0 B).
+[ 1/10] gspell-0:1.14.0-3.fc42.x86_64   100% | 770.4 KiB/s | 122.5 KiB |  00m00s
+[ 2/10] enchant2-0:2.8.2-5.fc42.x86_64  100% | 450.6 KiB/s |  75.3 KiB |  00m00s
+[ 3/10] hunspell-filesystem-0:1.7.2-9.f 100% | 251.1 KiB/s |   7.8 KiB |  00m00s
+[ 4/10] yad-0:9.3-12.fc42.x86_64        100% |   1.0 MiB/s | 228.2 KiB |  00m00s
+[ 5/10] hunspell-0:1.7.2-9.fc42.x86_64  100% |   2.0 MiB/s | 478.2 KiB |  00m00s
+[ 6/10] hunspell-en-US-0:0.20201207-11. 100% |   1.9 MiB/s | 180.7 KiB |  00m00s
+[ 7/10] gtksourceview3-0:3.24.11-15.fc4 100% |   2.2 MiB/s | 615.4 KiB |  00m00s
+[ 8/10] hunspell-en-0:0.20201207-11.fc4 100% |   2.3 MiB/s | 189.7 KiB |  00m00s
+[ 9/10] hunspell-pl-0:0.20240901-2.fc42 100% |   8.9 MiB/s |   1.1 MiB |  00m00s
+[10/10] hunspell-en-GB-0:0.20201207-11. 100% |   1.6 MiB/s | 225.3 KiB |  00m00s
+--------------------------------------------------------------------------------
+[10/10] Razem                           100% |   3.0 MiB/s |   3.1 MiB |  00m01s
+Wykonywanie transakcji
+[ 1/12] Weryfikowanie plików pakietu   100% | 714.0   B/s |  10.0   B |  00m00s
+[ 2/12] Przygotowywanie transakcji      100% |  84.0   B/s |  10.0   B |  00m00s
+[ 3/12] Instaluję hunspell-filesystem- 100% |  27.1 KiB/s | 388.0   B |  00m00s
+[ 4/12] Instaluję hunspell-en-US-0:0.2 100% |  68.1 MiB/s | 558.1 KiB |  00m00s
+[ 5/12] Instaluję hunspell-0:1.7.2-9.f 100% |  36.1 MiB/s |   1.4 MiB |  00m00s
+[ 6/12] Instaluję enchant2-0:2.8.2-5.f 100% |   8.9 MiB/s | 200.1 KiB |  00m00s
+[ 7/12] Instaluję gspell-0:1.14.0-3.fc 100% |  21.7 MiB/s | 356.0 KiB |  00m00s
+[ 8/12] Instaluję hunspell-en-GB-0:0.2 100% |  75.9 MiB/s | 543.9 KiB |  00m00s
+[ 9/12] Instaluję gtksourceview3-0:3.2 100% |  65.4 MiB/s |   2.9 MiB |  00m00s
+[10/12] Instaluję yad-0:9.3-12.fc42.x8 100% |  12.6 MiB/s | 633.7 KiB |  00m00s
+[11/12] Instaluję hunspell-en-0:0.2020 100% |  98.4 MiB/s |   1.1 MiB |  00m00s
+[12/12] Instaluję hunspell-pl-0:0.2024 100% |  11.1 MiB/s |   5.3 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet         Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ brightnessctl x86_64 0.5.1-13.fc42 fedora        33.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 22 KiB. Należy pobrać 22 KiB.
+Po tej operacji zostanie użyte dodatkowo 33 KiB (zainstaluje 33 KiB, usunie 0 B).
+[1/1] brightnessctl-0:0.5.1-13.fc42.x86 100% | 179.6 KiB/s |  21.6 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |  22.9 KiB/s |  21.6 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję brightnessctl-0:0.5.1- 100% | 157.2 KiB/s |  34.6 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ btop  x86_64 1.4.0-2.fc42 fedora         1.6 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 598 KiB. Należy pobrać 598 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/1] btop-0:1.4.0-2.fc42.x86_64        100% |   2.6 MiB/s | 597.9 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 849.3 KiB/s | 597.9 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 250.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję btop-0:1.4.0-2.fc42.x8 100% |   5.6 MiB/s |   1.6 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet     Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ cava      x86_64 0.10.2-4.fc42 fedora       202.7 KiB
+Instalowanie zależności:
+ iniparser x86_64 4.2.5-2.fc42  fedora        41.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 128 KiB. Należy pobrać 128 KiB.
+Po tej operacji zostanie użyte dodatkowo 244 KiB (zainstaluje 244 KiB, usunie 0 B).
+[1/2] iniparser-0:4.2.5-2.fc42.x86_64   100% | 227.9 KiB/s |  26.0 KiB |  00m00s
+[2/2] cava-0:0.10.2-4.fc42.x86_64       100% | 740.5 KiB/s | 102.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 176.5 KiB/s | 128.2 KiB |  00m01s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  16.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję iniparser-0:4.2.5-2.fc 100% |   2.5 MiB/s |  43.4 KiB |  00m00s
+[4/4] Instaluję cava-0:0.10.2-4.fc42.x 100% |   1.2 MiB/s | 206.9 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet             Arch.  Wersja         Repozytorium             Rozmiar
+Instalowanie:
+ loupe             x86_64 48.1-1.fc42    updates                  8.3 MiB
+Instalowanie zależności:
+ appstream         x86_64 1.0.4-2.fc42   fedora                   4.2 MiB
+ geocode-glib      x86_64 3.26.4-13.fc42 fedora                 226.9 KiB
+ glycin-loaders    x86_64 1.2.1-1.fc42   updates                 10.5 MiB
+ libadwaita        x86_64 1.7.4-1.fc42   updates                  3.1 MiB
+ libde265          x86_64 1.0.15-5.fc42  rpmfusion-free         577.5 KiB
+ libgweather       x86_64 4.4.4-2.fc42   fedora                  22.8 MiB
+ libheif           x86_64 1.19.8-1.fc42  updates                  1.3 MiB
+ libopenjph        x86_64 0.21.2-2.fc42  updates                458.2 KiB
+ libstemmer        x86_64 2.2.0-15.fc42  fedora                 611.9 KiB
+Instalowanie słabych zależności:
+ libheif-freeworld x86_64 1.19.8-1.fc42  rpmfusion-free-updates 143.9 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         11 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 11 MiB. Należy pobrać 11 MiB.
+Po tej operacji zostanie użyte dodatkowo 52 MiB (zainstaluje 52 MiB, usunie 0 B).
+[ 1/11] geocode-glib-0:3.26.4-13.fc42.x 100% | 530.1 KiB/s |  71.0 KiB |  00m00s
+[ 2/11] libadwaita-0:1.7.4-1.fc42.x86_6 100% |   1.5 MiB/s | 687.1 KiB |  00m00s
+[ 3/11] libstemmer-0:2.2.0-15.fc42.x86_ 100% |   2.3 MiB/s | 140.9 KiB |  00m00s
+[ 4/11] appstream-0:1.0.4-2.fc42.x86_64 100% |   2.1 MiB/s | 854.3 KiB |  00m00s
+[ 5/11] libheif-0:1.19.8-1.fc42.x86_64  100% |   3.1 MiB/s | 478.0 KiB |  00m00s
+[ 6/11] libopenjph-0:0.21.2-2.fc42.x86_ 100% | 871.8 KiB/s | 152.6 KiB |  00m00s
+[ 7/11] glycin-loaders-0:1.2.1-1.fc42.x 100% |   2.7 MiB/s |   2.3 MiB |  00m01s
+[ 8/11] libheif-freeworld-0:1.19.8-1.fc 100% | 317.7 KiB/s |  61.6 KiB |  00m00s
+[ 9/11] loupe-0:48.1-1.fc42.x86_64      100% |   2.7 MiB/s |   2.6 MiB |  00m01s
+[10/11] libde265-0:1.0.15-5.fc42.x86_64 100% | 807.2 KiB/s | 240.5 KiB |  00m00s
+[11/11] libgweather-0:4.4.4-2.fc42.x86_ 100% |   2.6 MiB/s |   3.3 MiB |  00m01s
+--------------------------------------------------------------------------------
+[11/11] Razem                           100% |   4.5 MiB/s |  10.8 MiB |  00m02s
+Wykonywanie transakcji
+[ 1/13] Weryfikowanie plików pakietu   100% | 305.0   B/s |  11.0   B |  00m00s
+[ 2/13] Przygotowywanie transakcji      100% |  90.0   B/s |  11.0   B |  00m00s
+[ 3/13] Instaluję libde265-0:1.0.15-5. 100% |  43.5 MiB/s | 578.9 KiB |  00m00s
+[ 4/13] Instaluję libopenjph-0:0.21.2- 100% |  64.1 MiB/s | 459.4 KiB |  00m00s
+[ 5/13] Instaluję libheif-0:1.19.8-1.f 100% | 114.8 MiB/s |   1.3 MiB |  00m00s
+[ 6/13] Instaluję glycin-loaders-0:1.2 100% | 276.7 MiB/s |  10.5 MiB |  00m00s
+[ 7/13] Instaluję libstemmer-0:2.2.0-1 100% |  85.6 MiB/s | 613.3 KiB |  00m00s
+[ 8/13] Instaluję appstream-0:1.0.4-2. 100% |  96.7 MiB/s |   4.3 MiB |  00m00s
+[ 9/13] Instaluję libadwaita-0:1.7.4-1 100% |  85.3 MiB/s |   3.1 MiB |  00m00s
+[10/13] Instaluję geocode-glib-0:3.26. 100% |  25.0 MiB/s | 230.8 KiB |  00m00s
+[11/13] Instaluję libgweather-0:4.4.4- 100% | 238.0 MiB/s |  22.8 MiB |  00m00s
+[12/13] Instaluję loupe-0:48.1-1.fc42. 100% |  92.6 MiB/s |   8.3 MiB |  00m00s
+[13/13] Instaluję libheif-freeworld-0: 100% | 225.9 KiB/s | 146.1 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet     Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ fastfetch x86_64 2.44.0-1.fc42 updates        1.5 MiB
+Instalowanie zależności:
+ yyjson    x86_64 0.11.1-1.fc42 updates      244.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 646 KiB. Należy pobrać 646 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/2] yyjson-0:0.11.1-1.fc42.x86_64     100% | 720.2 KiB/s | 109.5 KiB |  00m00s
+[2/2] fastfetch-0:2.44.0-1.fc42.x86_64  100% |   2.7 MiB/s | 536.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 351.7 KiB/s | 645.7 KiB |  00m02s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% | 500.0   B/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  16.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję yyjson-0:0.11.1-1.fc42 100% |  14.1 MiB/s | 245.6 KiB |  00m00s
+[4/4] Instaluję fastfetch-0:2.44.0-1.f 100% |   6.2 MiB/s |   1.6 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ gnome-system-monitor x86_64 48.1-1.fc42   updates        5.0 MiB
+Instalowanie zależności:
+ libgtop2             x86_64 2.41.3-3.fc42 fedora       509.4 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 6 MiB (zainstaluje 6 MiB, usunie 0 B).
+[1/2] libgtop2-0:2.41.3-3.fc42.x86_64   100% | 451.6 KiB/s | 163.9 KiB |  00m00s
+[2/2] gnome-system-monitor-0:48.1-1.fc4 100% |   2.1 MiB/s |   1.1 MiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 754.8 KiB/s |   1.2 MiB |  00m02s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% | 333.0   B/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  16.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję libgtop2-0:2.41.3-3.fc 100% |  14.3 MiB/s | 525.6 KiB |  00m00s
+[4/4] Instaluję gnome-system-monitor-0 100% |  10.9 MiB/s |   5.2 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet          Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ mousepad       x86_64 0.6.5-1.fc42  updates        1.8 MiB
+Instalowanie zależności:
+ gtksourceview4 x86_64 4.8.4-9.fc42  fedora         4.5 MiB
+ libmousepad0   x86_64 0.6.5-1.fc42  updates      436.6 KiB
+ libxfce4ui     x86_64 4.20.1-1.fc42 updates        1.6 MiB
+ libxfce4util   x86_64 4.20.1-1.fc42 updates      969.2 KiB
+ xfconf         x86_64 4.20.0-2.fc42 fedora       827.1 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          6 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 10 MiB (zainstaluje 10 MiB, usunie 0 B).
+[1/6] xfconf-0:4.20.0-2.fc42.x86_64     100% | 871.4 KiB/s | 203.9 KiB |  00m00s
+[2/6] libmousepad0-0:0.6.5-1.fc42.x86_6 100% | 538.2 KiB/s | 129.2 KiB |  00m00s
+[3/6] libxfce4ui-0:4.20.1-1.fc42.x86_64 100% |   1.3 MiB/s | 339.9 KiB |  00m00s
+[4/6] mousepad-0:0.6.5-1.fc42.x86_64    100% |   1.4 MiB/s | 391.2 KiB |  00m00s
+[5/6] gtksourceview4-0:4.8.4-9.fc42.x86 100% |   2.8 MiB/s | 892.9 KiB |  00m00s
+[6/6] libxfce4util-0:4.20.1-1.fc42.x86_ 100% |   1.8 MiB/s | 217.1 KiB |  00m00s
+--------------------------------------------------------------------------------
+[6/6] Razem                             100% |   2.0 MiB/s |   2.1 MiB |  00m01s
+Wykonywanie transakcji
+[1/8] Weryfikowanie plików pakietu     100% | 545.0   B/s |   6.0   B |  00m00s
+[2/8] Przygotowywanie transakcji        100% |  48.0   B/s |   6.0   B |  00m00s
+[3/8] Instaluję libxfce4util-0:4.20.1- 100% |  18.1 MiB/s | 982.5 KiB |  00m00s
+[4/8] Instaluję xfconf-0:4.20.0-2.fc42 100% |  21.6 MiB/s | 840.1 KiB |  00m00s
+[5/8] Instaluję libxfce4ui-0:4.20.1-1. 100% |  67.6 MiB/s |   1.6 MiB |  00m00s
+[6/8] Instaluję gtksourceview4-0:4.8.4 100% |  86.9 MiB/s |   4.5 MiB |  00m00s
+[7/8] Instaluję libmousepad0-0:0.6.5-1 100% |  71.2 MiB/s | 437.6 KiB |  00m00s
+[8/8] Instaluję mousepad-0:0.6.5-1.fc4 100% |   2.5 MiB/s |   1.8 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                  Arch.  Wersja                Repozytorium             Rozmiar
+Instalowanie:
+ mpv                    x86_64 0.40.0-1.fc42         fedora                   4.4 MiB
+Instalowanie zależności:
+ compat-lua-libs        x86_64 5.1.5-28.fc42         fedora                 502.1 KiB
+ freeglut               x86_64 3.6.0-4.fc42          fedora                 475.7 KiB
+ libXScrnSaver          x86_64 1.2.4-5.fc42          fedora                  49.6 KiB
+ libXpresent            x86_64 1.0.0-23.fc42         fedora                  28.2 KiB
+ libavdevice            x86_64 7.1.1-6.fc42          rpmfusion-free-updates 162.2 KiB
+ libcaca                x86_64 0.99-0.76.beta20.fc42 fedora                 874.0 KiB
+ libdisplay-info        x86_64 0.2.0-3.fc42          fedora                 231.9 KiB
+ libdvdnav              x86_64 6.1.1-10.fc42         fedora                 120.1 KiB
+ libdvdread             x86_64 6.1.3-9.fc42          fedora                 160.1 KiB
+ libtomcrypt            x86_64 1.18.2-21.fc42        fedora                 906.7 KiB
+ libtommath             x86_64 1.3.1~rc1-5.fc42      fedora                 130.4 KiB
+ libv4l                 x86_64 1.28.1-3.fc42         fedora                 361.5 KiB
+ mesa-libGLU            x86_64 9.0.3-6.fc42          fedora                 361.7 KiB
+ mujs                   x86_64 1.3.3-7.fc42          fedora                   1.1 MiB
+ openal-soft            x86_64 1.24.2-2.fc42         fedora                   1.6 MiB
+ python3-brotli         x86_64 1.1.0-6.fc42          fedora                 835.9 KiB
+ python3-certifi        noarch 2024.08.30-2.fc42     fedora                   6.8 KiB
+ python3-mutagen        noarch 1.47.0-6.fc42         fedora                   1.9 MiB
+ python3-pycryptodomex  x86_64 3.21.0-2.fc42         fedora                   3.8 MiB
+ python3-websockets     x86_64 14.1-2.fc42           fedora                   1.5 MiB
+ vapoursynth-libs       x86_64 70-7.fc42             updates                  2.0 MiB
+ yt-dlp+default         noarch 2025.05.22-2.fc42     updates                171.4 KiB
+Instalowanie słabych zależności:
+ ffmpeg                 x86_64 7.1.1-6.fc42          rpmfusion-free-updates   2.5 MiB
+ yt-dlp                 noarch 2025.05.22-2.fc42     updates                 20.7 MiB
+ yt-dlp-bash-completion noarch 2025.05.22-2.fc42     updates                  6.1 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         26 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 15 MiB. Należy pobrać 15 MiB.
+Po tej operacji zostanie użyte dodatkowo 45 MiB (zainstaluje 45 MiB, usunie 0 B).
+[ 1/26] libXScrnSaver-0:1.2.4-5.fc42.x8 100% | 258.8 KiB/s |  25.1 KiB |  00m00s
+[ 2/26] libXpresent-0:1.0.0-23.fc42.x86 100% | 133.3 KiB/s |  17.2 KiB |  00m00s
+[ 3/26] compat-lua-libs-0:5.1.5-28.fc42 100% |   1.1 MiB/s | 166.8 KiB |  00m00s
+[ 4/26] libdisplay-info-0:0.2.0-3.fc42. 100% |   1.4 MiB/s |  81.7 KiB |  00m00s
+[ 5/26] libdvdnav-0:6.1.1-10.fc42.x86_6 100% |   1.0 MiB/s |  55.9 KiB |  00m00s
+[ 6/26] libcaca-0:0.99-0.76.beta20.fc42 100% |   1.1 MiB/s | 224.9 KiB |  00m00s
+[ 7/26] mujs-0:1.3.3-7.fc42.x86_64      100% |   2.8 MiB/s | 315.2 KiB |  00m00s
+[ 8/26] freeglut-0:3.6.0-4.fc42.x86_64  100% |   1.7 MiB/s | 150.0 KiB |  00m00s
+[ 9/26] mesa-libGLU-0:9.0.3-6.fc42.x86_ 100% |   2.4 MiB/s | 167.1 KiB |  00m00s
+[10/26] libdvdread-0:6.1.3-9.fc42.x86_6 100% |   2.3 MiB/s |  72.6 KiB |  00m00s
+[11/26] libv4l-0:1.28.1-3.fc42.x86_64   100% |   3.9 MiB/s | 136.7 KiB |  00m00s
+[12/26] openal-soft-0:1.24.2-2.fc42.x86 100% |   3.4 MiB/s | 664.5 KiB |  00m00s
+[13/26] yt-dlp+default-0:2025.05.22-2.f 100% | 731.3 KiB/s |  11.7 KiB |  00m00s
+[14/26] libavdevice-0:7.1.1-6.fc42.x86_ 100% | 769.2 KiB/s |  71.5 KiB |  00m00s
+[15/26] python3-brotli-0:1.1.0-6.fc42.x 100% |   3.4 MiB/s | 342.8 KiB |  00m00s
+[16/26] mpv-0:0.40.0-1.fc42.x86_64      100% |   3.1 MiB/s |   1.6 MiB |  00m00s
+[17/26] python3-certifi-0:2024.08.30-2. 100% | 109.2 KiB/s |  14.4 KiB |  00m00s
+[18/26] vapoursynth-libs-0:70-7.fc42.x8 100% |   2.1 MiB/s | 671.6 KiB |  00m00s
+[19/26] python3-mutagen-0:1.47.0-6.fc42 100% |   3.5 MiB/s | 457.6 KiB |  00m00s
+[20/26] libtommath-0:1.3.1~rc1-5.fc42.x 100% |   2.2 MiB/s |  64.4 KiB |  00m00s
+[21/26] python3-websockets-0:14.1-2.fc4 100% |   1.5 MiB/s | 293.3 KiB |  00m00s
+[22/26] libtomcrypt-0:1.18.2-21.fc42.x8 100% |   2.1 MiB/s | 399.0 KiB |  00m00s
+[23/26] python3-pycryptodomex-0:3.21.0- 100% |   3.7 MiB/s |   1.3 MiB |  00m00s
+[24/26] yt-dlp-bash-completion-0:2025.0 100% |  40.6 KiB/s |  12.6 KiB |  00m00s
+[25/26] ffmpeg-0:7.1.1-6.fc42.x86_64    100% |   1.9 MiB/s |   1.9 MiB |  00m01s
+[26/26] yt-dlp-0:2025.05.22-2.fc42.noar 100% |   3.7 MiB/s |   5.9 MiB |  00m02s
+--------------------------------------------------------------------------------
+[26/26] Razem                           100% |   4.7 MiB/s |  15.0 MiB |  00m03s
+Wykonywanie transakcji
+[ 1/28] Weryfikowanie plików pakietu   100% | 500.0   B/s |  26.0   B |  00m00s
+[ 2/28] Przygotowywanie transakcji      100% | 154.0   B/s |  26.0   B |  00m00s
+[ 3/28] Instaluję openal-soft-0:1.24.2 100% |  36.5 MiB/s |   1.6 MiB |  00m00s
+[ 4/28] Instaluję libtommath-0:1.3.1~r 100% |  25.7 MiB/s | 131.5 KiB |  00m00s
+[ 5/28] Instaluję libtomcrypt-0:1.18.2 100% |  98.5 MiB/s | 907.8 KiB |  00m00s
+[ 6/28] Instaluję python3-pycryptodome 100% |  52.4 MiB/s |   3.9 MiB |  00m00s
+[ 7/28] Instaluję python3-websockets-0 100% |  62.5 MiB/s |   1.6 MiB |  00m00s
+[ 8/28] Instaluję python3-mutagen-0:1. 100% |  43.2 MiB/s |   1.9 MiB |  00m00s
+[ 9/28] Instaluję python3-certifi-0:20 100% |   1.7 MiB/s |  10.4 KiB |  00m00s
+[10/28] Instaluję python3-brotli-0:1.1 100% |  91.0 MiB/s | 838.4 KiB |  00m00s
+[11/28] Instaluję yt-dlp+default-0:202 100% |  11.0 KiB/s | 124.0   B |  00m00s
+[12/28] Instaluję yt-dlp-0:2025.05.22- 100% |  51.9 MiB/s |  21.3 MiB |  00m00s
+[13/28] Instaluję libv4l-0:1.28.1-3.fc 100% |  39.7 MiB/s | 366.2 KiB |  00m00s
+[14/28] Instaluję libavdevice-0:7.1.1- 100% |  26.5 MiB/s | 163.0 KiB |  00m00s
+[15/28] Instaluję vapoursynth-libs-0:7 100% | 153.9 MiB/s |   2.0 MiB |  00m00s
+[16/28] Instaluję libdvdread-0:6.1.3-9 100% |  26.3 MiB/s | 161.8 KiB |  00m00s
+[17/28] Instaluję libdvdnav-0:6.1.1-10 100% |  19.8 MiB/s | 121.7 KiB |  00m00s
+[18/28] Instaluję mesa-libGLU-0:9.0.3- 100% |  59.0 MiB/s | 362.6 KiB |  00m00s
+[19/28] Instaluję freeglut-0:3.6.0-4.f 100% |  46.6 MiB/s | 477.4 KiB |  00m00s
+[20/28] Instaluję libcaca-0:0.99-0.76. 100% |  71.3 MiB/s | 875.7 KiB |  00m00s
+[21/28] Instaluję mujs-0:1.3.3-7.fc42. 100% |  41.2 MiB/s |   1.1 MiB |  00m00s
+[22/28] Instaluję libdisplay-info-0:0. 100% |  38.0 MiB/s | 233.3 KiB |  00m00s
+[23/28] Instaluję libXpresent-0:1.0.0- 100% |   5.8 MiB/s |  29.9 KiB |  00m00s
+[24/28] Instaluję libXScrnSaver-0:1.2. 100% |  10.0 MiB/s |  51.0 KiB |  00m00s
+[25/28] Instaluję compat-lua-libs-0:5. 100% |  61.7 MiB/s | 505.2 KiB |  00m00s
+[26/28] Instaluję mpv-0:0.40.0-1.fc42. 100% | 118.6 MiB/s |   4.4 MiB |  00m00s
+[27/28] Instaluję ffmpeg-0:7.1.1-6.fc4 100% |  91.0 MiB/s |   2.5 MiB |  00m00s
+[28/28] Instaluję yt-dlp-bash-completi 100% |   8.9 KiB/s |   6.4 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet     Arch.  Wersja     Repozytorium   Rozmiar
+Instalowanie:
+ mpv-mpris x86_64 1.1-6.fc42 fedora        40.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 23 KiB. Należy pobrać 23 KiB.
+Po tej operacji zostanie użyte dodatkowo 40 KiB (zainstaluje 40 KiB, usunie 0 B).
+[1/1] mpv-mpris-0:1.1-6.fc42.x86_64     100% | 155.4 KiB/s |  23.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |  73.8 KiB/s |  23.2 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję mpv-mpris-0:1.1-6.fc42 100% | 230.5 KiB/s |  41.9 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ nvtop x86_64 3.2.0-3.fc42 updates      214.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 97 KiB. Należy pobrać 97 KiB.
+Po tej operacji zostanie użyte dodatkowo 214 KiB (zainstaluje 214 KiB, usunie 0 B).
+[1/1] nvtop-0:3.2.0-3.fc42.x86_64       100% | 767.4 KiB/s |  96.7 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 132.1 KiB/s |  96.7 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję nvtop-0:3.2.0-3.fc42.x 100% | 735.0 KiB/s | 216.1 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet             Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ qalculate-gtk     x86_64 5.5.0-1.fc42  fedora         6.8 MiB
+Instalowanie zależności:
+ dejavu-sans-fonts noarch 2.37-25.fc42  fedora         5.5 MiB
+ gd                x86_64 2.3.3-18.fc42 fedora       403.6 KiB
+ gnuplot           x86_64 6.0.1-5.fc42  fedora         2.0 MiB
+ gnuplot-common    x86_64 6.0.1-5.fc42  fedora         1.8 MiB
+ libXpm            x86_64 3.5.17-5.fc42 fedora       152.3 KiB
+ libcerf           x86_64 2.4-1.fc42    updates       58.5 KiB
+ libgfortran       x86_64 15.1.1-2.fc42 updates        3.3 MiB
+ libimagequant     x86_64 4.0.3-7.fc42  fedora       704.3 KiB
+ libqalculate      x86_64 5.5.0-1.fc42  fedora         8.8 MiB
+ openspecfun       x86_64 0.5.3-23.fc42 fedora       170.4 KiB
+ qt6-qt5compat     x86_64 6.9.1-1.fc42  updates        1.7 MiB
+ qt6-qtshadertools x86_64 6.9.1-1.fc42  updates        6.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         13 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 12 MiB. Należy pobrać 12 MiB.
+Po tej operacji zostanie użyte dodatkowo 37 MiB (zainstaluje 37 MiB, usunie 0 B).
+[ 1/13] gd-0:2.3.3-18.fc42.x86_64       100% | 860.2 KiB/s | 136.8 KiB |  00m00s
+[ 2/13] dejavu-sans-fonts-0:2.37-25.fc4 100% |   3.8 MiB/s |   1.3 MiB |  00m00s
+[ 3/13] gnuplot-common-0:6.0.1-5.fc42.x 100% |   3.3 MiB/s | 836.4 KiB |  00m00s
+[ 4/13] openspecfun-0:0.5.3-23.fc42.x86 100% |   1.5 MiB/s |  90.9 KiB |  00m00s
+[ 5/13] libXpm-0:3.5.17-5.fc42.x86_64   100% |   1.2 MiB/s |  66.1 KiB |  00m00s
+[ 6/13] libimagequant-0:4.0.3-7.fc42.x8 100% |   2.8 MiB/s | 317.7 KiB |  00m00s
+[ 7/13] gnuplot-0:6.0.1-5.fc42.x86_64   100% |   1.3 MiB/s | 897.7 KiB |  00m01s
+[ 8/13] qalculate-gtk-0:5.5.0-1.fc42.x8 100% |   3.6 MiB/s |   2.6 MiB |  00m01s
+[ 9/13] qt6-qt5compat-0:6.9.1-1.fc42.x8 100% |   1.7 MiB/s | 513.1 KiB |  00m00s
+[10/13] libcerf-0:2.4-1.fc42.x86_64     100% |  64.2 KiB/s |  36.6 KiB |  00m01s
+[11/13] qt6-qtshadertools-0:6.9.1-1.fc4 100% |   3.9 MiB/s |   2.0 MiB |  00m01s
+[12/13] libgfortran-0:15.1.1-2.fc42.x86 100% | 937.6 KiB/s | 957.3 KiB |  00m01s
+[13/13] libqalculate-0:5.5.0-1.fc42.x86 100% |   1.2 MiB/s |   2.3 MiB |  00m02s
+--------------------------------------------------------------------------------
+[13/13] Razem                           100% |   4.0 MiB/s |  12.1 MiB |  00m03s
+Wykonywanie transakcji
+[ 1/15] Weryfikowanie plików pakietu   100% | 325.0   B/s |  13.0   B |  00m00s
+[ 2/15] Przygotowywanie transakcji      100% |  88.0   B/s |  13.0   B |  00m00s
+[ 3/15] Instaluję qt6-qtshadertools-0: 100% | 104.3 MiB/s |   6.2 MiB |  00m00s
+[ 4/15] Instaluję qt6-qt5compat-0:6.9. 100% | 100.3 MiB/s |   1.7 MiB |  00m00s
+[ 5/15] Instaluję libcerf-0:2.4-1.fc42 100% |  11.7 MiB/s |  59.9 KiB |  00m00s
+[ 6/15] Instaluję libgfortran-0:15.1.1 100% | 185.7 MiB/s |   3.3 MiB |  00m00s
+[ 7/15] Instaluję openspecfun-0:0.5.3- 100% |  18.6 MiB/s | 171.6 KiB |  00m00s
+[ 8/15] Instaluję libimagequant-0:4.0. 100% |  76.6 MiB/s | 705.9 KiB |  00m00s
+[ 9/15] Instaluję libXpm-0:3.5.17-5.fc 100% |  25.0 MiB/s | 153.7 KiB |  00m00s
+[10/15] Instaluję gd-0:2.3.3-18.fc42.x 100% |  65.9 MiB/s | 404.7 KiB |  00m00s
+[11/15] Instaluję gnuplot-common-0:6.0 100% | 111.0 MiB/s |   1.8 MiB |  00m00s
+[12/15] Instaluję dejavu-sans-fonts-0: 100% | 239.5 MiB/s |   5.5 MiB |  00m00s
+[13/15] Instaluję gnuplot-0:6.0.1-5.fc 100% |  69.9 MiB/s |   2.0 MiB |  00m00s
+[14/15] Instaluję libqalculate-0:5.5.0 100% | 238.6 MiB/s |   8.8 MiB |  00m00s
+[15/15] Instaluję qalculate-gtk-0:5.5. 100% |  13.3 MiB/s |   6.8 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet           Arch.  Wersja        Repozytorium                                     Rozmiar
+Instalowanie:
+ nwg-displays    noarch 0.3.25-1.fc42 copr:copr.fedorainfracloud.org:tofik:nwg-shell 196.0 KiB
+Instalowanie zależności:
+ python3-cairo   x86_64 1.25.1-6.fc42 fedora                                         492.5 KiB
+ python3-gobject x86_64 3.50.0-3.fc42 fedora                                          19.8 KiB
+ python3-i3ipc   noarch 2.2.1-15.fc42 fedora                                         230.3 KiB
+ python3-six     noarch 1.17.0-2.fc42 fedora                                         116.9 KiB
+ python3-xlib    noarch 0.33-11.fc42  fedora                                           1.5 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          6 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 674 KiB. Należy pobrać 674 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/6] nwg-displays-0:0.3.25-1.fc42.noar 100% | 542.1 KiB/s |  66.1 KiB |  00m00s
+[2/6] python3-gobject-0:3.50.0-3.fc42.x 100% | 114.5 KiB/s |  16.5 KiB |  00m00s
+[3/6] python3-i3ipc-0:2.2.1-15.fc42.noa 100% | 423.6 KiB/s |  72.0 KiB |  00m00s
+[4/6] python3-cairo-0:1.25.1-6.fc42.x86 100% |   1.7 MiB/s | 124.0 KiB |  00m00s
+[5/6] python3-six-0:1.17.0-2.fc42.noarc 100% | 193.9 KiB/s |  41.3 KiB |  00m00s
+[6/6] python3-xlib-0:0.33-11.fc42.noarc 100% |   1.2 MiB/s | 354.4 KiB |  00m00s
+--------------------------------------------------------------------------------
+[6/6] Razem                             100% | 591.0 KiB/s | 674.3 KiB |  00m01s
+Wykonywanie transakcji
+[2A[1/7] https://download.copr.fedorainfra 100% |  28.9 KiB/s |   1.0 KiB |  00m00s
+--------------------------------------------------------------------------------
+[7/7] Razem                             100% | 591.0 KiB/s | 674.3 KiB |  00m01s
+Importowanie klucza OpenPGP 0x04763766:
+ Identyfikator użytkownika: "tofik_nwg-shell (None) <tofik#nwg-shell@copr.fedorahosted.org>"
+ Odcisk palca: 3BDCFC5EC736D2F5FA2FB6CDD84638CD04763766
+ Od       : https://download.copr.fedorainfracloud.org/results/tofik/nwg-shell/pubkey.gpg
+Klucz został pomyślnie zaimportowany.
+[1/8] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   6.0   B |  00m00s
+[2/8] Przygotowywanie transakcji        100% |  45.0   B/s |   6.0   B |  00m00s
+[3/8] Instaluję python3-cairo-0:1.25.1 100% |  23.1 MiB/s | 496.6 KiB |  00m00s
+[4/8] Instaluję python3-gobject-0:3.50 100% |   4.0 MiB/s |  20.5 KiB |  00m00s
+[5/8] Instaluję python3-six-0:1.17.0-2 100% |  14.5 MiB/s | 119.0 KiB |  00m00s
+[6/8] Instaluję python3-xlib-0:0.33-11 100% |  48.2 MiB/s |   1.5 MiB |  00m00s
+[7/8] Instaluję python3-i3ipc-0:2.2.1- 100% |  23.5 MiB/s | 240.2 KiB |  00m00s
+[8/8] Instaluję nwg-displays-0:0.3.25- 100% | 793.3 KiB/s | 203.1 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet    Arch.  Wersja       Repozytorium                                        Rozmiar
+Instalowanie:
+ cliphist x86_64 0.6.1-2.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland   2.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 876 KiB. Należy pobrać 876 KiB.
+Po tej operacji zostanie użyte dodatkowo 2 MiB (zainstaluje 2 MiB, usunie 0 B).
+[1/1] cliphist-0:0.6.1-2.fc42.x86_64    100% |   5.1 MiB/s | 876.3 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   5.1 MiB/s | 876.3 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 200.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję cliphist-0:0.6.1-2.fc4 100% |  10.1 MiB/s |   2.1 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet    Arch.  Wersja       Repozytorium                                        Rozmiar
+Instalowanie:
+ nwg-look x86_64 1.0.5-1.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland   4.5 MiB
+Instalowanie zależności:
+ xcur2png x86_64 0.7.1-2.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland  59.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 5 MiB (zainstaluje 5 MiB, usunie 0 B).
+[1/2] xcur2png-0:0.7.1-2.fc42.x86_64    100% | 524.8 KiB/s |  30.4 KiB |  00m00s
+[2/2] nwg-look-0:1.0.5-1.fc42.x86_64    100% |   8.0 MiB/s |   1.3 MiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% |   8.1 MiB/s |   1.3 MiB |  00m00s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% | 285.0   B/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  15.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję xcur2png-0:0.7.1-2.fc4 100% |   1.5 MiB/s |  60.3 KiB |  00m00s
+[4/4] Instaluję nwg-look-0:1.0.5-1.fc4 100% |  17.0 MiB/s |   4.5 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                  Arch.  Wersja        Repozytorium                                                          Rozmiar
+Instalowanie:
+ SwayNotificationCenter x86_64 0.11.0-1.fc42 coprdep:copr.fedorainfracloud.org:erikreider:SwayNotificationCenter 690.7 KiB
+Instalowanie zależności:
+ granite                x86_64 6.2.0-10.fc42 fedora                                                              957.0 KiB
+ libgee                 x86_64 0.20.8-1.fc42 fedora                                                              936.7 KiB
+ libhandy               x86_64 1.8.3-4.fc42  fedora                                                                1.4 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          4 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 4 MiB (zainstaluje 4 MiB, usunie 0 B).
+[1/4] SwayNotificationCenter-0:0.11.0-1 100% |   2.2 MiB/s | 218.2 KiB |  00m00s
+[2/4] libgee-0:0.20.8-1.fc42.x86_64     100% |   1.8 MiB/s | 276.6 KiB |  00m00s
+[3/4] granite-0:6.2.0-10.fc42.x86_64    100% |   2.1 MiB/s | 331.0 KiB |  00m00s
+[4/4] libhandy-0:1.8.3-4.fc42.x86_64    100% |   2.1 MiB/s | 395.5 KiB |  00m00s
+--------------------------------------------------------------------------------
+[4/4] Razem                             100% |   1.5 MiB/s |   1.2 MiB |  00m01s
+Wykonywanie transakcji
+[2A[1/5] https://download.copr.fedorainfra 100% |  28.6 KiB/s |   1.0 KiB |  00m00s
+--------------------------------------------------------------------------------
+[5/5] Razem                             100% |   1.5 MiB/s |   1.2 MiB |  00m01s
+Importowanie klucza OpenPGP 0x307F80B9:
+ Identyfikator użytkownika: "erikreider_SwayNotificationCenter (None) <erikreider#SwayNotificationCenter@copr.fedorahosted.org>"
+ Odcisk palca: 4EADDC9BC994C0AAA2133F6576EBF162307F80B9
+ Od       : https://download.copr.fedorainfracloud.org/results/erikreider/SwayNotificationCenter/pubkey.gpg
+Klucz został pomyślnie zaimportowany.
+[1/6] Weryfikowanie plików pakietu     100% | 666.0   B/s |   4.0   B |  00m00s
+[2/6] Przygotowywanie transakcji        100% |  30.0   B/s |   4.0   B |  00m00s
+[3/6] Instaluję libgee-0:0.20.8-1.fc42 100% |  41.7 MiB/s | 938.8 KiB |  00m00s
+[4/6] Instaluję granite-0:6.2.0-10.fc4 100% |  23.6 MiB/s | 990.7 KiB |  00m00s
+[5/6] Instaluję libhandy-0:1.8.3-4.fc4 100% |  91.2 MiB/s |   1.4 MiB |  00m00s
+[6/6] Instaluję SwayNotificationCenter 100% |   1.0 MiB/s | 693.8 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja        Repozytorium                                        Rozmiar
+Instalowanie:
+ swww  x86_64 0.10.3-1.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland   6.3 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 6 MiB (zainstaluje 6 MiB, usunie 0 B).
+[1/1] swww-0:0.10.3-1.fc42.x86_64       100% |   9.4 MiB/s |   1.6 MiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   9.3 MiB/s |   1.6 MiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 111.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   8.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję swww-0:0.10.3-1.fc42.x 100% |  24.0 MiB/s |   6.3 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet   Arch.  Wersja       Repozytorium                                              Rozmiar
+Instalowanie:
+ wallust x86_64 3.3.0-1.fc42 copr:copr.fedorainfracloud.org:errornointernet:packages   5.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 5 MiB (zainstaluje 5 MiB, usunie 0 B).
+[1/1] wallust-0:3.3.0-1.fc42.x86_64     100% |   9.3 MiB/s |   1.8 MiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   9.2 MiB/s |   1.8 MiB |  00m00s
+Wykonywanie transakcji
+[2A[1/2] https://download.copr.fedorainfra 100% | 838.0   B/s |   1.0 KiB |  00m01s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% |   9.2 MiB/s |   1.8 MiB |  00m00s
+Importowanie klucza OpenPGP 0x779A25A3:
+ Identyfikator użytkownika: "errornointernet_packages (None) <errornointernet#packages@copr.fedorahosted.org>"
+ Odcisk palca: 339A875661773076D76D58D5617D732A779A25A3
+ Od       : https://download.copr.fedorainfracloud.org/results/errornointernet/packages/pubkey.gpg
+Klucz został pomyślnie zaimportowany.
+[1/3] Weryfikowanie plików pakietu     100% | 100.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   7.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję wallust-0:3.3.0-1.fc42 100% |  19.6 MiB/s |   5.1 MiB |  00m00s
+Ukończono!

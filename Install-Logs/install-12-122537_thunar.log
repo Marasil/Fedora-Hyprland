@@ -1,0 +1,134 @@
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                  Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ ffmpegthumbnailer      x86_64 2.2.3-2.fc42 fedora        51.7 KiB
+Instalowanie zależności:
+ ffmpegthumbnailer-libs x86_64 2.2.3-2.fc42 fedora       262.7 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 130 KiB. Należy pobrać 130 KiB.
+Po tej operacji zostanie użyte dodatkowo 314 KiB (zainstaluje 314 KiB, usunie 0 B).
+[1/2] ffmpegthumbnailer-libs-0:2.2.3-2. 100% | 497.5 KiB/s | 102.0 KiB |  00m00s
+[2/2] ffmpegthumbnailer-0:2.2.3-2.fc42. 100% |  48.5 KiB/s |  28.3 KiB |  00m01s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% | 107.9 KiB/s | 130.3 KiB |  00m01s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  14.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję ffmpegthumbnailer-libs 100% |  14.3 MiB/s | 263.8 KiB |  00m00s
+[4/4] Instaluję ffmpegthumbnailer-0:2. 100% | 210.3 KiB/s |  53.4 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                     Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ Thunar                    x86_64 4.20.2-2.fc42  fedora        10.1 MiB
+Instalowanie zależności:
+ exo                       x86_64 4.20.0-2.fc42  fedora         2.2 MiB
+ garcon                    x86_64 4.20.0-2.fc42  fedora         1.2 MiB
+ gdk-pixbuf2-modules-extra x86_64 2.42.12-3.fc42 fedora       251.2 KiB
+ libXres                   x86_64 1.2.2-5.fc42   fedora        24.8 KiB
+ libwnck3                  x86_64 43.2-1.fc42    fedora         2.1 MiB
+ libxfce4windowing         x86_64 4.20.2-2.fc42  updates      381.3 KiB
+ tumbler                   x86_64 4.20.0-2.fc42  fedora       957.5 KiB
+ xfce4-panel               x86_64 4.20.4-1.fc42  updates        8.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          9 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 5 MiB. Należy pobrać 5 MiB.
+Po tej operacji zostanie użyte dodatkowo 25 MiB (zainstaluje 25 MiB, usunie 0 B).
+[1/9] libwnck3-0:43.2-1.fc42.x86_64     100% |   2.5 MiB/s | 407.8 KiB |  00m00s
+[2/9] libXres-0:1.2.2-5.fc42.x86_64     100% |   1.0 MiB/s |  15.2 KiB |  00m00s
+[3/9] exo-0:4.20.0-2.fc42.x86_64        100% |   2.5 MiB/s | 483.5 KiB |  00m00s
+[4/9] tumbler-0:4.20.0-2.fc42.x86_64    100% |   4.2 MiB/s | 260.1 KiB |  00m00s
+[5/9] gdk-pixbuf2-modules-extra-0:2.42. 100% |   3.2 MiB/s |  86.4 KiB |  00m00s
+[6/9] garcon-0:4.20.0-2.fc42.x86_64     100% | 889.9 KiB/s | 264.3 KiB |  00m00s
+[7/9] libxfce4windowing-0:4.20.2-2.fc42 100% |   1.2 MiB/s | 137.6 KiB |  00m00s
+[8/9] Thunar-0:4.20.2-2.fc42.x86_64     100% |   3.2 MiB/s |   1.9 MiB |  00m01s
+[9/9] xfce4-panel-0:4.20.4-1.fc42.x86_6 100% |   2.2 MiB/s |   1.3 MiB |  00m01s
+--------------------------------------------------------------------------------
+[9/9] Razem                             100% |   3.6 MiB/s |   4.8 MiB |  00m01s
+Wykonywanie transakcji
+[ 1/11] Weryfikowanie plików pakietu   100% | 473.0   B/s |   9.0   B |  00m00s
+[ 2/11] Przygotowywanie transakcji      100% |  61.0   B/s |   9.0   B |  00m00s
+[ 3/11] Instaluję exo-0:4.20.0-2.fc42. 100% |  40.6 MiB/s |   2.2 MiB |  00m00s
+[ 4/11] Instaluję gdk-pixbuf2-modules- 100% |  25.1 MiB/s | 256.7 KiB |  00m00s
+[ 5/11] Instaluję tumbler-0:4.20.0-2.f 100% |  34.0 MiB/s | 974.4 KiB |  00m00s
+[ 6/11] Instaluję libXres-0:1.2.2-5.fc 100% |   4.2 MiB/s |  26.0 KiB |  00m00s
+[ 7/11] Instaluję libwnck3-0:43.2-1.fc 100% |  50.7 MiB/s |   2.1 MiB |  00m00s
+[ 8/11] Instaluję libxfce4windowing-0: 100% |  27.3 MiB/s | 390.7 KiB |  00m00s
+[ 9/11] Instaluję garcon-0:4.20.0-2.fc 100% |  51.5 MiB/s |   1.2 MiB |  00m00s
+[10/11] Instaluję xfce4-panel-0:4.20.4 100% |  96.7 MiB/s |   8.1 MiB |  00m00s
+[11/11] Instaluję Thunar-0:4.20.2-2.fc 100% |  11.9 MiB/s |  10.1 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet         Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ thunar-volman x86_64 4.20.0-2.fc42 fedora         1.0 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 224 KiB. Należy pobrać 224 KiB.
+Po tej operacji zostanie użyte dodatkowo 1 MiB (zainstaluje 1 MiB, usunie 0 B).
+[1/1] thunar-volman-0:4.20.0-2.fc42.x86 100% | 779.7 KiB/s | 223.8 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 247.5 KiB/s | 223.8 KiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 333.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |  12.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję thunar-volman-0:4.20.0 100% |   3.8 MiB/s |   1.0 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                 Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ thunar-archive-plugin x86_64 0.5.3-2.fc42 fedora       368.1 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 111 KiB. Należy pobrać 111 KiB.
+Po tej operacji zostanie użyte dodatkowo 368 KiB (zainstaluje 368 KiB, usunie 0 B).
+[1/1] thunar-archive-plugin-0:0.5.3-2.f 100% | 365.9 KiB/s | 111.2 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 246.1 KiB/s | 111.2 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |   1.0 KiB/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   7.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję thunar-archive-plugin- 100% |   1.4 MiB/s | 382.8 KiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet         Arch.  Wersja          Repozytorium   Rozmiar
+Instalowanie:
+ xarchiver     x86_64 0.5.4.25-1.fc42 updates        1.5 MiB
+Instalowanie słabych zależności:
+ bzip2         x86_64 1.0.8-20.fc42   fedora        99.3 KiB
+ p7zip-plugins x86_64 16.02-32.fc42   fedora         2.7 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          3 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 4 MiB (zainstaluje 4 MiB, usunie 0 B).
+[1/3] bzip2-0:1.0.8-20.fc42.x86_64      100% | 329.5 KiB/s |  52.1 KiB |  00m00s
+[2/3] xarchiver-0:0.5.4.25-1.fc42.x86_6 100% |   2.7 MiB/s | 551.8 KiB |  00m00s
+[3/3] p7zip-plugins-0:16.02-32.fc42.x86 100% |   4.0 MiB/s |   1.0 MiB |  00m00s
+--------------------------------------------------------------------------------
+[3/3] Razem                             100% |   1.7 MiB/s |   1.6 MiB |  00m01s
+Wykonywanie transakcji
+[1/5] Weryfikowanie plików pakietu     100% | 333.0   B/s |   3.0   B |  00m00s
+[2/5] Przygotowywanie transakcji        100% |  20.0   B/s |   3.0   B |  00m00s
+[3/5] Instaluję p7zip-plugins-0:16.02- 100% |  57.8 MiB/s |   2.7 MiB |  00m00s
+[4/5] Instaluję bzip2-0:1.0.8-20.fc42. 100% |   4.8 MiB/s | 103.8 KiB |  00m00s
+[5/5] Instaluję xarchiver-0:0.5.4.25-1 100% |   4.6 MiB/s |   1.5 MiB |  00m00s
+Ukończono!
+[33m[NOTE][m Config for [33mgtk-3.0[m not found, copying from assets.
+[33m[NOTE][m Config for [33mThunar[m not found, copying from assets.
+[33m[NOTE][m Config for [33mxfce4[m not found, copying from assets.

@@ -1,0 +1,81 @@
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ lsd   x86_64 1.1.5-5.fc42 updates        3.6 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 1 MiB. Należy pobrać 1 MiB.
+Po tej operacji zostanie użyte dodatkowo 4 MiB (zainstaluje 4 MiB, usunie 0 B).
+[1/1] lsd-0:1.1.5-5.fc42.x86_64         100% |   4.7 MiB/s |   1.3 MiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   1.5 MiB/s |   1.3 MiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 125.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   6.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję lsd-0:1.1.5-5.fc42.x86 100% |  13.3 MiB/s |   3.6 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet Arch.  Wersja        Repozytorium   Rozmiar
+Instalowanie:
+ fzf   x86_64 0.62.0-1.fc42 updates        4.5 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 5 MiB (zainstaluje 5 MiB, usunie 0 B).
+[1/1] fzf-0:0.62.0-1.fc42.x86_64        100% |   3.6 MiB/s |   1.6 MiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   1.7 MiB/s |   1.6 MiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 142.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   6.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję fzf-0:0.62.0-1.fc42.x8 100% |  14.9 MiB/s |   4.5 MiB |  00m00s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet     Arch.  Wersja       Repozytorium   Rozmiar
+Instalowanie:
+ mercurial x86_64 6.9.5-1.fc42 updates       31.1 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 7 MiB. Należy pobrać 7 MiB.
+Po tej operacji zostanie użyte dodatkowo 31 MiB (zainstaluje 31 MiB, usunie 0 B).
+[1/1] mercurial-0:6.9.5-1.fc42.x86_64   100% |  11.0 MiB/s |   6.7 MiB |  00m01s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   5.8 MiB/s |   6.7 MiB |  00m01s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% |  43.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   5.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję mercurial-0:6.9.5-1.fc 100% |  35.5 MiB/s |  31.4 MiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                 Arch.  Wersja            Repozytorium   Rozmiar
+Instalowanie:
+ zsh                   x86_64 5.9-16.fc42       fedora         7.9 MiB
+Instalowanie słabych zależności:
+ yt-dlp-zsh-completion noarch 2025.05.22-2.fc42 updates        6.2 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          2 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 3 MiB. Należy pobrać 3 MiB.
+Po tej operacji zostanie użyte dodatkowo 8 MiB (zainstaluje 8 MiB, usunie 0 B).
+[1/2] yt-dlp-zsh-completion-0:2025.05.2 100% | 359.8 KiB/s |  12.6 KiB |  00m00s
+[2/2] zsh-0:5.9-16.fc42.x86_64          100% |   7.9 MiB/s |   3.3 MiB |  00m00s
+--------------------------------------------------------------------------------
+[2/2] Razem                             100% |   2.1 MiB/s |   3.3 MiB |  00m02s
+Wykonywanie transakcji
+[1/4] Weryfikowanie plików pakietu     100% | 153.0   B/s |   2.0   B |  00m00s
+[2/4] Przygotowywanie transakcji        100% |  11.0   B/s |   2.0   B |  00m00s
+[3/4] Instaluję zsh-0:5.9-16.fc42.x86_ 100% |  33.8 MiB/s |   8.1 MiB |  00m00s
+[4/4] Instaluję yt-dlp-zsh-completion- 100% |  19.2 KiB/s |   6.5 KiB |  00m00s
+Ukończono!
+[34m[INFO][m Shell changed successfully to [35mzsh[m

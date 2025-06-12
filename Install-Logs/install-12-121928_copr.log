@@ -1,0 +1,66 @@
+ https://copr.fedorainfracloud.org/api_ 100% | 502.0   B/s | 361.0   B |  00m01s
+Włączanie repozytorium Copr. Należy pamiętać, że to repozytorium nie jest częścią
+głównej dystrybucji, a jakość może się różnić.
+
+Projekt Fedora nie sprawuje żadnej władzy nad zawartością
+tego repozytorium poza zasadami określonymi w FAQ Copr pod adresem
+<https://docs.pagure.org/copr.copr/user_documentation.html#what-i-can-build-in-copr>,
+a pakiety nie są objęte żadnym poziomem jakości ani bezpieczeństwa.
+
+Prosimy nie zgłaszać błędów dotyczących tych pakietów w Bugzilli
+Fedory. W przypadku problemów skontaktuj się z właścicielem tego repozytorium.
+ https://copr.fedorainfracloud.org/api_ 100% | 954.0   B/s | 375.0   B |  00m00s
+Włączanie repozytorium Copr. Należy pamiętać, że to repozytorium nie jest częścią
+głównej dystrybucji, a jakość może się różnić.
+
+Projekt Fedora nie sprawuje żadnej władzy nad zawartością
+tego repozytorium poza zasadami określonymi w FAQ Copr pod adresem
+<https://docs.pagure.org/copr.copr/user_documentation.html#what-i-can-build-in-copr>,
+a pakiety nie są objęte żadnym poziomem jakości ani bezpieczeństwa.
+
+Prosimy nie zgłaszać błędów dotyczących tych pakietów w Bugzilli
+Fedory. W przypadku problemów skontaktuj się z właścicielem tego repozytorium.
+ https://copr.fedorainfracloud.org/api_ 100% |   1.3 KiB/s | 487.0   B |  00m00s
+Włączanie repozytorium Copr. Należy pamiętać, że to repozytorium nie jest częścią
+głównej dystrybucji, a jakość może się różnić.
+
+Projekt Fedora nie sprawuje żadnej władzy nad zawartością
+tego repozytorium poza zasadami określonymi w FAQ Copr pod adresem
+<https://docs.pagure.org/copr.copr/user_documentation.html#what-i-can-build-in-copr>,
+a pakiety nie są objęte żadnym poziomem jakości ani bezpieczeństwa.
+
+Prosimy nie zgłaszać błędów dotyczących tych pakietów w Bugzilli
+Fedory. W przypadku problemów skontaktuj się z właścicielem tego repozytorium.
+ https://copr.fedorainfracloud.org/api_ 100% |   3.3 KiB/s |   1.2 KiB |  00m00s
+Włączanie repozytorium Copr. Należy pamiętać, że to repozytorium nie jest częścią
+głównej dystrybucji, a jakość może się różnić.
+
+Projekt Fedora nie sprawuje żadnej władzy nad zawartością
+tego repozytorium poza zasadami określonymi w FAQ Copr pod adresem
+<https://docs.pagure.org/copr.copr/user_documentation.html#what-i-can-build-in-copr>,
+a pakiety nie są objęte żadnym poziomem jakości ani bezpieczeństwa.
+
+Prosimy nie zgłaszać błędów dotyczących tych pakietów w Bugzilli
+Fedory. W przypadku problemów skontaktuj się z właścicielem tego repozytorium.
+
+Opiekun włączonego repozytorium Copr zdecydował, że
+będzie ono zależne od innych repozytoriów. Takie repozytoria są
+zwykle niezbędne do pomyślnej instalacji RPM z
+głównego repozytorium Copr (zapewniają zależności czasu wykonania).
+
+Pamiętaj, że powyższa uwaga dotycząca jakości i zgłaszania błędów
+ma zastosowanie również tutaj, projekt Fedora nie kontroluje
+zawartości. Zapoznaj się z listą:
+
+  1. [coprdep:copr.fedorainfracloud.org:erikreider:SwayNotificationCenter]
+     baseurl=https://download.copr.fedorainfracloud.org/results/erikreider/SwayNotificationCenter/fedora-$releasever-$basearch/
+
+  2. [coprdep:copr.fedorainfracloud.org:mochaa:gtk-session-lock]
+     baseurl=https://download.copr.fedorainfracloud.org/results/mochaa/gtk-session-lock/fedora-$releasever-$basearch/
+
+  3. [coprdep:copr.fedorainfracloud.org:tofik:sway]
+     baseurl=https://download.copr.fedorainfracloud.org/results/tofik/sway/fedora-$releasever-$basearch/
+
+Te repozytoria są włączane razem z głównym
+repozytorium.
+

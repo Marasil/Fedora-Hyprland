@@ -1,0 +1,50 @@
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet       Arch.  Wersja                              Repozytorium   Rozmiar
+Instalowanie:
+ bluez-tools x86_64 0.2.0-0.27.git20170912.7cb788c.fc42 fedora       323.3 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 101 KiB. Należy pobrać 101 KiB.
+Po tej operacji zostanie użyte dodatkowo 323 KiB (zainstaluje 323 KiB, usunie 0 B).
+[1/1] bluez-tools-0:0.2.0-0.27.git20170 100% | 359.4 KiB/s | 101.0 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% | 226.4 KiB/s | 101.0 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 500.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   7.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję bluez-tools-0:0.2.0-0. 100% | 528.7 KiB/s | 327.3 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet       Arch.  Wersja         Repozytorium   Rozmiar
+Instalowanie:
+ blueman     x86_64 1:2.4.4-2.fc42 fedora         5.9 MiB
+Instalowanie zależności:
+ bluez-obexd x86_64 5.81-2.fc42    updates      346.6 KiB
+ libical     x86_64 3.0.20-1.fc42  fedora         1.6 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          3 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 2 MiB. Należy pobrać 2 MiB.
+Po tej operacji zostanie użyte dodatkowo 8 MiB (zainstaluje 8 MiB, usunie 0 B).
+[1/3] blueman-1:2.4.4-2.fc42.x86_64     100% |   3.4 MiB/s |   1.6 MiB |  00m00s
+[2/3] bluez-obexd-0:5.81-2.fc42.x86_64  100% | 303.0 KiB/s | 148.2 KiB |  00m00s
+[3/3] libical-0:3.0.20-1.fc42.x86_64    100% | 573.8 KiB/s | 283.5 KiB |  00m00s
+--------------------------------------------------------------------------------
+[3/3] Razem                             100% |   1.9 MiB/s |   2.0 MiB |  00m01s
+Wykonywanie transakcji
+[1/5] Weryfikowanie plików pakietu     100% | 300.0   B/s |   3.0   B |  00m00s
+[2/5] Przygotowywanie transakcji        100% |  20.0   B/s |   3.0   B |  00m00s
+[3/5] Instaluję libical-0:3.0.20-1.fc4 100% |  65.7 MiB/s |   1.6 MiB |  00m00s
+[4/5] Instaluję bluez-obexd-0:5.81-2.f 100% |   8.7 MiB/s | 347.9 KiB |  00m00s
+>>> Uruchamianie scriptletu post-install: bluez-obexd-0:5.81-2.fc42.x86_64      
+>>> Zakończono post-install scriptlet: bluez-obexd-0:5.81-2.fc42.x86_64         
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/user/dbus-org.bluez.obex.service' → '/usr/lib/
+>>>                                                                             
+[5/5] Instaluję blueman-1:2.4.4-2.fc42 100% |   5.3 MiB/s |   6.0 MiB |  00m01s
+Ukończono!

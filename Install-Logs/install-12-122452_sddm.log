@@ -1,0 +1,118 @@
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                      Arch.  Wersja          Repozytorium   Rozmiar
+Instalowanie:
+ sddm                       x86_64 0.21.0-9.fc42   fedora         1.7 MiB
+Instalowanie zależności:
+ aml                        x86_64 0.3.0-7.fc42    fedora        31.3 KiB
+ desktop-backgrounds-compat noarch 42.0.0-2.fc42   fedora       317.0   B
+ f42-backgrounds-base       noarch 42.0.0-3.fc42   fedora         1.7 MiB
+ fedora-logos               noarch 42.0.1-1.fc42   fedora         1.7 MiB
+ freerdp-libs               x86_64 2:3.12.0-1.fc42 fedora         3.6 MiB
+ ghostscript                x86_64 10.05.1-3.fc42  updates       30.8 KiB
+ ghostscript-tools-fonts    noarch 10.05.1-3.fc42  updates        2.5 KiB
+ ghostscript-tools-printing noarch 10.05.1-3.fc42  updates        3.5 KiB
+ jxrlib                     x86_64 1.1-30.fc42     fedora       775.9 KiB
+ kf6-karchive               x86_64 6.14.0-2.fc42   updates      728.1 KiB
+ kf6-kimageformats          x86_64 6.14.0-1.fc42   updates        2.2 MiB
+ libmpc                     x86_64 1.3.1-7.fc42    fedora       164.5 KiB
+ libwinpr                   x86_64 2:3.12.0-1.fc42 fedora         1.2 MiB
+ neatvnc                    x86_64 0.9.0-3.fc42    fedora       159.6 KiB
+ poppler-utils              x86_64 25.02.0-1.fc42  fedora       766.6 KiB
+ sddm-wayland-generic       noarch 0.21.0-9.fc42   fedora         0.0   B
+ setxkbmap                  x86_64 1.3.4-5.fc42    fedora        31.2 KiB
+ turbojpeg                  x86_64 3.1.0-2.fc42    fedora       921.1 KiB
+ uriparser                  x86_64 0.9.8-3.fc42    fedora       137.7 KiB
+ weston                     x86_64 14.0.1-3.fc42   fedora         1.3 MiB
+ weston-libs                x86_64 14.0.1-3.fc42   fedora         1.3 MiB
+ xhost                      x86_64 1.0.9-9.fc42    fedora        25.3 KiB
+ xmodmap                    x86_64 1.0.11-8.fc42   fedora        47.2 KiB
+ xorg-x11-xauth             x86_64 1:1.1.3-3.fc42  fedora        52.0 KiB
+ xorg-x11-xinit             x86_64 1.4.3-2.fc42    fedora       142.1 KiB
+ xrdb                       x86_64 1.2.2-5.fc42    fedora        42.6 KiB
+Instalowanie słabych zależności:
+ cpp                        x86_64 15.1.1-2.fc42   updates       37.9 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         28 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 22 MiB. Należy pobrać 22 MiB.
+Po tej operacji zostanie użyte dodatkowo 56 MiB (zainstaluje 56 MiB, usunie 0 B).
+[ 1/28] setxkbmap-0:1.3.4-5.fc42.x86_64 100% | 197.8 KiB/s |  22.3 KiB |  00m00s
+[ 2/28] xhost-0:1.0.9-9.fc42.x86_64     100% | 658.3 KiB/s |  20.4 KiB |  00m00s
+[ 3/28] xorg-x11-xinit-0:1.4.3-2.fc42.x 100% | 345.3 KiB/s |  59.7 KiB |  00m00s
+[ 4/28] xmodmap-0:1.0.11-8.fc42.x86_64  100% | 820.9 KiB/s |  31.2 KiB |  00m00s
+[ 5/28] desktop-backgrounds-compat-0:42 100% |  47.7 KiB/s |   9.5 KiB |  00m00s
+[ 6/28] xorg-x11-xauth-1:1.1.3-3.fc42.x 100% | 620.0 KiB/s |  34.1 KiB |  00m00s
+[ 7/28] xrdb-0:1.2.2-5.fc42.x86_64      100% | 632.1 KiB/s |  29.1 KiB |  00m00s
+[ 8/28] sddm-0:0.21.0-9.fc42.x86_64     100% |   2.3 MiB/s | 685.3 KiB |  00m00s
+[ 9/28] ghostscript-0:10.05.1-3.fc42.x8 100% |   1.4 MiB/s |  36.3 KiB |  00m00s
+[10/28] ghostscript-tools-fonts-0:10.05 100% | 569.0 KiB/s |  11.9 KiB |  00m00s
+[11/28] ghostscript-tools-printing-0:10 100% | 632.4 KiB/s |  12.6 KiB |  00m00s
+[12/28] kf6-kimageformats-0:6.14.0-1.fc 100% |   3.4 MiB/s | 597.3 KiB |  00m00s
+[13/28] sddm-wayland-generic-0:0.21.0-9 100% | 320.9 KiB/s |   9.3 KiB |  00m00s
+[14/28] kf6-karchive-0:6.14.0-2.fc42.x8 100% |   3.1 MiB/s | 200.3 KiB |  00m00s
+[15/28] jxrlib-0:1.1-30.fc42.x86_64     100% |   1.4 MiB/s | 457.2 KiB |  00m00s
+[16/28] poppler-utils-0:25.02.0-1.fc42. 100% | 829.5 KiB/s | 287.0 KiB |  00m00s
+[17/28] aml-0:0.3.0-7.fc42.x86_64       100% | 722.7 KiB/s |  18.8 KiB |  00m00s
+[18/28] weston-0:14.0.1-3.fc42.x86_64   100% |   3.3 MiB/s | 661.8 KiB |  00m00s
+[19/28] fedora-logos-0:42.0.1-1.fc42.no 100% |   5.4 MiB/s |   1.5 MiB |  00m00s
+[20/28] weston-libs-0:14.0.1-3.fc42.x86 100% |   2.3 MiB/s | 447.2 KiB |  00m00s
+[21/28] libwinpr-2:3.12.0-1.fc42.x86_64 100% |   2.9 MiB/s | 388.8 KiB |  00m00s
+[22/28] uriparser-0:0.9.8-3.fc42.x86_64 100% |   3.4 MiB/s |  58.5 KiB |  00m00s
+[23/28] neatvnc-0:0.9.0-3.fc42.x86_64   100% | 783.3 KiB/s |  79.1 KiB |  00m00s
+[24/28] f42-backgrounds-base-0:42.0.0-3 100% |   2.2 MiB/s |   1.7 MiB |  00m01s
+[25/28] libmpc-0:1.3.1-7.fc42.x86_64    100% |   3.1 MiB/s |  70.9 KiB |  00m00s
+[26/28] turbojpeg-0:3.1.0-2.fc42.x86_64 100% |   1.7 MiB/s | 286.1 KiB |  00m00s
+[27/28] freerdp-libs-2:3.12.0-1.fc42.x8 100% |   2.6 MiB/s |   1.3 MiB |  00m01s
+[28/28] cpp-0:15.1.1-2.fc42.x86_64      100% |   5.1 MiB/s |  12.9 MiB |  00m03s
+--------------------------------------------------------------------------------
+[28/28] Razem                           100% |   4.0 MiB/s |  21.9 MiB |  00m06s
+Wykonywanie transakcji
+[ 1/30] Weryfikowanie plików pakietu   100% | 400.0   B/s |  28.0   B |  00m00s
+[ 2/30] Przygotowywanie transakcji      100% | 181.0   B/s |  28.0   B |  00m00s
+[ 3/30] Instaluję ghostscript-tools-fo 100% | 103.6 KiB/s |   3.4 KiB |  00m00s
+[ 4/30] Instaluję ghostscript-tools-pr 100% | 266.4 KiB/s |   5.1 KiB |  00m00s
+[ 5/30] Instaluję ghostscript-0:10.05. 100% |   1.6 MiB/s |  35.3 KiB |  00m00s
+[ 6/30] Instaluję aml-0:0.3.0-7.fc42.x 100% |   6.4 MiB/s |  32.7 KiB |  00m00s
+[ 7/30] Instaluję libmpc-0:1.3.1-7.fc4 100% |  27.0 MiB/s | 166.1 KiB |  00m00s
+[ 8/30] Instaluję turbojpeg-0:3.1.0-2. 100% | 112.6 MiB/s | 922.8 KiB |  00m00s
+[ 9/30] Instaluję neatvnc-0:0.9.0-3.fc 100% |  22.5 MiB/s | 161.0 KiB |  00m00s
+[10/30] Instaluję uriparser-0:0.9.8-3. 100% |   6.5 MiB/s | 139.8 KiB |  00m00s
+[11/30] Instaluję libwinpr-2:3.12.0-1. 100% | 109.3 MiB/s |   1.2 MiB |  00m00s
+[12/30] Instaluję freerdp-libs-2:3.12. 100% | 149.3 MiB/s |   3.6 MiB |  00m00s
+[13/30] Instaluję weston-libs-0:14.0.1 100% |  83.9 MiB/s |   1.3 MiB |  00m00s
+[14/30] Instaluję weston-0:14.0.1-3.fc 100% |  37.5 MiB/s |   1.3 MiB |  00m00s
+[15/30] Instaluję fedora-logos-0:42.0. 100% |  48.7 MiB/s |   1.7 MiB |  00m00s
+[16/30] Instaluję kf6-karchive-0:6.14. 100% |  45.0 MiB/s | 736.8 KiB |  00m00s
+[17/30] Instaluję poppler-utils-0:25.0 100% |  29.1 MiB/s | 774.4 KiB |  00m00s
+[18/30] Instaluję jxrlib-0:1.1-30.fc42 100% |  34.6 MiB/s | 778.6 KiB |  00m00s
+[19/30] Instaluję kf6-kimageformats-0: 100% | 110.6 MiB/s |   2.2 MiB |  00m00s
+[20/30] Instaluję f42-backgrounds-base 100% | 218.2 MiB/s |   1.7 MiB |  00m00s
+[21/30] Instaluję desktop-backgrounds- 100% | 571.3 KiB/s |   2.3 KiB |  00m00s
+[22/30] Instaluję xrdb-0:1.2.2-5.fc42. 100% |   2.2 MiB/s |  43.7 KiB |  00m00s
+[23/30] Instaluję xorg-x11-xauth-1:1.1 100% |   2.7 MiB/s |  53.3 KiB |  00m00s
+[24/30] Instaluję xmodmap-0:1.0.11-8.f 100% |   2.5 MiB/s |  48.3 KiB |  00m00s
+[25/30] Instaluję xhost-0:1.0.9-9.fc42 100% |   1.4 MiB/s |  26.4 KiB |  00m00s
+[26/30] Instaluję setxkbmap-0:1.3.4-5. 100% |   1.7 MiB/s |  32.3 KiB |  00m00s
+[27/30] Instaluję xorg-x11-xinit-0:1.4 100% |   6.8 MiB/s | 145.2 KiB |  00m00s
+[28/30] Instaluję sddm-wayland-generic 100% |   1.0 KiB/s | 124.0   B |  00m00s
+>>> Uruchamianie scriptletu sysusers: sddm-0:0.21.0-9.fc42.x86_64               
+>>> Zakończono sysusers scriptlet: sddm-0:0.21.0-9.fc42.x86_64                  
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Creating group 'sddm' with GID 988.                                         
+>>> Creating user 'sddm' (SDDM Greeter Account) with UID 988 and GID 988.       
+>>>                                                                             
+[29/30] Instaluję sddm-0:0.21.0-9.fc42 100% |  18.6 MiB/s |   1.7 MiB |  00m00s
+>>> Uruchamianie scriptletu post-install: sddm-0:0.21.0-9.fc42.x86_64           
+>>> Zakończono post-install scriptlet: sddm-0:0.21.0-9.fc42.x86_64              
+>>> Dane wyjściowe scriptletu:                                                  
+>>> Created symlink '/etc/systemd/system/display-manager.service' → '/usr/lib/sy
+>>>                                                                             
+[30/30] Instaluję cpp-0:15.1.1-2.fc42. 100% |  36.2 MiB/s |  37.9 MiB |  00m01s
+Ukończono!
+Failed to disable unit: Unit lightdm.service does not exist
+Failed to disable unit: Unit gdm.service does not exist
+Failed to disable unit: Unit lxdm.service does not exist
+Removed '/etc/systemd/system/default.target'.
+Created symlink '/etc/systemd/system/default.target' → '/usr/lib/systemd/system/graphical.target'.

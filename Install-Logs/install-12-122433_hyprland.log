@@ -1,0 +1,158 @@
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet                       Arch.  Wersja             Repozytorium                                        Rozmiar
+Instalowanie:
+ hyprland                    x86_64 0.49.0-1.fc42      copr:copr.fedorainfracloud.org:solopasha:hyprland  57.2 MiB
+Instalowanie zależności:
+ abseil-cpp                  x86_64 20240722.1-1.fc42  fedora                                              2.3 MiB
+ aquamarine                  x86_64 0.8.0-2.fc42       copr:copr.fedorainfracloud.org:solopasha:hyprland   1.2 MiB
+ hyprcursor                  x86_64 0.1.12-1.fc42      copr:copr.fedorainfracloud.org:solopasha:hyprland 670.2 KiB
+ hyprgraphics                x86_64 0.1.3-2.fc42       copr:copr.fedorainfracloud.org:solopasha:hyprland 179.9 KiB
+ libXdmcp                    x86_64 1.1.5-3.fc42       fedora                                             82.2 KiB
+ libXfont2                   x86_64 2.0.7-2.fc42       fedora                                            338.5 KiB
+ libei                       x86_64 1.4.1-1.fc42       updates                                           115.3 KiB
+ libfontenc                  x86_64 1.1.8-3.fc42       fedora                                             70.9 KiB
+ libglvnd-gles               x86_64 1:1.7.0-7.fc42     fedora                                            105.9 KiB
+ liboeffis                   x86_64 1.4.1-1.fc42       updates                                            33.0 KiB
+ libseat                     x86_64 0.9.1-2.fc42       fedora                                             47.7 KiB
+ libspng                     x86_64 0.7.4-7.fc42       fedora                                             82.4 KiB
+ libxcvt                     x86_64 0.1.2-9.fc42       fedora                                             14.5 KiB
+ libxkbfile                  x86_64 1.1.3-3.fc42       fedora                                            197.9 KiB
+ python3-dasbus              noarch 1.7-9.fc42         fedora                                            398.2 KiB
+ python3-pyxdg               noarch 0.27-14.fc42       fedora                                            433.2 KiB
+ re2                         x86_64 1:20240702-28.fc42 fedora                                            566.0 KiB
+ tomlplusplus                x86_64 3.4.0-5.fc42       fedora                                            258.1 KiB
+ uwsm                        noarch 0.21.8-1.fc42      copr:copr.fedorainfracloud.org:solopasha:hyprland 508.5 KiB
+ wlr-randr                   x86_64 0.5.0-1.fc42       fedora                                             30.7 KiB
+ xcb-util-errors             x86_64 1.0.1-5.fc42       fedora                                             40.5 KiB
+ xkbcomp                     x86_64 1.4.7-3.fc42       fedora                                            217.1 KiB
+ xorg-x11-server-Xwayland    x86_64 24.1.6-1.fc42      fedora                                              2.3 MiB
+Instalowanie słabych zależności:
+ hyprland-qtutils            x86_64 0.1.4-2.fc42       copr:copr.fedorainfracloud.org:solopasha:hyprland 442.4 KiB
+ hyprland-uwsm               x86_64 0.49.0-1.fc42      copr:copr.fedorainfracloud.org:solopasha:hyprland 177.0   B
+ hyprpicker                  x86_64 0.4.5-1.fc42       copr:copr.fedorainfracloud.org:solopasha:hyprland 243.8 KiB
+ nwg-bar                     x86_64 0.1.6-1.fc42       copr:copr.fedorainfracloud.org:tofik:nwg-shell      4.6 MiB
+ nwg-panel                   noarch 0.9.62-1.fc42      fedora                                              2.6 MiB
+ pulseaudio-utils            x86_64 17.0-5.fc42        fedora                                            259.2 KiB
+ python3-netifaces           x86_64 0.11.0-12.fc42     fedora                                             40.5 KiB
+ python3-psutil              x86_64 6.1.1-2.fc42       fedora                                              1.4 MiB
+ wofi                        x86_64 1.4.1-6.fc42       fedora                                            155.5 KiB
+ xdg-desktop-portal-hyprland x86_64 1:1.3.9-6.fc42     copr:copr.fedorainfracloud.org:solopasha:hyprland 886.6 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                         34 pakietów
+
+Całkowity rozmiar pakietów przychodzących wynosi 54 MiB. Należy pobrać 54 MiB.
+Po tej operacji zostanie użyte dodatkowo 78 MiB (zainstaluje 78 MiB, usunie 0 B).
+[ 1/34] libglvnd-gles-1:1.7.0-7.fc42.x8 100% | 381.2 KiB/s |  28.6 KiB |  00m00s
+[ 2/34] hyprgraphics-0:0.1.3-2.fc42.x86 100% | 839.8 KiB/s |  84.0 KiB |  00m00s
+[ 3/34] aquamarine-0:0.8.0-2.fc42.x86_6 100% |   2.8 MiB/s | 397.9 KiB |  00m00s
+[ 4/34] tomlplusplus-0:3.4.0-5.fc42.x86 100% |   1.5 MiB/s | 104.2 KiB |  00m00s
+[ 5/34] libseat-0:0.9.1-2.fc42.x86_64   100% |   1.0 MiB/s |  28.5 KiB |  00m00s
+[ 6/34] re2-1:20240702-28.fc42.x86_64   100% |   1.1 MiB/s | 222.9 KiB |  00m00s
+[ 7/34] libspng-0:0.7.4-7.fc42.x86_64   100% |   1.3 MiB/s |  46.1 KiB |  00m00s
+[ 8/34] xcb-util-errors-0:1.0.1-5.fc42. 100% | 158.8 KiB/s |  19.5 KiB |  00m00s
+[ 9/34] libXdmcp-0:1.1.5-3.fc42.x86_64  100% |   1.4 MiB/s |  37.2 KiB |  00m00s
+[10/34] libxcvt-0:0.1.2-9.fc42.x86_64   100% | 568.2 KiB/s |  13.6 KiB |  00m00s
+[11/34] libfontenc-0:1.1.8-3.fc42.x86_6 100% | 540.1 KiB/s |  32.4 KiB |  00m00s
+[12/34] libXfont2-0:2.0.7-2.fc42.x86_64 100% |   1.3 MiB/s | 148.4 KiB |  00m00s
+[13/34] liboeffis-0:1.4.1-1.fc42.x86_64 100% | 661.0 KiB/s |  22.5 KiB |  00m00s
+[14/34] libei-0:1.4.1-1.fc42.x86_64     100% |   1.2 MiB/s |  52.6 KiB |  00m00s
+[15/34] xkbcomp-0:1.4.7-3.fc42.x86_64   100% | 216.7 KiB/s | 101.2 KiB |  00m00s
+[16/34] libxkbfile-0:1.1.3-3.fc42.x86_6 100% |  71.4 KiB/s |  92.0 KiB |  00m01s
+[17/34] hyprcursor-0:0.1.12-1.fc42.x86_ 100% | 192.3 KiB/s | 223.1 KiB |  00m01s
+[18/34] abseil-cpp-0:20240722.1-1.fc42. 100% | 395.3 KiB/s | 718.6 KiB |  00m02s
+[19/34] xdg-desktop-portal-hyprland-1:1 100% | 269.2 KiB/s | 336.5 KiB |  00m01s
+[20/34] wlr-randr-0:0.5.0-1.fc42.x86_64 100% |  12.8 KiB/s |  21.9 KiB |  00m02s
+[21/34] python3-dasbus-0:1.7-9.fc42.noa 100% |  43.3 KiB/s | 119.9 KiB |  00m03s
+[22/34] nwg-panel-0:0.9.62-1.fc42.noarc 100% | 131.6 KiB/s | 466.1 KiB |  00m04s
+[23/34] wofi-0:1.4.1-6.fc42.x86_64      100% |  89.9 KiB/s |  79.7 KiB |  00m01s
+[24/34] hyprland-qtutils-0:0.1.4-2.fc42 100% | 111.6 KiB/s | 124.1 KiB |  00m01s
+[25/34] hyprland-uwsm-0:0.49.0-1.fc42.x 100% |  12.7 KiB/s |   7.6 KiB |  00m01s
+[26/34] python3-pyxdg-0:0.27-14.fc42.no 100% | 165.2 KiB/s | 131.0 KiB |  00m01s
+[27/34] uwsm-0:0.21.8-1.fc42.noarch     100% | 143.0 KiB/s | 154.2 KiB |  00m01s
+[28/34] python3-psutil-0:6.1.1-2.fc42.x 100% | 337.8 KiB/s | 275.3 KiB |  00m01s
+[29/34] python3-netifaces-0:0.11.0-12.f 100% | 655.8 KiB/s |  22.3 KiB |  00m00s
+[30/34] nwg-bar-0:0.1.6-1.fc42.x86_64   100% | 884.5 KiB/s |   1.3 MiB |  00m02s
+[31/34] hyprpicker-0:0.4.5-1.fc42.x86_6 100% |  81.3 KiB/s | 101.0 KiB |  00m01s
+[32/34] pulseaudio-utils-0:17.0-5.fc42. 100% | 163.8 KiB/s |  89.3 KiB |  00m01s
+[33/34] hyprland-0:0.49.0-1.fc42.x86_64 100% |   5.5 MiB/s |  47.4 MiB |  00m09s
+[34/34] xorg-x11-server-Xwayland-0:24.1 100% | 118.4 KiB/s |   1.0 MiB |  00m09s
+--------------------------------------------------------------------------------
+[34/34] Razem                           100% |   5.3 MiB/s |  54.0 MiB |  00m10s
+Wykonywanie transakcji
+[ 1/36] Weryfikowanie plików pakietu   100% | 176.0   B/s |  34.0   B |  00m00s
+[ 2/36] Przygotowywanie transakcji      100% | 225.0   B/s |  34.0   B |  00m00s
+[ 3/36] Instaluję tomlplusplus-0:3.4.0 100% |  14.1 MiB/s | 259.5 KiB |  00m00s
+[ 4/36] Instaluję hyprcursor-0:0.1.12- 100% |  26.3 MiB/s | 672.0 KiB |  00m00s
+[ 5/36] Instaluję python3-pyxdg-0:0.27 100% |  39.3 MiB/s | 442.5 KiB |  00m00s
+[ 6/36] Instaluję uwsm-0:0.21.8-1.fc42 100% |   8.9 MiB/s | 516.6 KiB |  00m00s
+[ 7/36] Instaluję wlr-randr-0:0.5.0-1. 100% |   1.5 MiB/s |  32.1 KiB |  00m00s
+[ 8/36] Instaluję python3-dasbus-0:1.7 100% |  27.0 MiB/s | 414.5 KiB |  00m00s
+[ 9/36] Instaluję libxkbfile-0:1.1.3-3 100% |  32.4 MiB/s | 199.1 KiB |  00m00s
+[10/36] Instaluję xkbcomp-0:1.4.7-3.fc 100% |  11.2 MiB/s | 218.2 KiB |  00m00s
+[11/36] Instaluję liboeffis-0:1.4.1-1. 100% |   4.2 MiB/s |  34.1 KiB |  00m00s
+[12/36] Instaluję libei-0:1.4.1-1.fc42 100% |  18.9 MiB/s | 116.4 KiB |  00m00s
+[13/36] Instaluję libfontenc-0:1.1.8-3 100% |  14.1 MiB/s |  72.3 KiB |  00m00s
+[14/36] Instaluję libXfont2-0:2.0.7-2. 100% |  47.5 MiB/s | 340.2 KiB |  00m00s
+[15/36] Instaluję libxcvt-0:0.1.2-9.fc 100% |   3.8 MiB/s |  15.6 KiB |  00m00s
+[16/36] Instaluję libXdmcp-0:1.1.5-3.f 100% |  16.4 MiB/s |  83.7 KiB |  00m00s
+[17/36] Instaluję xorg-x11-server-Xway 100% |  82.3 MiB/s |   2.3 MiB |  00m00s
+[18/36] Instaluję abseil-cpp-0:2024072 100% |  61.4 MiB/s |   2.3 MiB |  00m00s
+[19/36] Instaluję re2-1:20240702-28.fc 100% |  69.3 MiB/s | 567.4 KiB |  00m00s
+[20/36] Instaluję libspng-0:0.7.4-7.fc 100% |  16.4 MiB/s |  83.9 KiB |  00m00s
+[21/36] Instaluję hyprgraphics-0:0.1.3 100% |  29.5 MiB/s | 181.3 KiB |  00m00s
+[22/36] Instaluję libseat-0:0.9.1-2.fc 100% |   8.0 MiB/s |  49.0 KiB |  00m00s
+[23/36] Instaluję aquamarine-0:0.8.0-2 100% | 125.1 MiB/s |   1.3 MiB |  00m00s
+[24/36] Instaluję xcb-util-errors-0:1. 100% |   8.1 MiB/s |  41.6 KiB |  00m00s
+[25/36] Instaluję libglvnd-gles-1:1.7. 100% |  21.0 MiB/s | 107.3 KiB |  00m00s
+[26/36] Instaluję hyprland-0:0.49.0-1. 100% | 286.1 MiB/s |  57.2 MiB |  00m00s
+[27/36] Instaluję nwg-panel-0:0.9.62-1 100% |  28.6 MiB/s |   2.7 MiB |  00m00s
+[28/36] Instaluję hyprland-uwsm-0:0.49 100% | 114.3 KiB/s | 468.0   B |  00m00s
+[29/36] Instaluję pulseaudio-utils-0:1 100% |  10.0 MiB/s | 265.1 KiB |  00m00s
+[30/36] Instaluję python3-netifaces-0: 100% |   6.9 MiB/s |  42.6 KiB |  00m00s
+[31/36] Instaluję python3-psutil-0:6.1 100% | 110.5 MiB/s |   1.4 MiB |  00m00s
+[32/36] Instaluję hyprpicker-0:0.4.5-1 100% |  11.4 MiB/s | 245.2 KiB |  00m00s
+[33/36] Instaluję nwg-bar-0:0.1.6-1.fc 100% | 135.5 MiB/s |   4.6 MiB |  00m00s
+[34/36] Instaluję wofi-0:1.4.1-6.fc42. 100% |   7.7 MiB/s | 157.3 KiB |  00m00s
+[35/36] Instaluję hyprland-qtutils-0:0 100% |  20.7 MiB/s | 444.6 KiB |  00m00s
+[36/36] Instaluję xdg-desktop-portal-h 100% | 734.7 KiB/s | 888.9 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet    Arch.  Wersja       Repozytorium                                        Rozmiar
+Instalowanie:
+ hypridle x86_64 0.1.6-3.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland 458.6 KiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 191 KiB. Należy pobrać 191 KiB.
+Po tej operacji zostanie użyte dodatkowo 459 KiB (zainstaluje 459 KiB, usunie 0 B).
+[1/1] hypridle-0:0.1.6-3.fc42.x86_64    100% |   2.0 MiB/s | 191.5 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   2.0 MiB/s | 191.5 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 333.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   7.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję hypridle-0:0.1.6-3.fc4 100% | 842.7 KiB/s | 460.1 KiB |  00m01s
+Ukończono!
+Aktualizowanie i ładowanie repozytoriów:
+Załadowano repozytoria.
+Pakiet    Arch.  Wersja       Repozytorium                                        Rozmiar
+Instalowanie:
+ hyprlock x86_64 0.8.2-1.fc42 copr:copr.fedorainfracloud.org:solopasha:hyprland   1.0 MiB
+
+Podsumowanie transakcji:
+ Instalowanie:                          1 pakietu
+
+Całkowity rozmiar pakietów przychodzących wynosi 373 KiB. Należy pobrać 373 KiB.
+Po tej operacji zostanie użyte dodatkowo 1 MiB (zainstaluje 1 MiB, usunie 0 B).
+[1/1] hyprlock-0:0.8.2-1.fc42.x86_64    100% |   3.1 MiB/s | 373.4 KiB |  00m00s
+--------------------------------------------------------------------------------
+[1/1] Razem                             100% |   3.0 MiB/s | 373.4 KiB |  00m00s
+Wykonywanie transakcji
+[1/3] Weryfikowanie plików pakietu     100% | 333.0   B/s |   1.0   B |  00m00s
+[2/3] Przygotowywanie transakcji        100% |   7.0   B/s |   1.0   B |  00m00s
+[3/3] Instaluję hyprlock-0:0.8.2-1.fc4 100% |   4.8 MiB/s |   1.0 MiB |  00m00s
+Ukończono!
