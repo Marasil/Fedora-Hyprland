@@ -402,6 +402,8 @@ if rpm -q hyprland &> /dev/null || rpm -q hyprland-git &> /dev/null; then
     printf "\n%.0s" {1..2}
 
     printf "\n${NOTE} You can start Hyprland by typing ${SKY_BLUE}Hyprland${RESET} (IF SDDM is not installed) (note the capital H!).\n"
+	# Twój post-instalacyjny skrypt z configami
+	bash ./post-setup.sh
     printf "\n${NOTE} However, it is ${YELLOW}highly recommended to reboot${RESET} your system.\n\n"
 
     while true; do
